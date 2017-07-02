@@ -23,9 +23,11 @@ AntShares [SDKs](https://github.com/AntSharesSDK) for Python, Typescript, and Ru
 
 A [cleaner JS SDK wrapper](https://github.com/neochainio/neowallet/blob/master/js/wallet.js) in Neowallet (third party wallet implementation)
 
+Source code for the [official web wallet](https://github.com/AntShares/AntSharesApp/tree/master/AntSharesApp/www)
+
 Good example of how to [send ANS in Python](https://github.com/AntSharesSDK/antshares-python/blob/master/sdk/AntShares/Wallets/Wallet.py) using `sendrawtransaction`
 
-To understand better how this code works, [the network protocol docs](http://docs.antshares.org/en-us/node/network-protocol.html)
+To understand how this code works, [the network protocol docs](http://docs.antshares.org/en-us/node/network-protocol.html)
  
 ## Developer community links:
 The AntShares [slack](https://antshares-slack.herokuapp.com/) channel (join #dev):
@@ -34,7 +36,7 @@ The western development [community organization on Github](https://github.com/Ci
 
 Our documentation [translation and revision effort](https://github.com/CityOfZion/docs)
 
-Working on [Electron wallet for Linux and OSX](https://github.com/CityOfZion/neo-electron-wallet)
+Our early work on an [Electron wallet for Linux and OSX](https://github.com/CityOfZion/neo-electron-wallet)
  
 ## Other links:
 
