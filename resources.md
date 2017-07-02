@@ -23,7 +23,7 @@ AntShares [SDKs](https://github.com/AntSharesSDK) for Python, Typescript, and Ru
 
 A [cleaner JS SDK wrapper](https://github.com/neochainio/neowallet/blob/master/js/wallet.js) in Neowallet (third party wallet implementation)
 
-Good example of how to [send ANS in Python](https://github.com/AntSharesSDK/antshares-python/blob/master/sdk/AntShares/Wallets/Wallet.py) using sendrawtransaction
+Good example of how to [send ANS in Python](https://github.com/AntSharesSDK/antshares-python/blob/master/sdk/AntShares/Wallets/Wallet.py) using `sendrawtransaction`
 
 To understand better how this code works, [the network protocol docs](http://docs.antshares.org/en-us/node/network-protocol.html)
  
