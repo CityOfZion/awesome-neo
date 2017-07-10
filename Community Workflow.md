@@ -1,7 +1,7 @@
 ## City of Zion Workflow
 Updated 07/09/17
 
-https://raw.githubusercontent.com/anfn101/community-resources/master/Screen%20Shot%202017-07-09%20at%207.46.51%20PM.png
+https://user-images.githubusercontent.com/26677979/27999566-926661ac-64ec-11e7-949e-37bee04753b3.png
 
 1.	Contributors will fork from a City of Zion (COZ) repository feature branch to their own user branch.
 2.	Contributors will work on and refine their own version of the branch.
