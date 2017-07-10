@@ -1,9 +1,13 @@
 ## City of Zion Workflow
 Updated 07/09/17
 
-  <img style="vertical-align: middle" src="assets/nNode.png" width="25">
+<img style="vertical-align: middle" src="assets/nNode.png" width="25">
+  
 https://user-images.githubusercontent.com/26677979/27999566-926661ac-64ec-11e7-949e-37bee04753b3.png
-<http://raw.githubusercontent.com/anfn101/community-resources/master/Screen%20Shot%202017-07-09%20at%207.46.51%20PM.png>
+
+http://raw.githubusercontent.com/anfn101/community-resources/master/Screen%20Shot%202017-07-09%20at%207.46.51%20PM.png
+
+<img style="vertical-align: middle" http://raw.githubusercontent.com/anfn101/community-resources/master/Screen%20Shot%202017-07-09%20at%207.46.51%20PM.png"
 
 1.	Contributors will fork from a City of Zion (COZ) repository feature branch to their own user branch.
 2.	Contributors will work on and refine their own version of the branch.
@@ -15,5 +19,6 @@ https://user-images.githubusercontent.com/26677979/27999566-926661ac-64ec-11e7-9
 8.	Repeat from step 1.
 
 NOTE: All branching from COZ for feature requests will be handled by COZ. Contributors need not concern themselves with this issue.
+
 NOTE 2: After rebranding to NEO on July 24, this workflow will change. This will be updated on that date.
 
