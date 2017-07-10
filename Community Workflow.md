@@ -2,15 +2,8 @@
 Updated 07/09/17
 
 <img style="vertical-align: middle" src="assets/nNode.png" width="25">
-  
-https://user-images.githubusercontent.com/26677979/27999566-926661ac-64ec-11e7-949e-37bee04753b3.png
-
-http://raw.githubusercontent.com/anfn101/community-resources/master/Screen%20Shot%202017-07-09%20at%207.46.51%20PM.png
 
 [![solarized dualmode](https://github.com/anfn101/community-resources/blob/master/workflow.png)]
-
-https://raw.github.com/anfn101/community-resources/master/workflow.png 
-[![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)]
 
 1.	Contributors will fork from a City of Zion (COZ) repository feature branch to their own user branch.
 2.	Contributors will work on and refine their own version of the branch.
