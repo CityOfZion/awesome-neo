@@ -1,6 +1,8 @@
 #Current City of Zion Workflow
 #Updated 07/09/17
 
+![screen shot 2017-07-09 at 7 46 51 pm](https://user-images.githubusercontent.com/26677979/27999395-b690f030-64ea-11e7-8220-677c15574b36.png)
+
 1.	Contributors will fork from a City of Zion (COZ) repository feature branch to their own user branch.
 2.	Contributors will work on and refine their own version of the branch.
 3.	Contributors will initiate a pull request (PR) for their changes to the COZ feature branch, upon which COZ members and the community will review the work done (including testing if necessary). 
