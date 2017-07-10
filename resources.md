@@ -39,6 +39,10 @@ The western development [community organization on Github](https://github.com/Ci
 Our documentation [translation and revision effort](https://github.com/CityOfZion/docs)
 
 Our early work on an [Electron wallet for Linux and OSX](https://github.com/CityOfZion/neo-electron-wallet)
+
+Faster blockchain bootstrap download mirrors: 
+  + [MEGA](https://mega.nz/#!kKx2VKDC!xUBW1bdNfJ5Dr81plIkyl6NraXkoYvb9eehW3Z8zme8)
+  + [Google Drive](https://drive.google.com/file/d/0B902ABEfKU8YRHBzd05wNm1SRGM/view)
  
 ## Other links:
 
@@ -59,6 +63,5 @@ Third party blockchain explorer (nicer): http://antcha.in
 Overview of how AntShares smart contracts improve over existing technology:
 
   + [Part 1](https://themerkle.com/reconstructing-smart-contracts-part-1/)
-  
   + [Part 2](https://themerkle.com/reconstructing-smart-contracts-part-ii-parallel-universes-and-unlimited-scalability/)
  
