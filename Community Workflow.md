@@ -1,8 +1,6 @@
 ## City of Zion Workflow
 Updated 07/09/17
 
-<img style="vertical-align: middle" src="assets/nNode.png" width="25">
-
 ![workflow](https://github.com/anfn101/community-resources/blob/master/workflow.png)
 
 1.	Contributors will fork from a City of Zion (COZ) repository feature branch to their own user branch.
