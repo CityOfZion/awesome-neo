@@ -10,7 +10,7 @@ English description of [BFT algorithm](https://www.antshares.org/Files/A8A0E2.pd
 ## Developer documentation:
 English translation of [developer docs](http://docs.antshares.org/en-us/index.html)
 
-Chinese [tutorial videos](https://www.antshares.org/School) (need translation)
+Chinese [tutorial videos](https://www.antshares.org/School) (with [English subtitles](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T))
 
 AntShares [wiki](https://github.com/AntShares/AntShares/wiki) (largely out of date)
 
