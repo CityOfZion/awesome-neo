@@ -1,4 +1,4 @@
-## Current City of Zion Workflow
+## City of Zion Workflow
 Updated 07/09/17
 
 https://user-images.githubusercontent.com/26677979/27999395-b690f030-64ea-11e7-8220-677c15574b36.png
