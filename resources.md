@@ -21,7 +21,7 @@ Official [AntShares Github organization](https://github.com/AntShares)
 
 AntShares [SDKs](https://github.com/AntSharesSDK) for Python, Typescript, and Ruby
 
-COZ is re-writing the AntShares SDK. It's still very messy and a work in progress, but [the source](https://github.com/CityOfZion/neo-wallet-js/blob/master/src/wallet.js) and [tests](https://github.com/CityOfZion/neo-wallet-js/blob/master/tests/index.js) are probably the best current SDK resource at the moment. 
+COZ is re-writing the AntShares SDK. It's still very messy and a work in progress, but [the source](https://github.com/CityOfZion/neo-wallet-js/blob/master/src/api.js) and [tests](https://github.com/CityOfZion/neo-wallet-js/blob/master/tests/index.js) are probably the best current SDK resource at the moment. 
 
 A [slightly cleaner JS SDK wrapper](https://github.com/neochainio/neowallet/blob/master/js/wallet.js) in Neowallet (third party wallet implementation)
 
