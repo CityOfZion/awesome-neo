@@ -1,0 +1,40 @@
+# City of Zion Application Process
+Updated 07/22/17
+
+The City of Zion (COZ) is a group of open source developers formed for the purpose of furthering the progress of the NEO blockchain. We are always looking for talented people to join our ranks. In order to streamline the application process, we have created a form to be filled out for review. 
+
+In order to apply to work with us, in the form, please provide your preferred name (real or not), GitHub username, Slack screen name, skills, public wallet address, and what you want to specifically work on.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Name: Can be real or a screen name. 
+
+GitHub Username: COZ uses GitHub in order to collaborate and keep track of work. All developers are required to have an account. Previous work done on a GitHub account contributes to our decision-making process.
+
+Slack Screen Name: COZ uses Slack in order to collaborate with each other and report results. All developers are required to have an account.
+
+Public Wallet Address: COZ occasionally will receive funding from the community. Your public wallet address is how we send compensation for work done in these instances.
+
+Skills: What programming languages are you well versed in and confident in programming in? If you are unsure of whether to add a language, then leave it unchecked. If you are an experienced translator, please record your language of expertise in the "other" box. Any other skills of interest can be recorded in "other" as well.
+
+What do you specifically want to work on?: Be honest! This way, we can allocate your time more effectively. 
+
+Submit your cover letter or resume (optional): Files must be in PDF format and less than 1 MB in size.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+## Application Form Below!
+
+https://goo.gl/forms/kgNgqs7j9QCWJsNQ2
+
+You must be logged into a Google account in order to fill out the form; this is an action taken to limit spam and repeated applications.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+All successful applicants will be contacted within two weeks, or somewhere around that time. 
+
+If you are an experienced developer, please also consider taking the time to commit to our NEO Stack Exchange proposal at: http://area51.stackexchange.com/proposals/110921/neo-blockchain
+
+NOTE: it is still possible for an applicant to be invited by COZ after that period if COZ believes that their skills would be helpful at a later time.
+
+NOTE 2: If for some reason the link stops working, hop on the NEO Blockchain Slack or message us here at GitHub, and we'll get it back up again. Thanks!
