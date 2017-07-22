@@ -21,8 +21,6 @@ Skills: What programming languages are you well versed in and confident in progr
 
 What do you specifically want to work on?: Be honest! This way, we can allocate your time more effectively. 
 
-Submit your cover letter or resume (optional): Files must be in PDF format and less than 1 MB in size.
-
 -------------------------------------------------------------------------------------------------------------------------------
 
 ## Application Form Below!
@@ -33,10 +31,6 @@ You must be logged into a Google account in order to fill out the form; this is 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-All successful applicants will be contacted within two weeks, or somewhere around that time. 
-
 If you are an experienced developer, please also consider taking the time to commit to our NEO Stack Exchange proposal at: http://area51.stackexchange.com/proposals/110921/neo-blockchain
 
-NOTE: it is still possible for an applicant to be invited by COZ after that period if COZ believes that their skills would be helpful at a later time.
-
-NOTE 2: If for some reason the link stops working, hop on the NEO Blockchain Slack or message us here at GitHub, and we'll get it back up again. Thanks!
+NOTE: If for some reason the link stops working, hop on the NEO Blockchain Slack or message us here at GitHub, and we'll get it back up again. Thanks!
