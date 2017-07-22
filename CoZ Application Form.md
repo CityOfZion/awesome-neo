@@ -1,9 +1,11 @@
 # City of Zion Application Process
 Updated 07/22/17
 
-The City of Zion (COZ) is a group of open source developers formed for the purpose of furthering the progress of the NEO blockchain. We are always looking for talented people to join our ranks. In order to streamline the application process, we have created a form to be filled out for review. 
+The City of Zion (COZ) is a group of open source developers formed for the purpose of furthering the progress of the NEO blockchain. We are always looking for talented people to join our ranks. 
 
-In order to apply to work with us, in the form, please provide your preferred name (real or not), GitHub username, Slack screen name, skills, public wallet address, and what you want to specifically work on.
+If you want to help with one of our projects, you can do it directly through GitHub (see the Community Workflow). Our repository is located at https://github.com/CityOfZion. You can also join us on project specific Slack channels, access to which will be granted through an application process. Please see the form below.
+
+In the form, please provide your preferred name (real or not), GitHub username, Slack screen name, skills, public wallet address, and what you want to specifically work on.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
