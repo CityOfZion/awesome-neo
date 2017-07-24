@@ -14,5 +14,3 @@ Updated 07/09/17
 
 NOTE: All branching from COZ for feature requests will be handled by COZ. Contributors need not concern themselves with this issue.
 
-NOTE 2: After rebranding to NEO on July 24, this workflow will change. This will be updated on that date.
-
