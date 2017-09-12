@@ -1,44 +1,60 @@
-# AntShares / NEO Developer Resources
+# NEO Developer Resources
  
 ## Links to white-papers:
-English translation of [main white-paper](http://docs.antshares.org/en-us/white-paper.html)
+English translation of [main white-paper](http://docs.neo.org/en-us/index.html)
 
-English translation of [smart contract white-paper](http://docs.antshares.org/en-us/sc/white-paper.html)
+English translation of [smart contract white-paper](http://docs.neo.org/en-us/sc/introduction.html)
 
-English description of [BFT algorithm](https://www.antshares.org/Files/A8A0E2.pdf)
+English description of [BFT algorithm] (Link will be updated soon)
  
 ## Developer documentation:
-English translation of [developer docs](http://docs.antshares.org/en-us/index.html)
+English translation of [developer docs](http://docs.neo.org/en-us/index.html)
 
-Chinese [tutorial videos](https://www.antshares.org/School) (with [English subtitles](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T))
+Chinese [tutorial video] (Link will be updated soon) (with [English subtitles](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T))
 
-AntShares [wiki](https://github.com/AntShares/AntShares/wiki) (largely out of date)
+NEO [wiki](https://github.com/neo-project/neo/wiki) 
 
-About [Byzantine Fault Tolerance](https://www.antshares.org/Files/A8A0E2.pdf)
+About [Byzantine Fault Tolerance] (Link will be updated soon)
  
 ## Useful code examples:
-Official [AntShares Github organization](https://github.com/AntShares)
+Official [NEO Github organization](https://github.com/neo-project)
 
-AntShares [SDKs](https://github.com/AntSharesSDK) for Python, Typescript, and Ruby
+Smart Contract [Tutorial](http://docs.neo.org/en-us/sc/tutorial.html)
 
-COZ is re-writing the AntShares SDK. It's still very messy and a work in progress, but [the source](https://github.com/CityOfZion/neo-wallet-js/blob/master/src/api.js) and [tests](https://github.com/CityOfZion/neo-wallet-js/blob/master/tests/index.js) are probably the best current SDK resource at the moment. 
+Tutorial on writing Smart Contracts [in C#](http://docs.neo.org/en-us/sc/getting-started-csharp.html)
+Tutorial on writing Smart Contracts [in Java]{http://docs.neo.org/en-us/sc/getting-started-java.html)
 
-A [slightly cleaner JS SDK wrapper](https://github.com/neochainio/neowallet/blob/master/js/wallet.js) in Neowallet (third party wallet implementation)
+Example of NEO ICO template, NEP5 standard, [in C#](https://github.com/neo-project/examples-csharp/tree/master/ICO_Template)
 
-Source code for the [official web wallet](https://github.com/AntShares/AntSharesApp/tree/master/AntSharesApp/www)
+Source code for the [official GUI wallet](https://github.com/neo-project/neo-gui/)
+Source code for the [official CLI wallet](https://github.com/neo-project/neo-cli/)
 
-Good example of how to [send ANS in Python](https://github.com/AntSharesSDK/antshares-python/blob/master/sdk/AntShares/Wallets/Wallet.py) using `sendrawtransaction`
+Setting up of [NEO Nodes](http://docs.neo.org/en-us/node/introduction.html)
+To understand how this code works, view the [network protocol docs](http://docs.neo.org/en-us/node/network-protocol.html)
 
-To understand how this code works, [the network protocol docs](http://docs.antshares.org/en-us/node/network-protocol.html)
+NEO Enhancement Proposals, [NEP Standards](https://github.com/neo-project/proposals)
  
 ## Developer community links:
-The AntShares [slack](https://antshares-slack.herokuapp.com/) channel (join #dev):
+NEO Community [Slack](https://neo-slack-invite.herokuapp.com/) channel (join #develop):
 
-The western development [community organization on Github](https://github.com/CityOfZion)
+City of Zion (CoZ) is an independent, international group of [open source developers](https://github.com/CityOfZion)
 
-Our documentation [translation and revision effort](https://github.com/CityOfZion/docs)
+CoZ translation and revision of [NEO documentation](https://github.com/CityOfZion/docs)
 
-Our early work on an [Electron wallet for Linux and OSX](https://github.com/CityOfZion/neo-electron-wallet)
+Source code for the CoZ light wallet, [NEON](https://github.com/CityOfZion/neon-wallet)
+
+CoZ SDK (Work in progress):
+[Neo Go SDK](https://github.com/CityOfZion/neo-go-sdk)
+[Neo Swift SDK](https://github.com/CityOfZion/neo-swift)
+[Neo Python SDK](https://github.com/CityOfZion/neo-python)
+[Neo Javascript SDK](https://github.com/CityOfZion/neon-js)
+
+Other Resources (Work in progress):
+[Neo Javascript Compiler](https://github.com/CityOfZion/neo-js-compiler)
+[Neo Javascript Blockchain](https://github.com/CityOfZion/neo-js-blockchain)
+[Neo Javascript API](https://github.com/CityOfZion/neo-api-js)
+[Neon Wallet DB](https://github.com/CityOfZion/neon-wallet-db)
+[dApp Template](https://github.com/CityOfZion/dAppTemplate_MEAN)
 
 Faster blockchain bootstrap download mirrors: 
   + [MEGA](https://mega.nz/#!kKx2VKDC!xUBW1bdNfJ5Dr81plIkyl6NraXkoYvb9eehW3Z8zme8)
@@ -46,15 +62,15 @@ Faster blockchain bootstrap download mirrors:
  
 ## Other links:
 
-Request ANS on TestNet (also just ask us in slack): https://www.antshares.org/Testnet/Create
+Request [TestNet NEO](https://neo.org/Testnet/Create) or ask CoZ Council members on [Slack](https://neo-slack-invite.herokuapp.com/)
 
-Official blockchain explorer (by Onchain): http://antchain.org
+Official blockchain explorer (by Onchain): https://neotracker.io
 
-  + [Github link](https://github.com/antchain)
+  + [Github link](https://github.com/neotracker)
   
-Third party explorer:  https://antchain.xyz
+Third party explorer: https://www.neoscan.io
 
-  + [Github link](https://github.com/lcux/antchain.xyz)
+  + [Github link](https://github.com/CityOfZion/neo-scan)
 
 Third party blockchain explorer (nicer): http://antcha.in
 
