@@ -12,7 +12,7 @@ English translation of [developer docs](http://docs.neo.org/en-us/index.html)
 
 Chinese [tutorial video] (Link will be updated soon) (with [English subtitles](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T))
 
-NEO [wiki](https://github.com/neo-project/neo/wiki) 
+NEO [Wiki](https://github.com/neo-project/neo/wiki) 
 
 About [Byzantine Fault Tolerance] (Link will be updated soon)
  
@@ -22,14 +22,17 @@ Official [NEO Github organization](https://github.com/neo-project)
 Smart Contract [Tutorial](http://docs.neo.org/en-us/sc/tutorial.html)
 
 Tutorial on writing Smart Contracts [in C#](http://docs.neo.org/en-us/sc/getting-started-csharp.html)
+
 Tutorial on writing Smart Contracts [in Java]{http://docs.neo.org/en-us/sc/getting-started-java.html)
 
 Example of NEO ICO template, NEP5 standard, [in C#](https://github.com/neo-project/examples-csharp/tree/master/ICO_Template)
 
 Source code for the [official GUI wallet](https://github.com/neo-project/neo-gui/)
+
 Source code for the [official CLI wallet](https://github.com/neo-project/neo-cli/)
 
 Setting up of [NEO Nodes](http://docs.neo.org/en-us/node/introduction.html)
+
 To understand how this code works, view the [network protocol docs](http://docs.neo.org/en-us/node/network-protocol.html)
 
 NEO Enhancement Proposals, [NEP Standards](https://github.com/neo-project/proposals)
@@ -44,17 +47,17 @@ CoZ translation and revision of [NEO documentation](https://github.com/CityOfZio
 Source code for the CoZ light wallet, [NEON](https://github.com/CityOfZion/neon-wallet)
 
 CoZ SDK (Work in progress):
-[Neo Go SDK](https://github.com/CityOfZion/neo-go-sdk)
-[Neo Swift SDK](https://github.com/CityOfZion/neo-swift)
-[Neo Python SDK](https://github.com/CityOfZion/neo-python)
-[Neo Javascript SDK](https://github.com/CityOfZion/neon-js)
+  + [Neo Go SDK](https://github.com/CityOfZion/neo-go-sdk)
+  + [Neo Swift SDK](https://github.com/CityOfZion/neo-swift)
+  + [Neo Python SDK](https://github.com/CityOfZion/neo-python)
+  + [Neo Javascript SDK](https://github.com/CityOfZion/neon-js)
 
 Other Resources (Work in progress):
-[Neo Javascript Compiler](https://github.com/CityOfZion/neo-js-compiler)
-[Neo Javascript Blockchain](https://github.com/CityOfZion/neo-js-blockchain)
-[Neo Javascript API](https://github.com/CityOfZion/neo-api-js)
-[Neon Wallet DB](https://github.com/CityOfZion/neon-wallet-db)
-[dApp Template](https://github.com/CityOfZion/dAppTemplate_MEAN)
+  + [Neo Javascript Compiler](https://github.com/CityOfZion/neo-js-compiler)
+  + [Neo Javascript Blockchain](https://github.com/CityOfZion/neo-js-blockchain)
+  + [Neo Javascript API](https://github.com/CityOfZion/neo-api-js)
+  + [Neon Wallet DB](https://github.com/CityOfZion/neon-wallet-db)
+  + [dApp Template](https://github.com/CityOfZion/dAppTemplate_MEAN)
 
 Faster blockchain bootstrap download mirrors: 
   + [MEGA](https://mega.nz/#!kKx2VKDC!xUBW1bdNfJ5Dr81plIkyl6NraXkoYvb9eehW3Z8zme8)
