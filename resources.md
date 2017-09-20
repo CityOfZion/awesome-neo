@@ -1,43 +1,31 @@
 # NEO Developer Resources
  
-## Links to white-papers:
-English translation of [main white-paper](http://docs.neo.org/en-us/index.html)
+## White Papers
 
-English translation of [smart contract white-paper](http://docs.neo.org/en-us/sc/introduction.html)
-
-English description of [BFT algorithm] (Link will be updated soon)
+- English translation of [main white-paper](http://docs.neo.org/en-us/index.html)
+- English translation of [smart contract white-paper](http://docs.neo.org/en-us/sc/introduction.html)
  
-## Developer documentation:
-English translation of [developer docs](http://docs.neo.org/en-us/index.html)
+## Developer Documentation
 
-Chinese [tutorial video] (Link will be updated soon) (with [English subtitles](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T))
-
-NEO [Wiki](https://github.com/neo-project/neo/wiki) 
-
-About [Byzantine Fault Tolerance] (Link will be updated soon)
+- English translation of [developer docs](http://docs.neo.org/en-us/index.html)
+- Chinese [tutorial video] (Link will be updated soon) (with [English subtitles](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T))
+- NEO [Wiki](https://github.com/neo-project/neo/wiki) 
  
-## Useful code examples:
-Official [NEO Github organization](https://github.com/neo-project)
+## Useful Code Examples
 
-Smart Contract [Tutorial](http://docs.neo.org/en-us/sc/tutorial.html)
-
-Tutorial on writing Smart Contracts [in C#](http://docs.neo.org/en-us/sc/getting-started-csharp.html)
-
-Tutorial on writing Smart Contracts [in Java]{http://docs.neo.org/en-us/sc/getting-started-java.html)
-
-Example of NEO ICO template, NEP5 standard, [in C#](https://github.com/neo-project/examples-csharp/tree/master/ICO_Template)
-
-Source code for the [official GUI wallet](https://github.com/neo-project/neo-gui/)
-
-Source code for the [official CLI wallet](https://github.com/neo-project/neo-cli/)
-
-Setting up of [NEO Nodes](http://docs.neo.org/en-us/node/introduction.html)
-
-To understand how this code works, view the [network protocol docs](http://docs.neo.org/en-us/node/network-protocol.html)
-
-NEO Enhancement Proposals, [NEP Standards](https://github.com/neo-project/proposals)
+- Official [NEO Github organization](https://github.com/neo-project)
+- Smart Contract [Tutorial](http://docs.neo.org/en-us/sc/tutorial.html)
+- Tutorial on writing Smart Contracts [in C#](http://docs.neo.org/en-us/sc/getting-started-csharp.html)
+- Tutorial on writing Smart Contracts [in Java](http://docs.neo.org/en-us/sc/getting-started-java.html)
+- Example of NEO ICO template, NEP5 standard, [in C#](https://github.com/neo-project/examples-csharp/tree/master/ICO_Template)
+- Source code for the [official GUI wallet](https://github.com/neo-project/neo-gui/)
+- Source code for the [official CLI wallet](https://github.com/neo-project/neo-cli/)
+- Setting up of [NEO Nodes](http://docs.neo.org/en-us/node/introduction.html)
+- To understand how this code works, view the [network protocol docs](http://docs.neo.org/en-us/node/network-protocol.html)
+- NEO Enhancement Proposals, [NEP Standards](https://github.com/neo-project/proposals)
  
-## Developer community links:
+## Developer Community Links
+
 NEO Community [Slack](https://neo-slack-invite.herokuapp.com/) channel (join #develop):
 
 City of Zion (CoZ) is an independent, international group of [open source developers](https://github.com/CityOfZion)
