@@ -1,11 +1,24 @@
-# Awesome NEO
+<p align="center">
+  <img 
+    src="http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png" 
+    width="125px"
+  >
+</p>
 
-A curated list of awesome NEO (formerly AntShares) frameworks, libraries, software and resources.
+<h1 align="center">Awesome NEO</h1>
+
+<p align="center">
+  A curated list of awesome <b><a href="https://neo.org/">NEO</a></b> libraries, applications and resources.
+</p>
+
+## Contents
 
 - [GAS Calculators](#gas-calculators)
 - [Network Monitoring](#network-monitoring)
 - [SDKs](#sdks)
 - [Wallets](#wallets)
+
+---
 
 ## GAS Calculators
 
