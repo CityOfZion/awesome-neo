@@ -2,9 +2,15 @@
 
 A curated list of awesome NEO (formerly AntShares) frameworks, libraries, software and resources.
 
+- [GAS Calculators](#gas-calculators)
 - [Network Monitoring](#network-monitoring)
 - [SDKs](#sdks)
 - [Wallets](#wallets)
+
+## GAS Calculators
+
+- [neodepot.org](https://neodepot.org/) - Calculator with an array of NEO statistical charts.
+- [neotogas.com](https://neotogas.com) - Created by [@n1njawtf](https://twitter.com/n1njawtf).
 
 ## Network Monitoring
 
