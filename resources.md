@@ -8,7 +8,7 @@
 ## Developer Documentation
 
 - English translation of [developer docs](http://docs.neo.org/en-us/index.html)
-- Chinese [tutorial video] (Link will be updated soon) (with [English subtitles](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T))
+- Chinese [tutorial video](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) series (with English subtitles).
 - NEO [Wiki](https://github.com/neo-project/neo/wiki) 
  
 ## Useful Code Examples
@@ -26,21 +26,20 @@
  
 ## Developer Community Links
 
-NEO Community [Slack](https://neo-slack-invite.herokuapp.com/) channel (join #develop):
-
-City of Zion (CoZ) is an independent, international group of [open source developers](https://github.com/CityOfZion)
-
-CoZ translation and revision of [NEO documentation](https://github.com/CityOfZion/docs)
-
-Source code for the CoZ light wallet, [NEON](https://github.com/CityOfZion/neon-wallet)
+- NEO Community [Slack](https://neo-slack-invite.herokuapp.com/) channel (join #develop).
+- City of Zion (CoZ) [Github](https://github.com/CityOfZion).
+- CoZ translation and revision of [NEO documentation](https://github.com/CityOfZion/docs)
+- Source code for the CoZ light wallet, [NEON](https://github.com/CityOfZion/neon-wallet)
 
 CoZ SDK (Work in progress):
+
   + [Neo Go SDK](https://github.com/CityOfZion/neo-go-sdk)
   + [Neo Swift SDK](https://github.com/CityOfZion/neo-swift)
   + [Neo Python SDK](https://github.com/CityOfZion/neo-python)
   + [Neo Javascript SDK](https://github.com/CityOfZion/neon-js)
 
 Other Resources (Work in progress):
+
   + [Neo Javascript Compiler](https://github.com/CityOfZion/neo-js-compiler)
   + [Neo Javascript Blockchain](https://github.com/CityOfZion/neo-js-blockchain)
   + [Neo Javascript API](https://github.com/CityOfZion/neo-api-js)
@@ -51,7 +50,7 @@ Faster blockchain bootstrap download mirrors:
   + [MEGA](https://mega.nz/#!kKx2VKDC!xUBW1bdNfJ5Dr81plIkyl6NraXkoYvb9eehW3Z8zme8)
   + [Google Drive](https://drive.google.com/file/d/0B902ABEfKU8YRHBzd05wNm1SRGM/view)
  
-## Other links:
+## Other Links.
 
 Request [TestNet NEO](https://neo.org/Testnet/Create) or ask CoZ Council members on [Slack](https://neo-slack-invite.herokuapp.com/)
 
