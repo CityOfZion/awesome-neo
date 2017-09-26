@@ -1,5 +1,5 @@
 ## City of Zion Workflow
-*Updated 26/09/17*
+*Updated 09/26/17*
 
 ![workflow](https://github.com/jhepkema/communityResources/blob/master/New%20Workflow.png)
 
