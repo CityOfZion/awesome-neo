@@ -63,3 +63,6 @@
 ## Information blogs
 
 - [The NEO Subreddit](https://www.reddit.com/r/NEO/).
+- [Neo News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
+- [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of Neo founder Da Hongfei.
+- [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of Neo founder Erik Zhang.
