@@ -1,5 +1,5 @@
 # City of Zion Application Process
-*Updated 09/21/17*
+*Updated 09/26/17*
 
 The **City of Zion** (**CoZ**) is a group of open source developers formed for the purpose of furthering the progress of the NEO blockchain. We are always looking for talented people to join our ranks. 
 
