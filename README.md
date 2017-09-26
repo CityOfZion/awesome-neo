@@ -62,4 +62,4 @@
 
 ## Information blogs
 
-- [The NEO Subreddit](https://www.reddit.com/r/NEO/)
+- [The NEO Subreddit](https://www.reddit.com/r/NEO/).
