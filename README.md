@@ -14,12 +14,13 @@
 ## Contents
 
 - [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
+- [dApps](#dapps)
 - [GAS Calculators](#gas-calculators)
+- [Information Blogs](#information-blogs)
 - [Network Monitoring](#network-monitoring)
 - [SDKs](#sdks)
 - [Smart Contracts](#smart-contracts)
 - [Wallets](#wallets)
-- [dApps](#dapps)
 
 ---
 
@@ -30,10 +31,21 @@
 - [TestNet (drive.google.com)](https://drive.google.com/open?id=0B902ABEfKU8YbWVQdlRhamVEeEk) - Up to around block 513000.
 - [TestNet (mega.nz)](https://mega.nz/#!VM9TARSC!tE2BUwkwQF_kloJr4DvumpsneLCblIhI_iEdK28AzT8) - Up to around block 513000.
 
+## dApps
+
+- [List of dApps](https://github.com/jhepkema/awesome-neo/blob/master/dApps.md) - Curated list of Neo dApps, in multiple stages of development.
+
 ## GAS Calculators
 
 - [neodepot.org](https://neodepot.org/) - Calculator with an array of NEO statistical charts.
 - [neotogas.com](https://neotogas.com) - Created by [@n1njawtf](https://twitter.com/n1njawtf).
+
+## Information Blogs
+
+- [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of Neo founder Da Hongfei.
+- [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of Neo co-founder Erik Zhang.
+- [Neo News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
+- [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of Neo can discuss events and post information.
 
 ## Network Monitoring
 
@@ -61,13 +73,3 @@
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
 - [neotracker.io](https://neotracker.io/wallet) - NEO web wallet.
 
-## Information blogs
-
-- [The NEO Subreddit](https://www.reddit.com/r/NEO/).
-- [Neo News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
-- [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of Neo founder Da Hongfei.
-- [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of Neo founder Erik Zhang.
-
-## dApps
-
-- [A list of dApps for Neo](https://github.com/jhepkema/awesome-neo/blob/master/dApps.md) - Curated list of Neo dApps, in multiple stages of development.
