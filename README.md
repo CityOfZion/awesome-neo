@@ -33,7 +33,7 @@
 
 ## dApps
 
-- [List of dApps](https://github.com/jhepkema/awesome-neo/blob/master/dApps.md) - Curated list of Neo dApps, in multiple stages of development.
+- [List of dApps](https://github.com/jhepkema/awesome-neo/blob/master/dApps.md) - Curated list of NEO dApps, in multiple stages of development.
 
 ## GAS Calculators
 
@@ -42,10 +42,10 @@
 
 ## Information Blogs
 
-- [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of Neo founder Da Hongfei.
-- [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of Neo co-founder Erik Zhang.
+- [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of NEO founder Da Hongfei.
+- [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of NEO co-founder Erik Zhang.
 - [Neo News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
-- [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of Neo can discuss events and post information.
+- [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of NEO can discuss events and post information.
 
 ## Network Monitoring
 
