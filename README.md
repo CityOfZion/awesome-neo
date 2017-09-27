@@ -19,6 +19,7 @@
 - [SDKs](#sdks)
 - [Smart Contracts](#smart-contracts)
 - [Wallets](#wallets)
+- [dApps](#dapps)
 
 ---
 
@@ -66,3 +67,7 @@
 - [Neo News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
 - [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of Neo founder Da Hongfei.
 - [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of Neo founder Erik Zhang.
+
+## dApps
+
+- [A list of dApps for Neo](https://github.com/jhepkema/awesome-neo/blob/master/dApps.md) - Curated list of Neo dApps, in multiple stages of development.
