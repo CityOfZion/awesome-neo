@@ -33,7 +33,7 @@
 
 ## dApps
 
-- [List of dApps](https://github.com/jhepkema/awesome-neo/blob/master/dApps.md) - Curated list of NEO dApps, in multiple stages of development.
+- [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/dApps.md) - Curated list of NEO dApps, in multiple stages of development.
 
 ## GAS Calculators
 
