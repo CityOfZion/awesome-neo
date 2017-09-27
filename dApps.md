@@ -13,29 +13,35 @@
 </p>
 
 ## Contents
-* [Ideas for projects](#ideas-for-projects)
-* [Looking for developers](#looking-for-developers)
-* [In development](#in-development)
-* [Finished dApps](#finished-dapps)
+
+- [Ideas for projects](#ideas-for-projects)
+- [Looking for developers](#looking-for-developers)
+- [In development](#in-development)
+- [Finished dApps](#finished-dapps)
 
 ---
 
 ## Ideas for projects
-* [Example](https://linkhere) - A dApp to keep track of your diet.
-* [Example](https://linkhere) - A dApp that makes it possible to design tokens for Neo.
+
+- [Example](https://linkhere) - A dApp to keep track of your diet.
+- [Example](https://linkhere) - A dApp that makes it possible to design tokens for Neo.
 
 ## Looking for developers
-* [Example](https://) - A dApp that aims to be a decentralised exchange - *looking for **front-end developers***.
-* [Example](https://) - Twitter, but blockchain - *looking for influential people to test*.
+
+- [Example](https://) - A dApp that aims to be a decentralised exchange - *looking for **front-end developers***.
+- [Example](https://) - Twitter, but blockchain - *looking for influential people to test*.
 
 ## In development
-* [Example](https://) - Like YouTube, but all streamers are CoZ members - [*link to trello*](https://).
-* [Example](https://) - Aims to replace Slack with blockchainy goodness - [*link to trello*](https://).
+
+- [Example](https://) - Like YouTube, but all streamers are CoZ members - [*link to trello*](https://).
+- [Example](https://) - Aims to replace Slack with blockchainy goodness - [*link to trello*](https://).
 
 ## Development halted
-* [Example](https://) - A physical version of the blockchain - *currently redesigning life choices*.
-* [Example](https://) - Online webstore akin to Ikea - *Ikea went blockchain, sued team*.
+
+- [Example](https://) - A physical version of the blockchain - *currently redesigning life choices*.
+- [Example](https://) - Online webstore akin to Ikea - *Ikea went blockchain, sued team*.
 
 ## Finished dApps
-* [Example](https://) - GitHub but on Neo, [**winner of the first CoZ dApps competition**](https://linktocertificateorsomethinglikethat.com).
+
+- [Example](https://) - GitHub but on Neo, [**winner of the first CoZ dApps competition**](https://linktocertificateorsomethinglikethat.com).
 
