@@ -3,7 +3,7 @@
 
 The **City of Zion** (**CoZ**) is a group of open source developers formed for the purpose of furthering the progress of the NEO blockchain. We are always looking for talented people to join our ranks. 
 
-If you want to help with one of our projects, you can do it directly through GitHub (see the [Community Workflow](https://github.com/jhepkema/awesome-neo/blob/master/Community%20Workflow.md)). Our repository is located at https://github.com/CityOfZion. You can also join us on project specific Slack channels, access to which will be granted through an application process. Please see the form below.
+If you want to help with one of our projects, you can do it directly through GitHub. Our repository is located at https://github.com/CityOfZion. You can also join us on project specific Slack channels, access to which will be granted through an application process. Please see the form below.
 
 In the form, please provide your preferred name (real or not), GitHub username, Slack screen name, skills, public wallet address, and what you want to specifically work on.
 
