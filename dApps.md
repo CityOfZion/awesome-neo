@@ -9,7 +9,6 @@
 
 <p align="center">
   A curated list of dApps for Neo, in multiple stages of development.<br/>
-  <i>Last updated: 09/27/17</i>
 </p>
 
 ## Contents
