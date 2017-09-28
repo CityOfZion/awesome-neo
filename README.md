@@ -14,7 +14,9 @@
 ## Contents
 
 - [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
+- [dApps](#dapps)
 - [GAS Calculators](#gas-calculators)
+- [Information Blogs](#information-blogs)
 - [Network Monitoring](#network-monitoring)
 - [SDKs](#sdks)
 - [Smart Contracts](#smart-contracts)
@@ -29,10 +31,21 @@
 - [TestNet (drive.google.com)](https://drive.google.com/open?id=0B902ABEfKU8YbWVQdlRhamVEeEk) - Up to around block 513000.
 - [TestNet (mega.nz)](https://mega.nz/#!VM9TARSC!tE2BUwkwQF_kloJr4DvumpsneLCblIhI_iEdK28AzT8) - Up to around block 513000.
 
+## dApps
+
+- [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/dApps.md) - Curated list of NEO dApps, in multiple stages of development.
+
 ## GAS Calculators
 
 - [neodepot.org](https://neodepot.org/) - Calculator with an array of NEO statistical charts.
 - [neotogas.com](https://neotogas.com) - Created by [@n1njawtf](https://twitter.com/n1njawtf).
+
+## Information Blogs
+
+- [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of NEO founder Da Hongfei.
+- [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of NEO co-founder Erik Zhang.
+- [Neo News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
+- [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of NEO can discuss events and post information.
 
 ## Network Monitoring
 
@@ -59,3 +72,4 @@
 - [neo-gui](https://github.com/neo-project/neo-gui/) - Official wallet built by NEO team, which has a UI.
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
 - [neotracker.io](https://neotracker.io/wallet) - NEO web wallet.
+
