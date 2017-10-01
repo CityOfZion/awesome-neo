@@ -51,7 +51,8 @@
 
 - [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of NEO founder Da Hongfei.
 - [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of NEO co-founder Erik Zhang.
-- [Neo News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
+- [NEO Blog](https://neo.org/en-us/blog) - Official NEO blog from core team.
+- [NEO News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
 - [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of NEO can discuss events and post information.
 
 ## Network Monitoring
@@ -69,7 +70,7 @@
 ## Smart Contracts
 
 - [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team.
-- [Fees](https://neo.org/us-en/blog/details/68) - Blog post about how smart contracts are priced.
+- [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
 - [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
 
 ## Wallets
