@@ -15,6 +15,7 @@
 
 - [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
 - [City of Zion](#city-of-zion)
+- [Code Examples](#code-examples)
 - [dApps](#dapps)
 - [Developer Documentation](#developer-documentation)
 - [GAS Calculators](#gas-calculators)
@@ -39,6 +40,10 @@
 - [Application Form](https://github.com/CityOfZion/awesome-neo/blob/master/resources/coz_application_form.md) - Process for applying to join CoZ.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
 - [Website](http://cityofzion.io) - Homepage for CoZ.
+
+## Code Examples
+
+- []() - foo.
 
 ## dApps
 
@@ -77,9 +82,11 @@
 
 ## Smart Contracts
 
+- [C# tutorial](http://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
 - [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
 - [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
 - [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
+- [Java tutorial](http://docs.neo.org/en-us/sc/getting-started-java.html) - Tutorial on writing smart contracts in Java.
 
 ## Wallets
 
