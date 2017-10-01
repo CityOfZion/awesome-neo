@@ -43,7 +43,9 @@
 
 ## Code Examples
 
-- []() - foo.
+- [C# smart contracts](https://github.com/neo-project/examples-csharp) - Examples of smart contracts written in C# from NEO core team.
+- [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
+- [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
 
 ## dApps
 
