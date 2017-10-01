@@ -14,6 +14,7 @@
 ## Contents
 
 - [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
+- [City of Zion](#city-of-zion)
 - [dApps](#dapps)
 - [GAS Calculators](#gas-calculators)
 - [Information Blogs](#information-blogs)
@@ -31,9 +32,15 @@
 - [TestNet (drive.google.com)](https://drive.google.com/open?id=0B902ABEfKU8YbWVQdlRhamVEeEk) - Up to around block 513000.
 - [TestNet (mega.nz)](https://mega.nz/#!VM9TARSC!tE2BUwkwQF_kloJr4DvumpsneLCblIhI_iEdK28AzT8) - Up to around block 513000.
 
+## City of Zion
+
+- [Application Form](https://github.com/CityOfZion/awesome-neo/blob/master/resources/coz_application_form.md) - Process for applying to join CoZ.
+- [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
+- [Website](http://cityofzion.io) - Homepage for CoZ.
+
 ## dApps
 
-- [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/dApps.md) - Curated list of NEO dApps, in multiple stages of development.
+- [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/resources/dapps.md) - Curated list of NEO dApps, in multiple stages of development.
 
 ## GAS Calculators
 
