@@ -16,6 +16,7 @@
 - [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
 - [City of Zion](#city-of-zion)
 - [dApps](#dapps)
+- [Developer Documentation](#developer-documentation)
 - [GAS Calculators](#gas-calculators)
 - [Information Blogs](#information-blogs)
 - [Network Monitoring](#network-monitoring)
@@ -42,6 +43,12 @@
 ## dApps
 
 - [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/resources/dapps.md) - Curated list of NEO dApps, in multiple stages of development.
+
+## Developer Documentation
+
+- [Documentation](http://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
+- [Getting Started Videos](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
+- [neo-project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
 
 ## GAS Calculators
 
@@ -70,7 +77,7 @@
 
 ## Smart Contracts
 
-- [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team.
+- [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
 - [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
 - [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
 
