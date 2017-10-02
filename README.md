@@ -19,6 +19,7 @@
 - [Code Examples](#code-examples)
 - [dApps](#dapps)
 - [Developer Documentation](#developer-documentation)
+- [Exchanges](#exchanges)
 - [GAS Calculators](#gas-calculators)
 - [Information Blogs](#information-blogs)
 - [Network Monitoring](#network-monitoring)
@@ -66,6 +67,36 @@
 - [neo-project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
 - [NEPs](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
+
+## Exchanges
+
+- [Anycoindirect](https://anycoindirect.eu/en/buy/neo) - A Dutch exchange that accepts iDeal payments for **NEO**.  
+*English, Dutch, German, French, Spanish and Italian interfaces*
+- [Binance](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC) - A Hong Kong-based exchange that allows trading **NEO** and **GAS** with BTC. Will return GAS when you hold NEO on their exchange.  
+*English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
+- [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade **NEO** with BTC.  
+*English, Russian and traditional and simplified Chinese interfaces*
+- [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-NEO) - A United States-based exchange. Allows trading **NEO** for BTC, ETH and USDT.  
+*English interface*
+- [Changelly](https://changelly.com/) - A Czech-based exchange that allows you to swap **NEO** with various other cryptocurrencies.  
+*English interface*
+- [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading between **NEO** and South-Korean Won (SKW).  
+*Korean and Chinese interface available*
+- [CoinSpot](https://www.coinspot.com.au/buy/ans) - An Australian exchange that allows trading between **NEO** and Australian Dollars (AUD).  
+*English interface*
+- [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows you to swap **NEO** with various other cryptocurrencies.  
+*English interface*
+- [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading **NEO** for BTC, ETH and USDT.  
+*English interface*
+- [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading **NEO** for BTC, LTC and DOGE.  
+*English interface*
+- [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading **NEO** for Chinese Yuan Renminbi (CNY).  
+*Chinese interface*
+- [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading **GAS** for BTC and ETH.  
+*English interface*
+<!-- - [YoBTC](https://www.yobtc.com/trade/index.shtml?coinId=15) - currently out of service, see https://twitter.com/yobtc_platform/status/908868690187239424 -->
+<!-- - [Yuanbao](https://www.yuanbao.com/trade/ans2cny) - currently out of service, see https://twitter.com/cnLedger/status/906560905269329920?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fcoin.fyi%2Fnews%2Fqtum%2Fyunbao-delisted-major-coins-qtum-neo-at-around-10-30-pm-china-time-9th-sep-17_6z33ho -->
+<!-- - [19800](https://www.19800.com/trade.html?marketid=cny_gas) - currently out of service, see https://www.19800.com/market.html -->
 
 ## GAS Calculators
 
