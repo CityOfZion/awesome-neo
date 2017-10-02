@@ -70,30 +70,18 @@
 
 ## Exchanges
 
-- [Anycoindirect](https://anycoindirect.eu/en/buy/neo) - A Dutch exchange that accepts iDEAL payments.  
-*English, Dutch, German, French, Spanish and Italian interfaces*
-- [Binance](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users.  
-*English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
-- [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC.  
-*English, Russian and traditional and simplified Chinese interfaces*
-- [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-NEO) - A United States-based exchange. Allows trading for BTC, ETH and USDT.  
-*English interface*
-- [Changelly](https://changelly.com/) - A Czech-based exchange that allows trading for various other cryptocurrencies.  
-*English interface*
-- [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading for South-Korean Won (SKW).  
-*Korean and Chinese interface available*
-- [CoinSpot](https://www.coinspot.com.au/buy/ans) - An Australian exchange that allows trading for Australian Dollars (AUD).  
-*English interface*
-- [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows trading for various other cryptocurrencies.  
-*English interface*
-- [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading for BTC, LTC and DOGE.  
-*English interface*
-- [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.  
-*English interface*
-- [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY).  
-*Chinese interface*
-- [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH (only GAS).  
-*English interface*
+- [Anycoindirect](https://anycoindirect.eu/en/buy/neo) - A Dutch exchange that accepts iDEAL payments. *English, Dutch, German, French, Spanish and Italian interfaces*
+- [Binance](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
+- [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC. *English, Russian and traditional and simplified Chinese interfaces*
+- [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-NEO) - A United States-based exchange. Allows trading for BTC, ETH and USDT.
+- [Changelly](https://changelly.com/) - A Czech-based exchange that allows trading for various other cryptocurrencies.
+- [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
+- [CoinSpot](https://www.coinspot.com.au/buy/ans) - An Australian exchange that allows trading for Australian Dollars (AUD).
+- [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows trading for various other cryptocurrencies.
+- [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading for BTC, LTC and DOGE.
+- [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
+- [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
+- [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH (only GAS).
 
 ## GAS Calculators
 
