@@ -47,6 +47,7 @@
 
 - [Application Form](https://github.com/CityOfZion/awesome-neo/blob/master/resources/coz_application_form.md) - Process for applying to join CoZ.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
+- [Slack](http://slack.cityofzion.io/) - Chat channels for discussion and support.
 - [Trello](https://goo.gl/UjLSey) - Process tracker for blockchain development and design, as well as feature requests.
 - [Website](http://cityofzion.io) - Homepage for CoZ.
 
