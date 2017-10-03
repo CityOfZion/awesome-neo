@@ -47,6 +47,7 @@
 
 - [Application Form](https://github.com/CityOfZion/awesome-neo/blob/master/resources/coz_application_form.md) - Process for applying to join CoZ.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
+- [Trello](https://goo.gl/UjLSey) - Process tracker for blockchain development and design, as well as feature requests.
 - [Website](http://cityofzion.io) - Homepage for CoZ.
 
 ## Code Examples
@@ -67,6 +68,7 @@
 - [neo-project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
 - [NEPs](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
+- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
 
 ## Exchanges
 
