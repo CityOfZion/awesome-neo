@@ -49,7 +49,7 @@
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
 - [Medium](https://medium.com/@cityofzion) - Weekly reports from CoZ.
 - [Slack](http://slack.cityofzion.io/) - Chat channels for discussion and support.
-- [Trello](https://goo.gl/UjLSey) - Process tracker for blockchain development and design, as well as feature requests.
+- [Trello](https://trello.com/b/6TngvuLf/neoblockchaindevelopment) - Process tracker for blockchain development and design, as well as feature requests.
 - [Website](http://cityofzion.io) - Homepage for CoZ.
 
 ## Code Examples
