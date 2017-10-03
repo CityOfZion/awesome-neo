@@ -90,6 +90,7 @@
 ## GAS Calculators
 
 - [neodepot.org](https://neodepot.org/) - Calculator with an array of NEO statistical charts.
+- [neogas.io](https://neogas.io/) - Created by [@drpepper](https://www.reddit.com/user/drpepper).
 - [neotogas.com](https://neotogas.com) - Created by [@n1njawtf](https://twitter.com/n1njawtf).
 
 ## Information Blogs
