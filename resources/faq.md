@@ -91,3 +91,6 @@
     NEO is the use of blockchain technology and digital identity to digitize assets, the use of smart contracts for digital assets to be self-managed, to achieve a "smart economy" with a distributed network.
     
     Additional features will include **NeoMessage** that supports secure, encrypted peer-to-peer messaging, and **NeoFS**, a distributed cloud storage. Smart fund investments, Online Networking and a Decentralized Exchange will also be implemented in the near future.
+
+---
+If you did not find your answer in the FAQ listed above, you can always ask your question in the [NEO Slack Channel](http://slack.cityofzion.io/).
