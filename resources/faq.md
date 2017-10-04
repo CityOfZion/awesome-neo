@@ -26,15 +26,15 @@
 
 7. *What size is the wallet when it is fully synchronised?*
 
-   A. **PC client**: 1GB or so.
+   A. **NEO GUI wallet**: about 2 GB.
 
-   B. **Web or App client**: 0.
+   B. **NEON wallet**: 215 MB.
 
 8. *How long does it take to synchronise my wallet?*
 
-   A. **PC client**: You can use the accelerate sync package (download it from [here](https://www.antshares.org/client/chain.acc.zip)), which will speed up the sync process to around 10 minutes. If you sync from height 0 (in other words: without any previous synchronisation), it will take you several hours.
+   A. **NEO GUI wallet**: You can use the accelerate sync package (download it from [here](https://www.antshares.org/client/chain.acc.zip)), which will speed up the sync process to around 10 minutes. If you sync from height 0 (in other words: without any previous synchronisation), it will take you several hours.
 
-   B. **Web or App client**: If the network is working normally, it will synchronise about 12000 blocks per hour. If you are experiencing a long sync, it is possible that using VPN or a proxy could speed up the synchronisation process.
+   B. **NEON wallet**: This is a light wallet and therefore does not require to download the entire blockchain. This makes synchronising much faster.
 
 9. *I can't see my NEO in my wallet! Is it gone?*
 
@@ -42,9 +42,9 @@
 
    2. Make sure your wallet is fully synchronised. If it is, and there is still no NEO in your wallet, then:
 
-      A. **PC client**: Re-index your wallet.
+      A. **NEO GUI wallet**: Re-index your wallet.
 
-      B. **Web or App client**: Refresh your browser (Windows: *Ctrl+F5*, Mac: *Command+shift+r*).
+      B. **NEON wallet**: Refresh your wallet.
 
 10. *How can a Mac user claim GAS?*
 
@@ -78,11 +78,11 @@
 
 16. *Is there a central point where I can find important dates/delays?*
 
-    See the NEO subreddit: https://www.reddit.com/r/NEO/
+    See the Daily Thread at the NEO subreddit: https://www.reddit.com/r/NEO/
 
 17. *Can I still run the antshares wallet program (windows) or is there a new one I can download with a new name?*
 
-    The new desktop client is the same, only the name changed and ANS is NEO, and ANC is GAS. It also needs to synchronise with the blockchain again.
+    The new desktop client is the same, only the name changed and ANS is NEO, and ANC is GAS. It also needs to synchronise with the blockchain again. You can also access your wallet using the NEON wallet, or any other NEO wallet.
     
 18. *What is the purpose of rebranding? What new things did the rebranding bring?*
 
