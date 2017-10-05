@@ -14,7 +14,7 @@
 
 4. *Is there a transfer fee between NEO wallets and exchanges?*
 
-   It depends on the exchange rules; right now, there is no transfer fee in the NEO system.
+   It depends on the exchange rules; right now, there is no transfer fee in the NEO system. However, exchanges can take a fee when transferring from an exchange.
 
 5. *How can I check the status of my transaction?*
 
@@ -91,6 +91,10 @@
     NEO is the use of blockchain technology and digital identity to digitize assets, the use of smart contracts for digital assets to be self-managed, to achieve a "smart economy" with a distributed network.
     
     Additional features will include **NeoMessage** that supports secure, encrypted peer-to-peer messaging, and **NeoFS**, a distributed cloud storage. Smart fund investments, Online Networking and a Decentralized Exchange will also be implemented in the near future.
+
+19. *Is it true NEO will inflate/increase its supply?*
+
+   Not exactly, no. On October 16, some of the locked supply becomes unlocked. This portion will not enter the exchanges and is only for long-term support of NEO projects. You can find the specifics [here](http://docs.neo.org/en-us/) under 'Distribution Mechanism'.
 
 ---
 If you did not find your answer in the FAQ listed above, you can always ask your question in the [NEO Slack Channel](http://slack.cityofzion.io/).
