@@ -96,5 +96,10 @@
 
    Not exactly, no. On October 16, some of the locked supply becomes unlocked. This portion will not enter the exchanges and is only for long-term support of NEO projects. You can find the specifics [here](http://docs.neo.org/en-us/) under 'Distribution Mechanism'.
 
+20. *I have transferred my NEO balance from Bittrex and the exchange kept 0.9750 NEO on the exchange. However, I cannot send this anywhere because you need at least 1 NEO plus fees to be able to send. Can this amount be topped up, held or sold?*
+
+   The tokens you hold on exchanges are not actually NEO. When you withdraw them, at this moment they send you NEO. This is why you are allowed to have 0.97 NEO on exchanges, but not in a wallet. 
+   In itself, NEO is indivisible, which means you can't have 1.01 NEO; it will be cut down to 1 NEO. If you try and send your NEO from the exchange, it will send 0 NEO (which is prevented by Bittrex). You can keep it there to be sold later for example though, or you can buy additional NEO on the exchange so that your amount is more than 1 NEO + the necessary fees.
+
 ---
 If you did not find your answer in the FAQ listed above, you can always ask your question in the [NEO Slack Channel](http://slack.cityofzion.io/).
