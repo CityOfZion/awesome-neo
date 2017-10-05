@@ -1,6 +1,6 @@
 <p align="center">
-  <img 
-    src="http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png" 
+  <img
+    src="http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png"
     width="125px"
   >
 </p>
@@ -43,6 +43,7 @@
 - [antcha.in](http://antcha.in/) - Mature explorer from before the re-brand.
 - [neoscan.io](https://neoscan.io/) - Explorer created by CoZ.
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by NEO core team.
+- [explorer.neoverse.io](http://explorer.neoverse.io/) - Explorer created by the NEOverse team.
 
 ## City of Zion
 
@@ -72,7 +73,7 @@
 - [NEPs](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Private Net Tutorial](https://github.com/CityOfZion/neo-privatenet-docker) - Explanation of how to setup a private version of the blockchain for smart contract testing.
-- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
+- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain.
 
 ## Exchanges
 
@@ -128,7 +129,7 @@
 
 ## Wallets
 
-- [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator. 
+- [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator.
 - [neo-cli](https://github.com/neo-project/neo-cli/) - Official wallet built by NEO core, which is command-line based.
 - [neo-gui](https://github.com/neo-project/neo-gui/) - Official wallet built by NEO team, which has a UI.
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
