@@ -101,5 +101,9 @@
    The tokens you hold on exchanges are not actually NEO. When you withdraw them, at this moment they send you NEO. This is why you are allowed to have 0.97 NEO on exchanges, but not in a wallet. 
    In itself, NEO is indivisible, which means you can't have 1.01 NEO; it will be cut down to 1 NEO. If you try and send your NEO from the exchange, it will send 0 NEO (which is prevented by Bittrex). You can keep it there to be sold later for example though, or you can buy additional NEO on the exchange so that your amount is more than 1 NEO + the necessary fees.
 
+21. *Is there an equivalent of ERC-20 standard for NEO?*
+
+   Yes, it's called [NEP-5](https://github.com/neo-project/proposals) (NEP is short for *NEO Enhancement Proposals*).
+
 ---
 If you did not find your answer in the FAQ listed above, you can always ask your question in the [NEO Slack Channel](http://slack.cityofzion.io/).
