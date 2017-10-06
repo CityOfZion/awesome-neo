@@ -1,5 +1,12 @@
 # FAQ
 
+---
+<p align="center">
+   <b>For information on how setup your wallet for the RPX ICO, check out <a href="https://www.reddit.com/r/RedPulseToken/comments/73z9pc/stepbystep_how_to_get_ready_for_the_rpx_token/">this link</a>.</b>
+</p>
+
+---
+
 1. *What is the relationship between ANS and NEO?*
 
    NEO is the new name of Antshares (ANS), GAS is the new name of Antcoins (ANC). Your ANS became NEO automatically after the rebranding. Similarly, Your ANC became GAS.
@@ -104,6 +111,6 @@
 21. *Is there an equivalent of ERC-20 standard for NEO?*
 
     Yes, it's called [NEP-5](https://github.com/neo-project/proposals) (NEP is short for *NEO Enhancement Proposals*).
-   
+
 ---
 If you did not find your answer in the FAQ listed above, you can always ask your question in the [NEO Slack Channel](http://slack.cityofzion.io/).
