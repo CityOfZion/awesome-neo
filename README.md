@@ -74,7 +74,7 @@
 - [neo-project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
 - [NEPs](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
-- [Private Net Tutorial](https://github.com/CityOfZion/neo-privatenet-docker) - Explanation of how to setup a private version of the blockchain for smart contract testing.
+- [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
 - [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
 
 ## Exchanges
