@@ -48,6 +48,7 @@
 ## City of Zion
 
 - [Application Form](https://github.com/CityOfZion/awesome-neo/blob/master/resources/coz_application_form.md) - Process for applying to join CoZ.
+- [Community Governance](https://github.com/CityOfZion/governance) - The home of the CoZ community rules and reports.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
 - [Medium](https://medium.com/@cityofzion) - Weekly reports from CoZ.
 - [Slack](http://slack.cityofzion.io/) - Chat channels for discussion and support.
