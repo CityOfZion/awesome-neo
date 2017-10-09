@@ -1,6 +1,6 @@
 <p align="center">
-  <img
-    src="http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png"
+  <img 
+    src="http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png" 
     width="125px"
   >
 </p>
@@ -34,8 +34,8 @@
 ## Blockchain Bootstrap Files
 
 - [MainNet (drive.google.com)](https://drive.google.com/open?id=0B902ABEfKU8YTUg4ckFXTldRczA) - Up to around block 1350000.
-- [MainNet (mega.nz)|chain.acc.zip](https://mega.nz/#!JHQFgbYa!TVygP7EIZonl42i_Tpx4CV_26b1CEgPoOU04dq10h8E) - Up to around block 1427475.
-- [MainNet (mega.nz)|chain.acc](https://mega.nz/#!5C5kELAZ!DcWrOXvDh1OGdN36vUG5fAKMK9hRIRg1fAEZpzR2Tj0) - Up to around block 1441166.
+- [MainNet (mega.nz - chain.acc.zip)](https://mega.nz/#!JHQFgbYa!TVygP7EIZonl42i_Tpx4CV_26b1CEgPoOU04dq10h8E) - Up to around block 1427475.
+- [MainNet (mega.nz - chain.acc)](https://mega.nz/#!5C5kELAZ!DcWrOXvDh1OGdN36vUG5fAKMK9hRIRg1fAEZpzR2Tj0) - Up to around block 144116
 - [TestNet (drive.google.com)](https://drive.google.com/open?id=0B902ABEfKU8YbWVQdlRhamVEeEk) - Up to around block 513000.
 - [TestNet (mega.nz)](https://mega.nz/#!VM9TARSC!tE2BUwkwQF_kloJr4DvumpsneLCblIhI_iEdK28AzT8) - Up to around block 513000.
 
@@ -49,6 +49,7 @@
 ## City of Zion
 
 - [Application Form](https://github.com/CityOfZion/awesome-neo/blob/master/resources/coz_application_form.md) - Process for applying to join CoZ.
+- [Community Governance](https://github.com/CityOfZion/governance) - The home of the CoZ community rules and reports.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
 - [Medium](https://medium.com/@cityofzion) - Weekly reports from CoZ.
 - [Slack](http://slack.cityofzion.io/) - Chat channels for discussion and support.
@@ -68,13 +69,14 @@
 
 ## Developer Documentation
 
+- [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
 - [Documentation](http://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
 - [Getting Started Videos](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
 - [neo-project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
 - [NEPs](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
-- [Private Net Tutorial](https://github.com/CityOfZion/neo-privatenet-docker) - Explanation of how to setup a private version of the blockchain for smart contract testing.
-- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain.
+- [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
+- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
 
 ## Exchanges
 
@@ -130,7 +132,7 @@
 
 ## Wallets
 
-- [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator.
+- [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator. 
 - [neo-cli](https://github.com/neo-project/neo-cli/) - Official wallet built by NEO core, which is command-line based.
 - [neo-gui](https://github.com/neo-project/neo-gui/) - Official wallet built by NEO team, which has a UI.
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
