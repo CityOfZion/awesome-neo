@@ -35,7 +35,7 @@
 
 - [MainNet (drive.google.com)](https://drive.google.com/open?id=0B902ABEfKU8YTUg4ckFXTldRczA) - Up to around block 1350000.
 - [MainNet (mega.nz - chain.acc.zip)](https://mega.nz/#!JHQFgbYa!TVygP7EIZonl42i_Tpx4CV_26b1CEgPoOU04dq10h8E) - Up to around block 1427475.
-- [MainNet (mega.nz - chain.acc)](https://mega.nz/#!5C5kELAZ!DcWrOXvDh1OGdN36vUG5fAKMK9hRIRg1fAEZpzR2Tj0) - Up to around block 1441166.
+- [MainNet (mega.nz - chain.acc)](https://mega.nz/#!5C5kELAZ!DcWrOXvDh1OGdN36vUG5fAKMK9hRIRg1fAEZpzR2Tj0) - Up to around block 144116
 - [TestNet (drive.google.com)](https://drive.google.com/open?id=0B902ABEfKU8YbWVQdlRhamVEeEk) - Up to around block 513000.
 - [TestNet (mega.nz)](https://mega.nz/#!VM9TARSC!tE2BUwkwQF_kloJr4DvumpsneLCblIhI_iEdK28AzT8) - Up to around block 513000.
 
