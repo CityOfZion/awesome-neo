@@ -1,11 +1,6 @@
 # FAQ
 
 ---
-<p align="center">
-   <b>For information on how setup your wallet for the RPX ICO, check out <a href="https://www.reddit.com/r/RedPulseToken/comments/73z9pc/stepbystep_how_to_get_ready_for_the_rpx_token/">this link</a>.</b>
-</p>
-
----
 
 1. *What is the relationship between ANS and NEO?*
 
