@@ -98,11 +98,12 @@ When listing a dApp, stick to the following guidelines:
 - **Project Name**: Red Pulse Token
   - **Short Description**: Red Pulse Tokens (RPX) are NEO tokens issued by Red Pulse, an event-driven research firm covering market events impacting Chinese companies, sectors and the overall economy.
   - **Team**: See the team at [coin.red-pulse.com](https://coin.red-pulse.com).
-  - **Status**: ICO planned for October 8 2017 at:
-    - Eastern Daylight Time (EDT): 09:00
-    - Greenwich Mean Time (GMT): 13:00
-    - Hong Kong Time (HKT): 21:00
-  - **Additional Links**: [Reddit](https://www.reddit.com/r/RedPulseToken/) (including ICO specifications); [NEO-GUI-RPX Wallet download](https://github.com/Red-Pulse/neo-gui-rpx/releases), a version of the NEO-GUI wallet specifically developed for the Red Pulse RPX crowdsale.
+  - **Status**: ICO succesfully held at 8-10-2017 ($15.000.000 raised). Currently In Development and refunding the following transactions:
+    - Transactions made before RPX sale began
+    - Transactions made after RPX sale ended
+    - Transactions exceeding the 1 transaction allowed per participant in each period
+    - Transactions exceeding the cap set in each period
+  - **Additional Links**: [Reddit](https://www.reddit.com/r/RedPulseToken/) (including refund specifications); [NEO-GUI-RPX Wallet download](https://github.com/Red-Pulse/neo-gui-rpx/releases), newest version of the NEO-GUI wallet that supports RPX.
 
 <!--
 <p align="center">
