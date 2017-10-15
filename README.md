@@ -33,14 +33,18 @@
 
 ## Blockchain Bootstrap Files
 
-- [MainNet (drive.google.com - Chain.zip)](https://drive.google.com/open?id=0B37crPfBrbzyQmdjNHNENHF3dm8) - Up to block 1472545.
-- [MainNet (drive.google.com - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZWJSVFhmUHhnS0U) - Up to block 1472545.
-- [MainNet (mega.nz - chain.acc.zip)](https://mega.nz/#!JHQFgbYa!TVygP7EIZonl42i_Tpx4CV_26b1CEgPoOU04dq10h8E) - Up to block 1444116.
-- [MainNet (mega.nz - chain.acc)](https://mega.nz/#!5C5kELAZ!DcWrOXvDh1OGdN36vUG5fAKMK9hRIRg1fAEZpzR2Tj0) - Up to block 1444116
+### MainNet
 
-- [TestNet (drive.google.com - ChainTestNet.zip)](https://drive.google.com/open?id=0B37crPfBrbzyU1F3ZXowV1JTWEk) - Up to block 655731.
-- [TestNet (drive.google.com - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZzVVYk9UYXVuZ00) - Up to block 655731.
-- [TestNet (mega.nz)](https://mega.nz/#!1HgniZxS!VTGnZxb7ggiF3lqZyS0yp52vuSV4ti1JAcPjiSPCumU) - Up to block 655597.
+- [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=0B37crPfBrbzyQmdjNHNENHF3dm8) - Up to block 1472545.
+- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZWJSVFhmUHhnS0U) - Up to block 1472545.
+- [MainNet (MEGA - chain.acc.zip)](https://mega.nz/#!JHQFgbYa!TVygP7EIZonl42i_Tpx4CV_26b1CEgPoOU04dq10h8E) - Up to block 1444116.
+- [MainNet (MEGA - chain.acc)](https://mega.nz/#!5C5kELAZ!DcWrOXvDh1OGdN36vUG5fAKMK9hRIRg1fAEZpzR2Tj0) - Up to block 1444116
+
+### TestNet
+
+- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=0B37crPfBrbzyU1F3ZXowV1JTWEk) - Up to block 655731.
+- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZzVVYk9UYXVuZ00) - Up to block 655731.
+- [TestNet (MEGA)](https://mega.nz/#!1HgniZxS!VTGnZxb7ggiF3lqZyS0yp52vuSV4ti1JAcPjiSPCumU) - Up to block 655597.
 
 ## Blockchain Explorers
 
