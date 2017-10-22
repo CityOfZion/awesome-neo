@@ -85,6 +85,8 @@
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
 - [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
+- [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features
+- [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - Youtube series on smart contract programming.
 
 ## Exchanges
 
