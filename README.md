@@ -103,7 +103,7 @@
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
 - [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - Korean Exchange that does GAS-BTC and NEO-BTC.
 - [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH (only GAS).
-- KuCoin [GAS](https://www.kucoin.com/#/trade/GAS-BTC) [NEO](https://www.kucoin.com/#/trade/NEO-BTC) - Korean Exchange doing GAS-BTC and NEO-BTC.
+
 
 
 ## Frequently Asked Questions
