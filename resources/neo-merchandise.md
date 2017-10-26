@@ -26,12 +26,11 @@ When listing a product, stick to the following guidelines:
 
 ## Clothing
 
+# Accessories
+
 # T-Shirts & Hoodies
 
-- **Name**: HODL Apparels
-  - **Description**: Coin and token related clothing.
-  - **Link**: [redbubble.com](https://www.redbubble.com/people/hecadothbelial?ref=artist_title_name)
-  - **Created By**: Oksano
+- [HODL Apparels](https://www.redbubble.com/people/hecadothbelial?ref=artist_title_name) - Coin and token related clothing. Created by *Oksano*.
 
 
 <!--
@@ -40,9 +39,8 @@ When listing a product, stick to the following guidelines:
 </p>
 -->
 
-# Accessories
-
-- 
-
 ## Gadgets
 
+## Stickers
+
+- [NEO Sticker](https://www.redbubble.com/people/with-care/works/27126848-neo?grid_pos=2&p=sticker&rbs=3fd9cbb7-0d6a-4a49-9ae5-a4943ccfcf7d&ref=shop_grid) - €4.38. Created by *Crypto Keeper*.
