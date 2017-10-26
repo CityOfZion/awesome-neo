@@ -14,7 +14,8 @@
 ## Contents
 
 - [Clothing](#clothing)
-  - [Shirts](#t-shirts-&-hoodies)
+- [Gadgets](#gadgets)
+- [Stickers](#stickers)
 
 <!--
 When listing a product, stick to the following guidelines:
@@ -40,6 +41,8 @@ When listing a product, stick to the following guidelines:
 -->
 
 ## Gadgets
+
+- [Antshares Pin Badge](http://www.moderndayminer.com/product/antshares-pin-badge/) - A pin to remember Antshares by. Created by *Modern Day Miner*.
 
 ## Stickers
 
