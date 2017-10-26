@@ -91,10 +91,12 @@
 
 ## Exchanges
 
+### NEO
+
 - [AllCoin](https://allcoin.com/markets/NEO-BTC/0/) - A Canadian exhange that allows trading for BTC. *English and Chinese interfaces*
 - [Anycoindirect](https://anycoindirect.eu/en/buy/neo) - A Dutch exchange that accepts iDEAL payments. *English, Dutch, German, French, Spanish and Italian interfaces*
 - [Binance](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
-- [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC. *English, Russian and traditional and simplified Chinese interfaces*
+- [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC, ETH and USDT. *English, Russian and traditional and simplified Chinese interfaces*
 - [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-NEO) - A United States-based exchange. Allows trading for BTC, ETH and USDT.
 - [Changelly](https://changelly.com/) - A Czech-based exchange that allows trading for various other cryptocurrencies.
 - [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
@@ -105,8 +107,14 @@
 - [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
 - [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC and ETH. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
-- [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH (only GAS).
 - [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.USDT-NEO) - A Korean exchange linked to Bittrex that allows trading for KRW, BTC, ETH and USDT. *Korean interface*
+
+### GAS
+
+- [Binance](https://www.binance.com/tradeDetail.html?symbol=GAS_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
+- [Coinnest](https://www.coinnest.co.kr/market-gas) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
+- [KuCoin](https://www.kucoin.com/#/trade/GAS-BTC) - A Korean exchange that allows trading for BTC. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
+- [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH.
 
 ## Frequently Asked Questions
 - [FAQ page](https://github.com/CityOfZion/awesome-neo/blob/master/resources/faq.md) - A page with frequently asked questions.
