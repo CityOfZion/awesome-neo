@@ -23,6 +23,7 @@
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [GAS Calculators](#gas-calculators)
 - [Information Blogs](#information-blogs)
+- [Merchandise](#merchandise)
 - [Network Monitoring](#network-monitoring)
 - [SDKs](#sdks)
 - [Smart Contracts](#smart-contracts)
@@ -123,6 +124,10 @@
 - [NEO Blog](https://neo.org/en-us/blog) - Official NEO blog from core team.
 - [NEO News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
 - [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of NEO can discuss events and post information.
+
+## Merchandise
+
+- [Merchandise page](https://github.com/CityOfZion/awesome-neo/blob/master/resources/neo-merchandise.md) - A page with merchandise.
 
 ## Network Monitoring
 
