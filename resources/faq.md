@@ -108,4 +108,4 @@
     Yes, it's called [NEP-5](https://github.com/neo-project/proposals) (NEP is short for *NEO Enhancement Proposals*).
 
 ---
-If you did not find your answer in the FAQ listed above, you can always ask your question in the [NEO Slack Channel](http://slack.cityofzion.io/).
+If you did not find your answer in the FAQ listed above, you can always ask your question in the [NEO Slack Channel](http://slack.cityofzion.io/), or ask your wallet-related questions [here](https://www.reddit.com/r/NEO/comments/6tl7ej/support_wallet_questions_neoneonweb_hardware/).
