@@ -98,6 +98,7 @@
 - [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
 - [CoinSpot](https://www.coinspot.com.au/buy/ans) - An Australian exchange that allows trading for Australian Dollars (AUD).
 - [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows trading for various other cryptocurrencies.
+- [CryptoMate](https://cryptomate.co.uk/buy-neo/) - A British exchange that allows purchases using GBP.
 - [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading for BTC, LTC and DOGE.
 - [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
