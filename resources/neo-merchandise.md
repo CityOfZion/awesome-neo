@@ -27,11 +27,10 @@ When listing a product, stick to the following guidelines:
 
 ## Clothing
 
-# Accessories
-
-# T-Shirts & Hoodies
-
-- [HODL Apparels](https://www.redbubble.com/people/hecadothbelial?ref=artist_title_name) - Coin and token related clothing. Created by *Oksano*.
+- [Blocktees](https://www.blocktees.store/collections/neo-smart-collection) - T-shirts and caps.
+- [HODL Apparels](https://www.redbubble.com/people/hecadothbelial?ref=artist_title_name) - Coin and token related t-shirts. Created by *Oksano*.
+- [NEO Nation](https://www.amazon.com/s/ref=w_bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=NEO%20Nation) - Amazon based seller of various t-shirts.
+- [Taobao Focus](https://shop.tbfocus.com/item.php?id=555009655617#3586596243203) - Black and white t-shirts.
 
 
 <!--
@@ -42,7 +41,7 @@ When listing a product, stick to the following guidelines:
 
 ## Gadgets
 
-- [Antshares Pin Badge](http://www.moderndayminer.com/product/antshares-pin-badge/) - A pin to remember Antshares by. Created by *Modern Day Miner*.
+- [Antshares Pin Badge](http://www.moderndayminer.com/product/antshares-pin-badge/) - A pin to remember Antshares by.
 
 ## Stickers
 
