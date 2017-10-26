@@ -44,7 +44,7 @@
 
 - [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=0B37crPfBrbzyU1F3ZXowV1JTWEk) - Up to block 655731.
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZzVVYk9UYXVuZ00) - Up to block 655731.
-- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!1HgniZxS!VTGnZxb7ggiF3lqZyS0yp52vuSV4ti1JAcPjiSPCumU) - Up to block 655597.
+- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!RTRnRLqZ!OzGrBH6Fyzz-cjlEppNzGicv7vwtgc4M-bivRAv4e-Y) - Up to block 701840.
 
 ## Blockchain Explorers
 
