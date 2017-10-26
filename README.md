@@ -161,6 +161,7 @@
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - A light wallet for the blockchain.
 - [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
 - [neowallet](https://neowallet.cn) - Web based wallet using API.
+- [Ozone](https://o3.network/) - iOS based wallet, currently in Beta.
 
 ## White Papers
 
