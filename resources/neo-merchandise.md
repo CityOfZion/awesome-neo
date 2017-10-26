@@ -14,7 +14,7 @@
 ## Contents
 
 - [Clothing](#clothing)
-- [Gadgets](#gadgets)
+- [Accessories](#accessories)
 - [Stickers](#stickers)
 
 <!--
@@ -41,7 +41,7 @@ When listing a product, stick to the following guidelines:
 </p>
 -->
 
-## Gadgets
+## Accessories
 
 - [Antshares Pin Badge](http://www.moderndayminer.com/product/antshares-pin-badge/) - A pin to remember Antshares by.
 
