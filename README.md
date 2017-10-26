@@ -150,6 +150,7 @@
 
 - [ansy](https://snowypowers.github.io/ansy/) - A minimal paper wallet generator. 
 - [Blue Whale Web](https://otcgo.cn/#/) - A Chinese asset management platform. *Chinese interface*
+- [Ledger Wallet](https://www.ledgerwallet.com/apps/manager) - The app for the Ledger is available on the app store. Created by coranos2.
 - [neo-cli](https://github.com/neo-project/neo-cli/) - An official wallet built by the core team, which is command-line based.
 - [neo-gui](https://github.com/neo-project/neo-gui/) - An official wallet built by the core team, which has a UI.
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - A light wallet for the blockchain.
