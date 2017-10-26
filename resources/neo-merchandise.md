@@ -46,5 +46,7 @@ When listing a product, stick to the following guidelines:
 
 ## Stickers
 
+- [NEO Sticker](https://www.redbubble.com/people/tshirtdesign/works/27735886-neo-former-antshares-logo?p=sticker) - A simple logo sticker, available in multiple sizes. Created by *rahb_*.
+- [NEO Sticker](https://www.redbubble.com/people/rahbwormlord/works/27799013-neo-smart-economy-hd-logo?p=sticker) - Higher resolution logo sticker. Available in two sizes. Created by *rahb_*.
 - [NEO Sticker](http://imgur.com/iqvFNAw) - A sticker with 'NEO smart economy' on it. Order it at [blockrebelsmarketing@gmail.com](mailto:blockrebelsmarketing@gmail.com).
 - [NEO Sticker](https://www.redbubble.com/people/with-care/works/27126848-neo?grid_pos=2&p=sticker&rbs=3fd9cbb7-0d6a-4a49-9ae5-a4943ccfcf7d&ref=shop_grid) - A simple logo sticker. Created by *Crypto Keeper*.
