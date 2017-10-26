@@ -148,12 +148,12 @@
 
 ## Wallets
 
-- [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator. 
-- [Blue Whale Web](https://otcgo.cn/#/) - Chinese asset management platform. *Chinese interface*
-- [neo-cli](https://github.com/neo-project/neo-cli/) - Official wallet built by NEO core, which is command-line based.
-- [neo-gui](https://github.com/neo-project/neo-gui/) - Official wallet built by NEO team, which has a UI.
-- [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
-- [neotracker.io](https://neotracker.io/wallet) - NEO web wallet.
+- [ansy](https://snowypowers.github.io/ansy/) - A minimal paper wallet generator. 
+- [Blue Whale Web](https://otcgo.cn/#/) - A Chinese asset management platform. *Chinese interface*
+- [neo-cli](https://github.com/neo-project/neo-cli/) - An official wallet built by the core team, which is command-line based.
+- [neo-gui](https://github.com/neo-project/neo-gui/) - An official wallet built by the core team, which has a UI.
+- [neon-wallet](https://github.com/CityOfZion/neon-wallet) - A light wallet for the blockchain.
+- [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
 - [neowallet](https://neowallet.cn) - Web based wallet using API.
 
 ## White Papers
