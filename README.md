@@ -149,6 +149,7 @@
 ## Wallets
 
 - [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator. 
+- [Blue Whale Web](https://otcgo.cn/#/) - Chinese asset management platform.
 - [neo-cli](https://github.com/neo-project/neo-cli/) - Official wallet built by NEO core, which is command-line based.
 - [neo-gui](https://github.com/neo-project/neo-gui/) - Official wallet built by NEO team, which has a UI.
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
