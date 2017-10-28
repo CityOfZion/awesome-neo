@@ -25,6 +25,7 @@
 - [Information Blogs](#information-blogs)
 - [Merchandise](#merchandise)
 - [Network Monitoring](#network-monitoring)
+- [Roadmap](#roadmap)
 - [SDKs](#sdks)
 - [Smart Contracts](#smart-contracts)
 - [Wallets](#wallets)
@@ -141,6 +142,12 @@
 
 - [neo-mon](https://github.com/CityOfZion/neo-mon) - NEO network status monitor (CoZ).
 - [NEO Network](https://coranos.github.io/neo/network/) - Map based monitoring for the NEO network.
+
+## Roadmap
+
+<p align="center">
+  <img src="https://github.com/CityOfZion/awesome-neo/blob/master/resources/roadmap.jpg"/>
+</p>
 
 ## SDKs
 
