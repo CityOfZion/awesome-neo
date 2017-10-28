@@ -13,17 +13,23 @@
 
 ## Contents
 
-- [Clothing](#clothing)
 - [Accessories](#accessories)
+- [Clothing](#clothing)
 - [Stickers](#stickers)
 
 <!--
 When listing a product, stick to the following guidelines:
+* - [Product](https://link_here.com) - Short description of the product. Credits to designer if known.
 * For layout help (markup), check out this link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
 * When adding a product or category, please make sure to keep the list in that category in alphabetical order!
 -->
 
 ---
+
+## Accessories
+
+- [Antshares Pin Badge](http://www.moderndayminer.com/product/antshares-pin-badge/) - A pin to remember Antshares by.
+
 
 ## Clothing
 
@@ -34,16 +40,6 @@ When listing a product, stick to the following guidelines:
 - [NEO Nation](https://www.amazon.com/s/ref=w_bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=NEO%20Nation) - Amazon based seller of various t-shirts.
 - [Taobao Focus](https://shop.tbfocus.com/item.php?id=555009655617#3586596243203) - Black and white t-shirts.
 
-
-<!--
-<p align="center">
-  <i>Currently empty, check back later!</i>
-</p>
--->
-
-## Accessories
-
-- [Antshares Pin Badge](http://www.moderndayminer.com/product/antshares-pin-badge/) - A pin to remember Antshares by.
 
 ## Stickers
 
