@@ -146,7 +146,7 @@
 ## Roadmap
 
 <p align="center">
-  <img src="/resources/roadmap.jpg"/>
+  <img src="/resources/roadmap.jpg" width="888px"/>
 </p>
 
 ## SDKs
