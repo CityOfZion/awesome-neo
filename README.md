@@ -146,7 +146,7 @@
 ## Roadmap
 
 <p align="center">
-  <img src="https://github.com/CityOfZion/awesome-neo/blob/master/resources/roadmap.jpg"/>
+  <img src="/resources/roadmap.jpg"/>
 </p>
 
 ## SDKs
