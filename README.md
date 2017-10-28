@@ -8,7 +8,8 @@
 <h1 align="center">Awesome NEO</h1>
 
 <p align="center">
-  A curated list of awesome <b><a href="https://neo.org/">NEO</a></b> libraries, applications and resources.
+  A curated list of awesome <b><a href="https://neo.org/">NEO</a></b> libraries, applications and resources.<br/>
+  If you want to contribute to this list, please follow the <a href="https://github.com/CityOfZion/awesome-neo/blob/master/CONTRIBUTING.md">contribution guidelines</a>.
 </p>
 
 ## Contents
