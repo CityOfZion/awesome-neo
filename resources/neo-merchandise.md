@@ -15,6 +15,7 @@
 
 - [Accessories](#accessories)
 - [Clothing](#clothing)
+- [Digital Art](#digital-art)
 - [Stickers](#stickers)
 
 <!--
@@ -41,6 +42,11 @@ When listing a product, stick to the following guidelines:
 - [NEO Nation](https://www.amazon.com/s/ref=w_bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=NEO%20Nation) - Amazon based seller of various t-shirts.
 - [Taobao Focus](https://shop.tbfocus.com/item.php?id=555009655617#3586596243203) - Black and white t-shirts.
 - [Wake Up Neo](https://www.amazon.com/dp/B076YVLVLY?th=1) - T-shirt with logo and the text 'Wake Up NEO', available on Amazon in multiple colours. Created by *Hindsight_DJ*.
+
+
+## Digital Art
+
+- [Neo Planet](https://fineartamerica.com/featured/neo-planet-pnp.html) - A piece of digital artwork by *Pnp*, available on different media such as posters, prints, mugs and phone covers.
 
 
 ## Stickers
