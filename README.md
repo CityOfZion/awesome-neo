@@ -37,6 +37,7 @@
 
 ### MainNet
 
+- [MainNet (AWS S3 ap-southeast-2)](https://s3-ap-southeast-2.amazonaws.com/satoshinaire-chain/neo/chain.acc.zip) - Up to block 1512994.
 - [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=0B37crPfBrbzyQmdjNHNENHF3dm8) - Up to block 1472545.
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZWJSVFhmUHhnS0U) - Up to block 1472545.
 - [MainNet (MEGA - chain.acc.zip)](https://mega.nz/#!JHQFgbYa!TVygP7EIZonl42i_Tpx4CV_26b1CEgPoOU04dq10h8E) - Up to block 1444116.
@@ -186,5 +187,5 @@
 ---
 
 <p align="center">
-  If you want to contribute to this list, please follow the <a href="https://github.com/CityOfZion/awesome-neo/blob/master/CONTRIBUTING.md">contribution guidelines</a>.
+  If you want to contribute to this list, please follow the <a href="/CONTRIBUTING.md">contribution guidelines</a>.
 </p>
