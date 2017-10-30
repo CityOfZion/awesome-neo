@@ -23,7 +23,9 @@
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [GAS Calculators](#gas-calculators)
 - [Information Blogs](#information-blogs)
+- [Merchandise](#merchandise)
 - [Network Monitoring](#network-monitoring)
+- [Roadmap](#roadmap)
 - [SDKs](#sdks)
 - [Smart Contracts](#smart-contracts)
 - [Wallets](#wallets)
@@ -35,7 +37,7 @@
 
 ### MainNet
 
-- [MainNet (AWS S3 ap-southeast-2)](https://s3-ap-southeast-2.amazonaws.com/satoshinaire-chain/neo/chain.acc.zip) - Up to block 1512994
+- [MainNet (AWS S3 ap-southeast-2)](https://s3-ap-southeast-2.amazonaws.com/satoshinaire-chain/neo/chain.acc.zip) - Up to block 1512994.
 - [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=0B37crPfBrbzyQmdjNHNENHF3dm8) - Up to block 1472545.
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZWJSVFhmUHhnS0U) - Up to block 1472545.
 - [MainNet (MEGA - chain.acc.zip)](https://mega.nz/#!JHQFgbYa!TVygP7EIZonl42i_Tpx4CV_26b1CEgPoOU04dq10h8E) - Up to block 1444116.
@@ -91,21 +93,30 @@
 
 ## Exchanges
 
+### NEO
+
+- [AllCoin](https://allcoin.com/markets/NEO-BTC/0/) - A Canadian exhange that allows trading for BTC. *English and Chinese interfaces*
 - [Anycoindirect](https://anycoindirect.eu/en/buy/neo) - A Dutch exchange that accepts iDEAL payments. *English, Dutch, German, French, Spanish and Italian interfaces*
 - [Binance](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
-- [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC. *English, Russian and traditional and simplified Chinese interfaces*
+- [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC, ETH and USDT. *English, Russian and traditional and simplified Chinese interfaces*
 - [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-NEO) - A United States-based exchange. Allows trading for BTC, ETH and USDT.
 - [Changelly](https://changelly.com/) - A Czech-based exchange that allows trading for various other cryptocurrencies.
 - [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
 - [CoinSpot](https://www.coinspot.com.au/buy/ans) - An Australian exchange that allows trading for Australian Dollars (AUD).
 - [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows trading for various other cryptocurrencies.
+- [CryptoMate](https://cryptomate.co.uk/buy-neo/) - A British exchange that allows purchases using GBP.
 - [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading for BTC, LTC and DOGE.
 - [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
-- [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - Korean Exchange that does GAS-BTC and NEO-BTC.
-- [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH (only GAS).
+- [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC and ETH. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
+- [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.USDT-NEO) - A Korean exchange linked to Bittrex that allows trading for KRW, BTC, ETH and USDT. *Korean interface*
 
+### GAS
 
+- [Binance](https://www.binance.com/tradeDetail.html?symbol=GAS_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
+- [Coinnest](https://www.coinnest.co.kr/market-gas) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
+- [KuCoin](https://www.kucoin.com/#/trade/GAS-BTC) - A Korean exchange that allows trading for BTC. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
+- [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH.
 
 ## Frequently Asked Questions
 - [FAQ page](https://github.com/CityOfZion/awesome-neo/blob/master/resources/faq.md) - A page with frequently asked questions.
@@ -124,10 +135,20 @@
 - [NEO News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
 - [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of NEO can discuss events and post information.
 
+## Merchandise
+
+- [Merchandise page](https://github.com/CityOfZion/awesome-neo/blob/master/resources/neo-merchandise.md) - A page with merchandise.
+
 ## Network Monitoring
 
 - [neo-mon](https://github.com/CityOfZion/neo-mon) - NEO network status monitor (CoZ).
 - [NEO Network](https://coranos.github.io/neo/network/) - Map based monitoring for the NEO network.
+
+## Roadmap
+
+<p align="center">
+  <img src="/resources/roadmap.jpg" width="888px"/>
+</p>
 
 ## SDKs
 
@@ -148,13 +169,23 @@
 
 ## Wallets
 
-- [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator. 
-- [neo-cli](https://github.com/neo-project/neo-cli/) - Official wallet built by NEO core, which is command-line based.
-- [neo-gui](https://github.com/neo-project/neo-gui/) - Official wallet built by NEO team, which has a UI.
-- [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
-- [neotracker.io](https://neotracker.io/wallet) - NEO web wallet.
+- [ansy](https://snowypowers.github.io/ansy/) - A minimal paper wallet generator. 
+- [Blue Whale Web](https://otcgo.cn/#/) - A Chinese asset management platform. *Chinese interface*
+- [Ledger Wallet](https://www.ledgerwallet.com/apps/manager) - The app for the Ledger is available on the app store. Created by coranos2.
+- [neo-cli](https://github.com/neo-project/neo-cli/) - An official wallet built by the core team, which is command-line based.
+- [neo-gui](https://github.com/neo-project/neo-gui/) - An official wallet built by the core team, which has a UI.
+- [neon-wallet](https://github.com/CityOfZion/neon-wallet) - A light wallet for the blockchain.
+- [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
+- [neowallet](https://neowallet.cn) - Web based wallet using API.
+- [Ozone (O<sub>3</sub>)](https://o3.network/) - iOS based wallet, currently in Beta.
 
 ## White Papers
 
 - [Original](http://docs.neo.org/en-us/index.html) - English translation of main white paper.
 - [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
+
+---
+
+<p align="center">
+  If you want to contribute to this list, please follow the <a href="/CONTRIBUTING.md">contribution guidelines</a>.
+</p>
