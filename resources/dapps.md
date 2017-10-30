@@ -95,6 +95,12 @@ When listing a dApp, stick to the following guidelines:
   - **Status**: In Development
   - **Links**: [Github Page](https://github.com/AdExBlockchain), [Medium](https://medium.com/the-adex-blog), [Facebook](https://www.facebook.com/AdEx-by-Stremio-756186427900381/), [Telegram](https://t.me/AdExNetwork), [Twitter](https://twitter.com/AdEx_Network), [Reddit](https://www.reddit.com/r/AdEx/).
 
+- **Project Name**: Qlink
+  - **Short Description**: Qlink, developed by Qlink Foundation in Singapore, adopts the blockchain technology and creates a decentralized mobile network for P2Peer WiFi sharing, mobile data converted content distribution, enterprise telecom services and crowd-sourcing base stations (including WiFi hotspots ) set-up, generally in much lower cost and ultimate secured format. 
+  - **Team**: Founded by Allen Li.
+  - **Status**: ICO in development
+  - **Links**: [Medium Page](https://medium.com/@Qlink); [AMA summary](https://medium.com/@Qlink/qlink-noticed-you-have-questions-as-such-94aa5095d10a); 
+
 - **Project Name**: Red Pulse Token
   - **Short Description**: Red Pulse Tokens (RPX) are NEO tokens issued by Red Pulse, an event-driven research firm covering market events impacting Chinese companies, sectors and the overall economy.
   - **Team**: See the team at [coin.red-pulse.com](https://coin.red-pulse.com).
