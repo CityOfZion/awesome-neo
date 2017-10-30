@@ -15,7 +15,7 @@
 
 - [Accessories](#accessories)
 - [Clothing](#clothing)
-- [Digital Art](#digital-art)
+- [Other](#other)
 - [Stickers](#stickers)
 
 <!--
@@ -44,7 +44,7 @@ When listing a product, stick to the following guidelines:
 - [Wake Up Neo](https://www.amazon.com/dp/B076YVLVLY?th=1) - T-shirt with logo and the text 'Wake Up NEO', available on Amazon in multiple colours. Created by *Hindsight_DJ*.
 
 
-## Digital Art
+## Other
 
 - [Neo Planet](https://fineartamerica.com/featured/neo-planet-pnp.html) - A piece of digital artwork by *Pnp*, available on different media such as posters, prints, mugs and phone covers.
 
