@@ -97,7 +97,7 @@
 
 - [AllCoin](https://allcoin.com/markets/NEO-BTC/0/) - A Canadian exhange that allows trading for BTC. *English and Chinese interfaces*
 - [Anycoindirect](https://anycoindirect.eu/en/buy/neo) - A Dutch exchange that accepts iDEAL payments. *English, Dutch, German, French, Spanish and Italian interfaces*
-- [Binance](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
+- [Binance](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC) - A Hong Kong-based exchange that allows trading with BTC and ETH. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
 - [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC, ETH and USDT. *English, Russian and traditional and simplified Chinese interfaces*
 - [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-NEO) - A United States-based exchange. Allows trading for BTC, ETH and USDT.
 - [Changelly](https://changelly.com/) - A Czech-based exchange that allows trading for various other cryptocurrencies.
