@@ -137,7 +137,7 @@
 
 ## Merchandise
 
-- [Merchandise page](https://github.com/CityOfZion/awesome-neo/blob/master/resources/neo-merchandise.md) - A page with merchandise.
+- [Merchandise page](/resources/neo-merchandise.md) - A page with merchandise.
 
 ## Network Monitoring
 
