@@ -101,14 +101,14 @@
 - [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC, ETH and USDT. *English, Russian and traditional and simplified Chinese interfaces*
 - [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-NEO) - A United States-based exchange. Allows trading for BTC, ETH and USDT.
 - [Changelly](https://changelly.com/) - A Czech-based exchange that allows trading for various other cryptocurrencies.
-- [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
+- [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading for South-Korean Won (SKW). Returns GAS to users. *Korean and Chinese interface available*
 - [CoinSpot](https://www.coinspot.com.au/buy/ans) - An Australian exchange that allows trading for Australian Dollars (AUD).
 - [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows trading for various other cryptocurrencies.
 - [CryptoMate](https://cryptomate.co.uk/buy-neo/) - A British exchange that allows purchases using GBP.
 - [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading for BTC, LTC and DOGE.
 - [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
-- [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC and ETH. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
+- [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC and ETH. Returns GAS to users. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
 - [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.USDT-NEO) - A Korean exchange linked to Bittrex that allows trading for KRW, BTC, ETH and USDT. *Korean interface*
 
 ### GAS
