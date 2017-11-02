@@ -1,6 +1,6 @@
 <p align="center">
-  <img 
-    src="http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png" 
+  <img
+    src="http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png"
     width="125px"
   >
 </p>
@@ -15,6 +15,7 @@
 
 - [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
 - [Blockchain Explorers](#blockchain-explorers)
+- [Blockchain APIs](#blockchain-apis)
 - [City of Zion](#city-of-zion)
 - [Code Examples](#code-examples)
 - [dApps](#dapps)
@@ -55,15 +56,20 @@
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by the Neo Tracker team.
 - [explorer.neoverse.io](http://explorer.neoverse.io/) - Explorer created by the NEOverse team.
 
+## Blockchain APIs
+
+* [Neon wallet official REST api](https://github.com/CityOfZion/neon-wallet-db#overview-of-api)
+* [NEO API documentation](http://docs.neo.org/en-us/node/api.html) (possibly outdated)
+
 ## City of Zion
 
-- [Application Form](https://github.com/CityOfZion/awesome-neo/blob/master/resources/coz_application_form.md) - Process for applying to join CoZ.
-- [Community Governance](https://github.com/CityOfZion/governance) - The home of the CoZ community rules and reports.
+- [Website](http://cityofzion.io) - Homepage for CoZ.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
 - [Medium](https://medium.com/@cityofzion) - Weekly reports from CoZ.
 - [Slack](http://slack.cityofzion.io/) - Chat channels for discussion and support.
 - [Trello](https://trello.com/b/6TngvuLf/neoblockchaindevelopment) - Process tracker for blockchain development and design, as well as feature requests.
-- [Website](http://cityofzion.io) - Homepage for CoZ.
+- [Community Governance](https://github.com/CityOfZion/governance) - The home of the CoZ community rules and reports.
+- [Application Form](https://github.com/CityOfZion/awesome-neo/blob/master/resources/coz_application_form.md) - Process for applying to join CoZ.
 
 ## Code Examples
 
@@ -85,7 +91,7 @@
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
-- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
+- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 
@@ -149,7 +155,7 @@
 
 ## Wallets
 
-- [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator. 
+- [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator.
 - [neo-cli](https://github.com/neo-project/neo-cli/) - Official wallet built by NEO core, which is command-line based.
 - [neo-gui](https://github.com/neo-project/neo-gui/) - Official wallet built by NEO team, which has a UI.
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
