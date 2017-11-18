@@ -11,23 +11,28 @@
   A curated list of awesome <b><a href="https://neo.org/">NEO</a></b> libraries, applications and resources.
 </p>
 
-## Contents
+## Table of Contents
+**[For Developers](#for-developers)**
+* [City of Zion](#city-of-zion)
+* [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
+* [White Papers](#white-papers)
+* [Documentation](#documentation)
+* [SDKs](#sdks)
+* [Smart Contracts](#smart-contracts)
+* [Code Examples](#code-examples)
 
-- [City of Zion](#city-of-zion)
-- [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
-- [White Papers](#white-papers)
-- [Documentation](#documentation)
-- [SDKs](#sdks)
-- [Smart Contracts](#smart-contracts)
-- [Code Examples](#code-examples)
-- [dApps](#dapps)
-- [Blockchain Explorers](#blockchain-explorers)
-- [Network Monitoring](#network-monitoring)
-- [Wallets](#wallets)
-- [GAS Calculators](#gas-calculators)
-- [Exchanges](#exchanges)
-- [Information Blogs](#information-blogs)
-- [Frequently Asked Questions](#frequently-asked-questions)
+**[Mainnet blockchain](#mainnet-blockchain)**
+* [dApps](#dapps)
+* [Blockchain Explorers](#explorers)
+* [Network Monitoring](#monitoring)
+* [Wallets](#wallets)
+* [GAS Calculators](#gas-calculators)
+
+**[Exchanges](#exchanges)**
+
+**[Information Blogs](#information-blogs)**
+
+**[Frequently Asked Questions](#frequently-asked-questions)**
 
 ---
 
@@ -103,7 +108,7 @@
 - [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
 - [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
 
-## Blockchain 
+## Mainnet blockchain
 ### dApps
 
 - [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/resources/dapps.md) - Curated list of NEO dApps, in multiple stages of development.
@@ -121,7 +126,7 @@
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by the Neo Tracker team.
 - [explorer.neoverse.io](http://explorer.neoverse.io/) - Explorer created by the NEOverse team.
 
-## Wallets
+### Wallets
 
 - [ansy](https://snowypowers.github.io/ansy/) - Minimal NEO paper wallet generator. 
 - [neo-cli](https://github.com/neo-project/neo-cli/) - Official wallet built by NEO core, which is command-line based.
@@ -129,7 +134,7 @@
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
 - [neotracker.io](https://neotracker.io/wallet) - NEO web wallet.
 
-## GAS Calculators
+### GAS Calculators
 
 - [neodepot.org](https://neodepot.org/) - Calculator with an array of NEO statistical charts.
 - [neogas.io](https://neogas.io/) - Created by [@drpepper](https://www.reddit.com/user/drpepper).
