@@ -63,18 +63,33 @@
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZzVVYk9UYXVuZ00) - Up to block 655731.
 - [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!RTRnRLqZ!OzGrBH6Fyzz-cjlEppNzGicv7vwtgc4M-bivRAv4e-Y) - Up to block 701840.
 
-### Documentation
-- [Original](http://docs.neo.org/en-us/index.html) - Whitepaper, CLI, GUI, Protocol & Smart Contracts
+### Documentation Resources
+- [Documentation](http://docs.neo.org/en-us/index.html) - Whitepaper, DBFT, CLI, GUI, Protocol & Smart Contracts
 - [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
-- [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
-- [Chinese Video Tutorial](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
 - [CoZ Overview Videos](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
-- [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
+- [Chinese Video Tutorial](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
 - [NEO Project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
-- [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
 - [NEON DB for private nets](https://gist.github.com/birmas/689c37e43c7f55745233d3aeb794f833) - Setup for a NEON database to work with a private net
+- [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [FAQ](https://github.com/CityOfZion/awesome-neo/blob/master/resources/faq.md) - A page with frequently asked questions.
+
+### Smart Contract Tutorials
+
+- [C# tutorial](http://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
+- [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
+- [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
+- [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
+- [Java tutorial](http://docs.neo.org/en-us/sc/getting-started-java.html) - Tutorial on writing smart contracts in Java.
+- [Java tutorial (OSX)](https://www.youtube.com/watch?v=2EYK1ogr5i4) - Setup neoj compiler on OSX
+- [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
+
+### Code Examples
+
+- [C# smart contracts](https://github.com/neo-project/examples-csharp) - Examples of smart contracts written in C# from NEO core team.
+- [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
+- [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
+- [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
 
 ### SDKs
 
@@ -83,23 +98,6 @@
 - [neon-js](https://github.com/CityOfZion/neon-js) - Javascript libraries that allow the Neon wallet to interact with NEO blockchain.
 - [neo-python](https://github.com/CityOfZion/neo-python) - Python Node and SDK for the NEO blockchain.
 - [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for Neo Blockchain API.
-
-### Smart Contracts
-
-- [C# tutorial](http://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
-- [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
-- [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
-- [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
-- [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
-- [Java tutorial](http://docs.neo.org/en-us/sc/getting-started-java.html) - Tutorial on writing smart contracts in Java.
-- [Java tutorial (OSX)](https://www.youtube.com/watch?v=2EYK1ogr5i4) - Setup neoj compiler on OSX
-
-### Code Examples
-
-- [C# smart contracts](https://github.com/neo-project/examples-csharp) - Examples of smart contracts written in C# from NEO core team.
-- [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
-- [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
-- [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
 
 ## Mainnet blockchain
 ### dApps
