@@ -67,13 +67,14 @@
 - [Original](http://docs.neo.org/en-us/index.html) - Whitepaper, CLI, GUI, Protocol & Smart Contracts
 - [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
-- [Chinese video tutorial](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
-- [Video Overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
+- [Chinese Video Tutorial](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
+- [CoZ Overview Videos](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
 - [NEO Project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
 - [NEON DB for private nets](https://gist.github.com/birmas/689c37e43c7f55745233d3aeb794f833) - Setup for a NEON database to work with a private net
+- [FAQ](https://github.com/CityOfZion/awesome-neo/blob/master/resources/faq.md) - A page with frequently asked questions.
 
 ### SDKs
 
@@ -151,11 +152,7 @@
 
 ## Information Blogs
 
-- [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of NEO founder Da Hongfei.
-- [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of NEO co-founder Erik Zhang.
-- [NEO Blog](https://neo.org/en-us/blog) - Official NEO blog from core team.
-- [NEO News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
 - [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of NEO can discuss events and post information.
-
-## Frequently Asked Questions
-- [FAQ page](https://github.com/CityOfZion/awesome-neo/blob/master/resources/faq.md) - A page with frequently asked questions.
+- [NEO News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
+- [NEO Blog](https://neo.org/en-us/blog) - Official NEO blog from core team.
+- [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of NEO founder Da Hongfei.
