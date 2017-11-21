@@ -155,6 +155,7 @@
 - [neo-gui](https://github.com/neo-project/neo-gui/) - Official wallet built by NEO team, which has a UI.
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
 - [neotracker.io](https://neotracker.io/wallet) - NEO web wallet.
+- [otcgo.cn](https://otcgo.cn/#/) - OTCGO NEO web wallet.
 
 ## White Papers
 
