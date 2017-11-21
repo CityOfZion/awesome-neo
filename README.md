@@ -15,7 +15,6 @@
 **[For Developers](#for-developers)**
 * [City of Zion](#city-of-zion)
 * [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
-* [White Papers](#white-papers)
 * [Documentation](#documentation)
 * [SDKs](#sdks)
 * [Smart Contracts](#smart-contracts)
@@ -65,23 +64,16 @@
 - [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!RTRnRLqZ!OzGrBH6Fyzz-cjlEppNzGicv7vwtgc4M-bivRAv4e-Y) - Up to block 701840.
 
 ### Documentation
-#### White Papers
-
-- [Original](http://docs.neo.org/en-us/index.html) - English translation of main white paper.
-- [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
-
-#### Resources
+- [Original](http://docs.neo.org/en-us/index.html) - Whitepaper, CLI, GUI, Protocol & Smart Contracts
+- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
+- [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
+- [Chinese video tutorial](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
+- [Video Overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
-- [Documentation](http://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
-- [Getting Started Videos](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
-- [neo-project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
+- [NEO Project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
-- [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
 - [NEON DB for private nets](https://gist.github.com/birmas/689c37e43c7f55745233d3aeb794f833) - Setup for a NEON database to work with a private net
-- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain. 
-- [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
-- [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 
 ### SDKs
 
@@ -133,6 +125,7 @@
 - [neo-gui](https://github.com/neo-project/neo-gui/) - Official wallet built by NEO team, which has a UI.
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - Light wallet for the NEO blockchain.
 - [neotracker.io](https://neotracker.io/wallet) - NEO web wallet.
+- [otcgo.cn](https://otcgo.cn/#/) - OTCGO NEO web wallet.
 
 ### GAS Calculators
 
