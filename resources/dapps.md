@@ -95,6 +95,12 @@ When listing a dApp, stick to the following guidelines:
   - **Status**: In Development
   - **Links**: [Github Page](https://github.com/AdExBlockchain), [Medium](https://medium.com/the-adex-blog), [Facebook](https://www.facebook.com/AdEx-by-Stremio-756186427900381/), [Telegram](https://t.me/AdExNetwork), [Twitter](https://twitter.com/AdEx_Network), [Reddit](https://www.reddit.com/r/AdEx/).
 
+- **Project Name**: Aphelion
+  - **Short Description**: A Decentralized P2P Exchange Solution, Aphelion is building a next generation, tokenized, distribution mechanism to solve for the challenges plaguing the centralized cryptocurrency exchanges and trading platforms.
+  - **Team**: See te team at [aphelion.org](https://www.aphelion.org).
+  - **Status**: ICO ongoing.
+  - **Links**: [Website](https://www.aphelion.org), [Facebook](https://www.facebook.com/apheliontoken/), [LinkedIn](https://www.linkedin.com/company/11245374/), [Twitter](https://twitter.com/apheliontoken), [GitHub Page](https://github.com/aphtoken/), [Reddit](https://www.reddit.com/r/APH/), [Whitepaper](https://aphelion.org/wp.html).
+
 - **Project Name**: Qlink
   - **Short Description**: Qlink, developed by Qlink Foundation in Singapore, adopts the blockchain technology and creates a decentralized mobile network for P2Peer WiFi sharing, mobile data converted content distribution, enterprise telecom services and crowd-sourcing base stations (including WiFi hotspots ) set-up, generally in much lower cost and ultimate secured format. 
   - **Team**: Founded by Allen Li.
