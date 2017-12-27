@@ -80,6 +80,7 @@
 
 ## Developer Documentation
 
+- [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
 - [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
 - [Documentation](http://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
 - [Getting Started Videos](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
