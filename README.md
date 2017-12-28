@@ -58,6 +58,7 @@
 - [antcha.in](http://antcha.in/) - Mature explorer from before the re-brand.
 - [neoexplorer.co](https://neoexplorer.co/) - New but very stable explorer, launched in August 2017.
 - [neoscan.io](https://neoscan.io/) - Explorer created by CoZ.
+- [CoZ TestNet neoscan.io](https://coz.neoscan-testnet.io/) - Neoscan for CoZ TestNet
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by the Neo Tracker team.
 - [explorer.neoverse.io](http://explorer.neoverse.io/) - Explorer created by the NEOverse team.
 
