@@ -51,7 +51,7 @@
 
 ### CoZ TestNet
 
-- [CoZ TestNet (MEGA - CoZ_ChainTestNet.zip)](https://mega.nz/#!UKZ32JSY!WrapnZBkqJ6kbzm4N_fFcHmT2QkNjEC7-dXcnZYB5ng)
+- [CoZ TestNet (MEGA - CoZ_ChainTestNet.zip)](https://mega.nz/#!UKZ32JSY!WrapnZBkqJ6kbzm4N_fFcHmT2QkNjEC7-dXcnZYB5ng) - Up to block 159000.
 
 ## Blockchain Explorers
 
