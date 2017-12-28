@@ -49,7 +49,7 @@
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZzVVYk9UYXVuZ00) - Up to block 655731.
 - [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!RTRnRLqZ!OzGrBH6Fyzz-cjlEppNzGicv7vwtgc4M-bivRAv4e-Y) - Up to block 701840.
 
-## CoZ TestNet
+### CoZ TestNet
 
 - [CoZ TestNet (MEGA - CoZ_ChainTestNet.zip)](https://mega.nz/#!UKZ32JSY!WrapnZBkqJ6kbzm4N_fFcHmT2QkNjEC7-dXcnZYB5ng)
 
