@@ -49,6 +49,10 @@
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZzVVYk9UYXVuZ00) - Up to block 655731.
 - [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!RTRnRLqZ!OzGrBH6Fyzz-cjlEppNzGicv7vwtgc4M-bivRAv4e-Y) - Up to block 701840.
 
+## CoZ TestNet
+
+- [CoZ TestNet (MEGA - CoZ_ChainTestNet)]()
+
 ## Blockchain Explorers
 
 - [antcha.in](http://antcha.in/) - Mature explorer from before the re-brand.
@@ -93,6 +97,7 @@
 - [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
+- [CoZ TestNet Faucet](http://faucet.cityofzion.io/) - Information about CoZ TestNet and automatic NEO/GAS distribution using CoZ faucet.
 
 ## Exchanges
 
