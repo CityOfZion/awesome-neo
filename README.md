@@ -122,6 +122,7 @@
 - [Exrates](https://exrates.me/dashboard?name=BTC/NEO) - An Armenian exchange that allows trading for BTC and USDT. *English, Russian, Chinese, Indonesian and Arabic interfaces*
 - [Gate.io](https://gate.io/trade/neo_usdt) - A United States-based exchange. Allows trading for USDT and BTC. *English and Chinese interfaces*
 - [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
+- [Huobi.pro](https://www.huobi.pro/en-us/neo_btc/exchange/) - A Seychelles-based exchange that allows trading for BTC. *English, Chinese, Japanese, Korean, Russian, German, French and Spanish interfaces*
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
 - [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC, GAS and ETH. Returns GAS to users. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
 - [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.USDT-NEO) - A Korean exchange linked to Bittrex that allows trading for KRW, BTC, ETH and USDT. *Korean interface*
@@ -131,6 +132,7 @@
 - [Binance](https://www.binance.com/tradeDetail.html?symbol=GAS_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
 - [Coinnest](https://www.coinnest.co.kr/market-gas) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
 - [Gate.io](https://gate.io/trade/GAS_BTC) - A United States-based exchange that allows trading for BTC and USDT. *English and Chinese interfaces*
+- [Huobi.pro](https://www.huobi.pro/en-us/gas_btc/exchange/) - A Seychelles-based exchange that allows trading for BTC. *English, Chinese, Japanese, Korean, Russian, German, French and Spanish interfaces*
 - [KuCoin](https://www.kucoin.com/#/trade/GAS-BTC) - A Korean exchange that allows trading for BTC and NEO. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
 - [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH.
 
