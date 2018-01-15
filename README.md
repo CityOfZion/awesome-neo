@@ -125,6 +125,7 @@
 
 - [Binance](https://www.binance.com/tradeDetail.html?symbol=GAS_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
 - [Coinnest](https://www.coinnest.co.kr/market-gas) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
+- [Gate.io](https://gate.io/trade/GAS_BTC) - A United States-based exchange that allows trading for BTC and USDT. *English and Chinese interfaces*
 - [KuCoin](https://www.kucoin.com/#/trade/GAS-BTC) - A Korean exchange that allows trading for BTC and NEO. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
 - [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH.
 
