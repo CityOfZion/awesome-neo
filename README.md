@@ -124,7 +124,8 @@
 - [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
 - [Huobi.pro](https://www.huobi.pro/en-us/neo_btc/exchange/) - A Seychelles-based exchange that allows trading for BTC. *English, Chinese, Japanese, Korean, Russian, German, French and Spanish interfaces*
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
-- [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC, GAS and ETH. Returns GAS to users. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
+- [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC, GAS and ETH, and various altcoins. Returns GAS to users. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
+- [LBank](https://www.lbank.info/trading/neo/btc) - A Hong-Kong-based exchange that allows trading for BTC and DBC. *English and Chinese interfaces*
 - [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.USDT-NEO) - A Korean exchange linked to Bittrex that allows trading for KRW, BTC, ETH and USDT. *Korean interface*
 
 ### GAS
