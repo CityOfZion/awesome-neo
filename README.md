@@ -126,6 +126,7 @@
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
 - [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC, GAS and ETH, and various altcoins. Returns GAS to users. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
 - [LBank](https://www.lbank.info/trading/neo/btc) - A Hong-Kong-based exchange that allows trading for BTC and DBC. *English and Chinese interfaces*
+- [OKEX](https://www.okex.com/spot.html) - A Chinese exchange that allows trading for BTC, ETH, USDT and BCH. *English and Chinese interfaces*
 - [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.USDT-NEO) - A Korean exchange linked to Bittrex that allows trading for KRW, BTC, ETH and USDT. *Korean interface*
 
 ### GAS
@@ -135,6 +136,7 @@
 - [Gate.io](https://gate.io/trade/GAS_BTC) - A United States-based exchange that allows trading for BTC and USDT. *English and Chinese interfaces*
 - [Huobi.pro](https://www.huobi.pro/en-us/gas_btc/exchange/) - A Seychelles-based exchange that allows trading for BTC. *English, Chinese, Japanese, Korean, Russian, German, French and Spanish interfaces*
 - [KuCoin](https://www.kucoin.com/#/trade/GAS-BTC) - A Korean exchange that allows trading for BTC and NEO. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
+- [OKEX](https://www.okex.com/spot.html) - A Chinese exchange that allows trading for BTC, ETH, USDT and BCH. *English and Chinese interfaces*
 - [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH.
 
 ## Frequently Asked Questions
