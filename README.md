@@ -83,7 +83,7 @@
 
 ## dApps
 
-- [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/resources/dapps.md) - Curated list of NEO dApps, in multiple stages of development.
+- [List of dApps](https://neo.org/dapps) - Official list of dApps on the NEO blockchain.
 
 ## Developer Documentation
 
