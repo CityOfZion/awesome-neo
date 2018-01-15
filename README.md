@@ -36,18 +36,17 @@
 ## Blockchain Bootstrap Files
 
 ### MainNet
-
-- [MainNet (AWS S3 ap-southeast-2)](https://s3-ap-southeast-2.amazonaws.com/satoshinaire-chain/neo/chain-1662054.acc.zip) - Up to block 1662054.
-- [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=0B37crPfBrbzyQmdjNHNENHF3dm8) - Up to block 1472545.
-- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZWJSVFhmUHhnS0U) - Up to block 1472545.
-- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!ZfwRlJRL!hKO6KQyC0VdXUTBDVGABkdQrLkoqams1GgVTiAuZfDo) - **Up to block 1775832**.
-- [MainNet (MEGA - chain.acc)](https://mega.nz/#!5C5kELAZ!DcWrOXvDh1OGdN36vUG5fAKMK9hRIRg1fAEZpzR2Tj0) - Up to block 1444116.
+- [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=1N0XGRPZRUYOkY__eC3uU7o7_CP1BgNLX) - 1/15/2018
+- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=14fGr_MIZPf51_V7InNwx1GAN_PEB_86F) - 1/15/2018
+- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!cR1lFDTT!cZbhNe5KLiISVk2pAC8kTVGR_xdJrsINHp1j_vY-Hdk) - 1/15/2018
+- [MainNet (MEGA - chain.acc)](https://mega.nz/#!0UN1lZ4I!2EJSsLWCGSKX25DIlOpjsp1sMwUxFSQGFOZduHjCu8c) - 1/15/2018
 
 ### TestNet
 
-- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=0B37crPfBrbzyU1F3ZXowV1JTWEk) - Up to block 655731.
-- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZzVVYk9UYXVuZ00) - Up to block 655731.
-- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!RTRnRLqZ!OzGrBH6Fyzz-cjlEppNzGicv7vwtgc4M-bivRAv4e-Y) - Up to block 701840.
+- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=1ZNcYG9YuYRKRmD-CRirvh89xxTvnV0Ys) - 1/15/2018
+- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1KcPqwFSG6G7AcxKLBqBhBnEUeSjNb8SF) - 1/15/2018
+- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!1F1iVDJJ!MkZbEq8_Y6OOJDSUmjHMbnrv8J6cRRYdQEnEPjN7uiQ) - 1/15/2018
+- [TestNet (Google Drive - chain.acc)](https://mega.nz/#!cE9g1ToL!JvnUdfrLAwcfv1Lm7w-y_9ZjXuC6pJt7F_sLWMFtrOE) - 1/15/2018
 
 ### CoZ TestNet
 
