@@ -154,9 +154,15 @@
 
 - [Da Hongfei Twitter account](https://twitter.com/dahongfei) - Official Twitter account of NEO founder Da Hongfei.
 - [Erik Zhang Twitter account](https://twitter.com/neoerikzhang) - Official Twitter account of NEO co-founder Erik Zhang.
+- [NEO Bitcoin Talk](https://bitcointalk.org/index.php?topic=2057932.0) - A forum where fans of NEO can discuss events and post information.
 - [NEO Blog](https://neo.org/en-us/blog) - Official NEO blog from core team.
+- [NEO Discord Channel](https://discordapp.com/invite/R8v48YA) - A place to discuss everything NEO-related.
+- [NEO Facebook](https://www.facebook.com/NEOSmartEcon) - The Facebook account for the NEO Smart Economy.
 - [NEO News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
+- [NEO Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Proposed Q&A site for developers, educatiors and users of NEO.
 - [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of NEO can discuss events and post information.
+- [NEO Twitter account](https://twitter.com/neo_blockchain) - Official Twitter account of the NEO team.
+- [NEO YouTube](https://www.youtube.com/channel/UCl1AwEDN0w5lTmfJEMsY5Vw/videos) - The official YouTube account of the NEO Team.
 
 ## Merchandise
 
