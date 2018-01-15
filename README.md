@@ -127,6 +127,7 @@
 - [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC, GAS and ETH, and various altcoins. Returns GAS to users. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
 - [LBank](https://www.lbank.info/trading/neo/btc) - A Hong-Kong-based exchange that allows trading for BTC and DBC. *English and Chinese interfaces*
 - [OKEX](https://www.okex.com/spot.html) - A Chinese exchange that allows trading for BTC, ETH, USDT and BCH. *English and Chinese interfaces*
+- [QUOINEX](https://quoinex.com/) - A Japanese exchange that allows trading for BTC and USDT.
 - [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.USDT-NEO) - A Korean exchange linked to Bittrex that allows trading for KRW, BTC, ETH and USDT. *Korean interface*
 
 ### GAS
