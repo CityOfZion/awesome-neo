@@ -22,6 +22,7 @@
 - [Exchanges](#exchanges)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [GAS Calculators](#gas-calculators)
+- [ICOs on NEO](#icos-on-neo)
 - [Information Blogs](#information-blogs)
 - [Merchandise](#merchandise)
 - [Network Monitoring](#network-monitoring)
@@ -150,6 +151,10 @@
 - [neodepot.org](https://neodepot.org/) - Calculator with an array of NEO statistical charts.
 - [neogas.io](https://neogas.io/) - Created by [@drpepper](https://www.reddit.com/user/drpepper).
 - [neotogas.com](https://neotogas.com) - Created by [@n1njawtf](https://twitter.com/n1njawtf).
+
+## ICOs on Neo
+
+- [State of NEO](https://stateofneo.com/ico/) - A curated website that lists promising ICOs, funded projects and suspicious projects using the NEO name.
 
 ## Information Blogs
 
