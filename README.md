@@ -115,6 +115,7 @@
 - [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows trading for various other cryptocurrencies.
 - [CryptoMate](https://cryptomate.co.uk/buy-neo/) - A British exchange that allows purchases using GBP.
 - [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading for BTC, LTC and DOGE.
+- [Gate.io](https://gate.io/trade/neo_usdt) - A United States-based exchange. Allows trading for USDT and BTC. *English and Chinese interfaces*
 - [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
 - [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC, GAS and ETH. Returns GAS to users. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
