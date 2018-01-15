@@ -119,6 +119,7 @@
 - [CoolCoin](https://www.coolcoin.com/btc/neo/) - An Australian exchange that allows trading for BTC. *English and Chinese interfaces*
 - [CryptoMate](https://cryptomate.co.uk/buy-neo/) - A British exchange that allows purchases using GBP.
 - [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading for BTC, LTC and DOGE.
+- [Exrates](https://exrates.me/dashboard?name=BTC/NEO) - An Armenian exchange that allows trading for BTC and USDT. *English, Russian, Chinese, Indonesian and Arabic interfaces*
 - [Gate.io](https://gate.io/trade/neo_usdt) - A United States-based exchange. Allows trading for USDT and BTC. *English and Chinese interfaces*
 - [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
 - [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
