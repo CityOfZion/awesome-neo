@@ -128,6 +128,7 @@
 - [LBank](https://www.lbank.info/trading/neo/btc) - A Hong-Kong-based exchange that allows trading for BTC and DBC. *English and Chinese interfaces*
 - [OKEX](https://www.okex.com/spot.html) - A Chinese exchange that allows trading for BTC, ETH, USDT and BCH. *English and Chinese interfaces*
 - [QUOINEX](https://quoinex.com/) - A Japanese exchange that allows trading for BTC and USDT.
+- [TDAX](https://tdax.com/exchange/market/NEO-THB) - A Thailand-based exchange that allows trading for Thai Baht (THB), BTC and ETH. *English, Chinese and Thai interfaces*
 - [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.USDT-NEO) - A Korean exchange linked to Bittrex that allows trading for KRW, BTC, ETH and USDT. *Korean interface*
 
 ### GAS
