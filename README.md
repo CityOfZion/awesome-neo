@@ -82,6 +82,10 @@
 
 - [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/resources/dapps.md) - Curated list of NEO dApps, in multiple stages of development.
 
+## ICOs
+
+- [Upcoming ICOs](https://docs.google.com/spreadsheets/d/1g21tYH2ctNqapcP4W-_WWLqF2SODB7FNakeXpDLTlYc/htmlview?usp=sharing&sle=true) - Curated sheet of upcoming ICOs hosted on the NEO Blockchain
+
 ## Developer Documentation
 
 - [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
