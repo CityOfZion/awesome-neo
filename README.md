@@ -80,7 +80,7 @@
 
 ## dApps
 
-- [NEO dApp List (neo.org)](https://neo.org/dapps)
+- [NEO dApp List (neo.org)](https://neo.org/dapps) - Official list of dApps maintained by the NEO Council.
 - [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/resources/dapps.md) - Curated list of NEO dApps, in multiple stages of development.
 
 ## ICOs
