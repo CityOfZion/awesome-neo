@@ -38,7 +38,7 @@
 ### MainNet
 - [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=1N0XGRPZRUYOkY__eC3uU7o7_CP1BgNLX) - 1/15/2018
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=14fGr_MIZPf51_V7InNwx1GAN_PEB_86F) - 1/15/2018
-- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!cR1lFDTT!cZbhNe5KLiISVk2pAC8kTVGR_xdJrsINHp1j_vY-Hdk) - 1/15/2018
+- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!HBwzEJLQ!SaaaiMlK31tbhxjw-BMZL_cQpBH91XtCcZmdOmQOmKE) - 1/20/2018
 - [MainNet (MEGA - chain.acc)](https://mega.nz/#!0UN1lZ4I!2EJSsLWCGSKX25DIlOpjsp1sMwUxFSQGFOZduHjCu8c) - 1/15/2018
 
 ### TestNet
