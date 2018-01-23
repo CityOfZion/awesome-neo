@@ -39,17 +39,19 @@
 - [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=1N0XGRPZRUYOkY__eC3uU7o7_CP1BgNLX) - 1/15/2018
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=14fGr_MIZPf51_V7InNwx1GAN_PEB_86F) - 1/15/2018
 - [MainNet (MEGA - chain.acc)](https://mega.nz/#!0UN1lZ4I!2EJSsLWCGSKX25DIlOpjsp1sMwUxFSQGFOZduHjCu8c) - 1/15/2018
+- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!HBwzEJLQ!SaaaiMlK31tbhxjw-BMZL_cQpBH91XtCcZmdOmQOmKE) - 1/23/2018
+
 
 ### TestNet
 
 - [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=1ZNcYG9YuYRKRmD-CRirvh89xxTvnV0Ys) - 1/15/2018
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1KcPqwFSG6G7AcxKLBqBhBnEUeSjNb8SF) - 1/15/2018
-- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!1F1iVDJJ!MkZbEq8_Y6OOJDSUmjHMbnrv8J6cRRYdQEnEPjN7uiQ) - 1/15/2018
+- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!2A5xkLjb!_yq1dq7joH8xGblpKB-jH7rnV3dT4sAlv3mufeoEZJI) - 1/23/2018
 - [TestNet (Google Drive - chain.acc)](https://mega.nz/#!cE9g1ToL!JvnUdfrLAwcfv1Lm7w-y_9ZjXuC6pJt7F_sLWMFtrOE) - 1/15/2018
 
 ### CoZ TestNet
 
-- [CoZ TestNet (MEGA - CoZ_ChainTestNet.zip)](https://mega.nz/#!UKZ32JSY!WrapnZBkqJ6kbzm4N_fFcHmT2QkNjEC7-dXcnZYB5ng) - Up to block 159000.
+- [CoZ TestNet (MEGA - CoZ_ChainTestNet.zip)](https://mega.nz/#!oC5RyLjK!t2PMAkkk0_V7-WRczFPXI_vfKdyPOCvSfKxZ8ccvibU) - 1/23/2018
 
 ## Blockchain Explorers
 
