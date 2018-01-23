@@ -13,6 +13,7 @@
 
 ## Contents
 
+- [White Papers](#white-papers)
 - [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
 - [Blockchain Explorers](#blockchain-explorers)
 - [City of Zion](#city-of-zion)
@@ -29,9 +30,14 @@
 - [SDKs](#sdks)
 - [Smart Contracts](#smart-contracts)
 - [Wallets](#wallets)
-- [White Papers](#white-papers)
 
 ---
+
+## White Papers
+
+- [Original](http://docs.neo.org/en-us/index.html) - English translation of main white paper.
+- [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
+
 
 ## Blockchain Bootstrap Files
 
@@ -194,11 +200,6 @@
 - [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
 - [neowallet](https://neowallet.cn) - Web based wallet using API.
 - [Ozone (O<sub>3</sub>)](https://o3.network/) - iOS based wallet, currently in Beta.
-
-## White Papers
-
-- [Original](http://docs.neo.org/en-us/index.html) - English translation of main white paper.
-- [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
 
 ---
 
