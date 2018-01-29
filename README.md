@@ -20,6 +20,7 @@
 - [Code Examples](#code-examples)
 - [dApps](#dapps)
 - [Developer Documentation](#developer-documentation)
+- [Economy](#economy)
 - [Exchanges](#exchanges)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [GAS Calculators](#gas-calculators)
@@ -109,6 +110,10 @@
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 - [CoZ TestNet Faucet](http://faucet.cityofzion.io/) - Information about CoZ TestNet and automatic NEO/GAS distribution using CoZ faucet.
+
+## Economy
+
+- [NEO Economy](https://neoeconomy.io) - Curated list of NEO and NEP-5 Token economy statistics, such as average block rate, market cap, pricing, volume, ended ICO prices aswell as details on upcoming ICO.
 
 ## Exchanges
 
