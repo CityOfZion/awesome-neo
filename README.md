@@ -195,8 +195,8 @@
 - [Java tutorial (OSX)](https://www.youtube.com/watch?v=2EYK1ogr5i4) - Setup neoj compiler on OSX
 
 ### Python
-- [Python tutorial](https://www.youtube.com/watch?v=OP8z8OLKwC0) - Use Python to Deploy Neo Smart Contracts
 - [Dev Environment Setup](https://youtu.be/WBNzb_XwhBM) - Video walk-through of getting setup to develop smart contracts in python
+- [Python tutorial](https://www.youtube.com/watch?v=OP8z8OLKwC0) - Use Python to Deploy Neo Smart Contracts
 
 ## Wallets
 
