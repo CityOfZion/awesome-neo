@@ -196,6 +196,7 @@
 
 ### Python
 - [Python tutorial](https://www.youtube.com/watch?v=OP8z8OLKwC0) - Use Python to Deploy Neo Smart Contracts
+- [Video Tutorials](https://www.youtube.com/playlist?list=PLRzTNBWJe5bzRa2nyTxZyfbI8x93GFd3p) - Dev environment setup, workflows, and smart contracts written in Python
 
 ## Wallets
 
