@@ -13,12 +13,14 @@
 
 ## Contents
 
+- [White Papers](#white-papers)
 - [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
 - [Blockchain Explorers](#blockchain-explorers)
 - [City of Zion](#city-of-zion)
 - [Code Examples](#code-examples)
 - [dApps](#dapps)
 - [Developer Documentation](#developer-documentation)
+- [Economy](#economy)
 - [Exchanges](#exchanges)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [GAS Calculators](#gas-calculators)
@@ -30,29 +32,34 @@
 - [SDKs](#sdks)
 - [Smart Contracts](#smart-contracts)
 - [Wallets](#wallets)
-- [White Papers](#white-papers)
 
 ---
+
+## White Papers
+
+- [Original](http://docs.neo.org/en-us/index.html) - English translation of main white paper.
+- [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
+
 
 ## Blockchain Bootstrap Files
 
 ### MainNet
+- [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=1N0XGRPZRUYOkY__eC3uU7o7_CP1BgNLX) - 1/15/2018
+- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=14fGr_MIZPf51_V7InNwx1GAN_PEB_86F) - 1/15/2018
+- [MainNet (MEGA - chain.acc)](https://mega.nz/#!0UN1lZ4I!2EJSsLWCGSKX25DIlOpjsp1sMwUxFSQGFOZduHjCu8c) - 1/15/2018
+- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!HBwzEJLQ!SaaaiMlK31tbhxjw-BMZL_cQpBH91XtCcZmdOmQOmKE) - 1/23/2018
 
-- [MainNet (AWS S3 ap-southeast-2)](https://s3-ap-southeast-2.amazonaws.com/satoshinaire-chain/neo/chain-1662054.acc.zip) - Up to block 1662054.
-- [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=0B37crPfBrbzyQmdjNHNENHF3dm8) - Up to block 1472545.
-- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZWJSVFhmUHhnS0U) - Up to block 1472545.
-- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!ZfwRlJRL!hKO6KQyC0VdXUTBDVGABkdQrLkoqams1GgVTiAuZfDo) - **Up to block 1775832**.
-- [MainNet (MEGA - chain.acc)](https://mega.nz/#!5C5kELAZ!DcWrOXvDh1OGdN36vUG5fAKMK9hRIRg1fAEZpzR2Tj0) - Up to block 1444116.
 
 ### TestNet
 
-- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=0B37crPfBrbzyU1F3ZXowV1JTWEk) - Up to block 655731.
-- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=0B37crPfBrbzyZzVVYk9UYXVuZ00) - Up to block 655731.
-- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!RTRnRLqZ!OzGrBH6Fyzz-cjlEppNzGicv7vwtgc4M-bivRAv4e-Y) - Up to block 701840.
+- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=1ZNcYG9YuYRKRmD-CRirvh89xxTvnV0Ys) - 1/15/2018
+- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1KcPqwFSG6G7AcxKLBqBhBnEUeSjNb8SF) - 1/15/2018
+- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!2A5xkLjb!_yq1dq7joH8xGblpKB-jH7rnV3dT4sAlv3mufeoEZJI) - 1/23/2018
+- [TestNet (Google Drive - chain.acc)](https://mega.nz/#!cE9g1ToL!JvnUdfrLAwcfv1Lm7w-y_9ZjXuC6pJt7F_sLWMFtrOE) - 1/15/2018
 
 ### CoZ TestNet
 
-- [CoZ TestNet (MEGA - CoZ_ChainTestNet.zip)](https://mega.nz/#!UKZ32JSY!WrapnZBkqJ6kbzm4N_fFcHmT2QkNjEC7-dXcnZYB5ng) - Up to block 159000.
+- [CoZ TestNet (MEGA - CoZ_ChainTestNet.zip)](https://mega.nz/#!oC5RyLjK!t2PMAkkk0_V7-WRczFPXI_vfKdyPOCvSfKxZ8ccvibU) - 1/23/2018
 
 ## Blockchain Explorers
 
@@ -77,16 +84,25 @@
 ## Code Examples
 
 - [C# smart contracts](https://github.com/neo-project/examples-csharp) - Examples of smart contracts written in C# from NEO core team.
+- [Community Code Snippets](https://github.com/nickazg/neo-snippets) - Categorised examples of helpful code snippets for smart contracts.
 - [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
 - [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
 - [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
+- [Python smart contracts](https://github.com/CityOfZion/awesome-neo/resources/python-examples.md#code-examples) - Examples of smart contracts written in Python, from the Neo Python core team and DApp competition entrants.
+
 
 ## dApps
 
-- [List of dApps](https://neo.org/dapps) - Official list of dApps on the NEO blockchain.
+- [NEO dApp List (neo.org)](https://neo.org/dapps) - Official list of dApps maintained by the NEO Council.
+- [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/resources/dapps.md) - Curated list of NEO dApps, in multiple stages of development.
+
+## ICOs
+
+- [Upcoming ICOs](https://docs.google.com/spreadsheets/d/1g21tYH2ctNqapcP4W-_WWLqF2SODB7FNakeXpDLTlYc/htmlview?usp=sharing&sle=true) - Curated sheet of upcoming ICOs hosted on the NEO Blockchain
 
 ## Developer Documentation
 
+- [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/quickstart-csharp/README.md) - Complete (very detailed) step-by-step guidance with screen shots
 - [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
 - [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
 - [Documentation](http://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
@@ -95,12 +111,18 @@
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
+- [Neoscan for private nets](https://github.com/slipo/neo-scan-docker) - Setup for neoscan to work with a private net. There's also a docker-compose.yml file to easily setup a fully-functional [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) along with neoscan.
 - [NEON DB for private nets](https://gist.github.com/birmas/689c37e43c7f55745233d3aeb794f833) - Setup for a NEON database to work with a private net.
 - [NEON DB for private nets #2](https://github.com/ixje/neon-wallet-db/blob/master/privnet-install.md) - Setup NEON database inside the private net docker (verbose steps)
+- [NEON DB for private nets #3](https://gist.github.com/slipo/f18f1a0b5e6adb7b0bf172b93379d891) - Full docker-compose setup using the [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) and [NeonDB image](https://hub.docker.com/r/slipoh/neon-wallet-db/) from Docker Hub.
 - [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 - [CoZ TestNet Faucet](http://faucet.cityofzion.io/) - Information about CoZ TestNet and automatic NEO/GAS distribution using CoZ faucet.
+
+## Economy
+
+- [NEO Economy](https://neoeconomy.io) - Curated list of NEO and NEP-5 Token economy statistics, such as average block rate, market cap, pricing, volume, ended ICO prices aswell as details on upcoming ICO.
 
 ## Exchanges
 
@@ -197,14 +219,21 @@
 
 ## Smart Contracts
 
-- [C# tutorial](http://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
-- [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
 - [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
 - [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
+
+### C&#35;
+- [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
+- [C# tutorial](http://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
+
+### Java
 - [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
 - [Java tutorial](http://docs.neo.org/en-us/sc/getting-started-java.html) - Tutorial on writing smart contracts in Java.
 - [Java tutorial (OSX)](https://www.youtube.com/watch?v=2EYK1ogr5i4) - Setup neoj compiler on OSX
+
+### Python
 - [Python tutorial](https://www.youtube.com/watch?v=OP8z8OLKwC0) - Use Python to Deploy Neo Smart Contracts
+- [Video Tutorials](https://www.youtube.com/playlist?list=PLRzTNBWJe5bzRa2nyTxZyfbI8x93GFd3p) - Dev environment setup, workflows, and smart contracts written in Python
 
 ## Wallets
 
@@ -217,11 +246,6 @@
 - [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
 - [neowallet](https://neowallet.cn) - Web based wallet using API.
 - [Ozone (O<sub>3</sub>)](https://o3.network/) - iOS based wallet, currently in Beta.
-
-## White Papers
-
-- [Original](http://docs.neo.org/en-us/index.html) - English translation of main white paper.
-- [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
 
 ---
 
