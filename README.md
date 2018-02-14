@@ -82,9 +82,11 @@
 ## Code Examples
 
 - [C# smart contracts](https://github.com/neo-project/examples-csharp) - Examples of smart contracts written in C# from NEO core team.
+- [Community Code Snippets](https://github.com/nickazg/neo-snippets) - Categorised examples of helpful code snippets for smart contracts.
 - [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
 - [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
 - [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
+
 
 ## dApps
 
