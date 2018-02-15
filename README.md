@@ -221,6 +221,7 @@
 
 - [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
 - [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
+- [Python Smart Contract Programming Workshop](https://github.com/CityOfZion/python-smart-contract-workshop) - Workshop for developing smart contracts with Python, from 0 to nex ico template.
 
 ### C&#35;
 - [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
