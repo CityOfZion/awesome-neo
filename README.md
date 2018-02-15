@@ -103,6 +103,7 @@
 ## Developer Documentation
 
 - [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/quickstart-csharp/README.md) - Complete (very detailed) step-by-step guidance with screen shots
+- [NEO Blockchain Architecture Reference Model for .NET Developers (neo-charm)](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/neo-charm/README.md) - Architecture reference model .NET developers
 - [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
 - [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
 - [Documentation](http://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
