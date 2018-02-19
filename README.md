@@ -94,7 +94,6 @@
 ## dApps
 
 - [NEO dApp List (neo.org)](https://neo.org/dapps) - Official list of dApps maintained by the NEO Council.
-- [List of dApps](https://github.com/CityOfZion/awesome-neo/blob/master/resources/dapps.md) - Curated list of NEO dApps, in multiple stages of development.
 
 ## ICOs
 
@@ -130,7 +129,7 @@
 
 - [AllCoin](https://allcoin.com/markets/NEO-BTC/0/) - A Canadian exhange that allows trading for BTC. *English and Chinese interfaces*
 - [Anycoindirect](https://anycoindirect.eu/en/buy/neo) - A Dutch exchange that accepts iDEAL payments. *English, Dutch, German, French, Spanish and Italian interfaces*
-- [BCEX](https://www.bcex.ca/trade/ans2btc) - A Chinese exchange 
+- [BCEX](https://www.bcex.ca/trade/ans2btc) - A Chinese exchange
 - [BigONE](https://big.one/trade/NEO-BTC) - An exchange with unknown location that allows trading for BTC. *English and Chinese interfaces*
 - [Binance](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC) - A Hong Kong-based exchange that allows trading with BTC and ETH. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
 - [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC, ETH and USDT. *English, Russian and traditional and simplified Chinese interfaces*
