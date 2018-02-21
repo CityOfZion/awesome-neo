@@ -44,18 +44,17 @@
 ## Blockchain Bootstrap Files
 
 ### MainNet
-- [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=1N0XGRPZRUYOkY__eC3uU7o7_CP1BgNLX) - 1/15/2018
-- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=14fGr_MIZPf51_V7InNwx1GAN_PEB_86F) - 1/15/2018
-- [MainNet (MEGA - chain.acc)](https://mega.nz/#!0UN1lZ4I!2EJSsLWCGSKX25DIlOpjsp1sMwUxFSQGFOZduHjCu8c) - 1/15/2018
-- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!HBwzEJLQ!SaaaiMlK31tbhxjw-BMZL_cQpBH91XtCcZmdOmQOmKE) - 1/23/2018
-
+- [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=19qL1LbRW_xKs4ecKEyxuF_iC9NYazYes) - 2/21/2018
+- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1EZ9Jjt8yjW4I6txirDle6VHypCyE66Br) - 2/21/2018
+- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!8ENzRC4I!D3V9GR-fampdeYMqD3s3VsqCvysxapgBHOepM_zehgM) - 2/21/2018
+- [MainNet (MEGA - chain.acc)](https://mega.nz/#!gIMlQJbK!kGFWoXiLRYfHHVYc9pA6MXalzVjOh93v_cBSMdFg3hU) - 2/21/2018
 
 ### TestNet
 
-- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=1ZNcYG9YuYRKRmD-CRirvh89xxTvnV0Ys) - 1/15/2018
-- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1KcPqwFSG6G7AcxKLBqBhBnEUeSjNb8SF) - 1/15/2018
-- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!2A5xkLjb!_yq1dq7joH8xGblpKB-jH7rnV3dT4sAlv3mufeoEZJI) - 1/23/2018
-- [TestNet (Google Drive - chain.acc)](https://mega.nz/#!cE9g1ToL!JvnUdfrLAwcfv1Lm7w-y_9ZjXuC6pJt7F_sLWMFtrOE) - 1/15/2018
+- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=1XjwJ_UlbrPJ2PomquDe6t6uJ8sJPJnSy) - 2/21/2018
+- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1vaOTRQPiPeHCGuVq8XCxgYxAY7pqa_lu) - 2/21/2018
+- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!9McGWLxC!MkEgQvxzwhpKsOw9o2HoaRcBKwOSOLG4wheL4ZSAADM) - 2/21/2018
+- [TestNet (MEGA - chain.acc)](https://mega.nz/#!kcFhnYRK!34rGKj7PuhNvQ5-M0IArWjqgVjB6triLnbI_HOczh-E) - 2/21/2018
 
 ### CoZ TestNet
 
@@ -72,7 +71,6 @@
 
 ## City of Zion
 
-- [Application Form](https://github.com/CityOfZion/awesome-neo/blob/master/resources/coz_application_form.md) - Process for applying to join CoZ.
 - [Community Governance](https://github.com/CityOfZion/governance) - The home of the CoZ community rules and reports.
 - [Facebook](https://www.facebook.com/CityOfZionOfficial/) - Facebook account of CoZ.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
