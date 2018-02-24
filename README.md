@@ -41,7 +41,7 @@
 - [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
 
 
-## Blockchain Bootstrap Files
+## Blockchain Bootstrap Files For C# Client
 
 ### MainNet
 - [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=19qL1LbRW_xKs4ecKEyxuF_iC9NYazYes) - 2/21/2018
