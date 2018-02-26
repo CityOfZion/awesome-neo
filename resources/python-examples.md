@@ -13,6 +13,7 @@
 ## Code Examples
 
 ### Smart Contract Examples
+- [Python smart contract programming workshop](https://github.com/CityOfZion/python-smart-contract-workshop) - A workshop for getting started with NEO smart contract programming in Python.
 - [Neo Python smart contract](https://github.com/CityOfZion/neo-python/blob/master/examples/smart-contract.py) - An example of a Neo Python Smart contract, provided by Neo Python.
 - [Splyse Neo Smart IoT smart contract](https://github.com/Splyse/neo-smart-iot/blob/master/elcaro-contract.py) - dApp Competition entrant.
 - [BlockAuth smart contract](https://github.com/CityOfZion/neo-python/blob/master/examples/smart-contract.py) - dApp Competition entrant.
