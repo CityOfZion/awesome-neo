@@ -30,6 +30,4 @@ You must be logged into a Google account in order to fill out the form; this is 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-If you are an experienced developer, please also consider taking the time to commit to our NEO Stack Exchange proposal at: http://area51.stackexchange.com/proposals/110921/neo-blockchain
-
 **NOTE**: If for some reason the link stops working, hop on the NEO Blockchain Discord or message us here at GitHub, and we'll get it back up again. Thanks!
