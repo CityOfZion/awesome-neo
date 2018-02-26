@@ -44,6 +44,7 @@
 ## Blockchain Bootstrap Files
 
 ### MainNet
+- [MainNet (S3 - Chain.zip)](https://s3.amazonaws.com/neo-experiments/Chain-MainNet_2018-02-21.zip) - 2/21/2018
 - [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=19qL1LbRW_xKs4ecKEyxuF_iC9NYazYes) - 2/21/2018
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1EZ9Jjt8yjW4I6txirDle6VHypCyE66Br) - 2/21/2018
 - [MainNet (MEGA - Chain.zip)](https://mega.nz/#!8ENzRC4I!D3V9GR-fampdeYMqD3s3VsqCvysxapgBHOepM_zehgM) - 2/21/2018
