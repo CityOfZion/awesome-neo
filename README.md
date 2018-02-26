@@ -114,7 +114,6 @@
 - [NEON DB for private nets](https://gist.github.com/birmas/689c37e43c7f55745233d3aeb794f833) - Setup for a NEON database to work with a private net.
 - [NEON DB for private nets #2](https://github.com/ixje/neon-wallet-db/blob/master/privnet-install.md) - Setup NEON database inside the private net docker (verbose steps)
 - [NEON DB for private nets #3](https://gist.github.com/slipo/f18f1a0b5e6adb7b0bf172b93379d891) - Full docker-compose setup using the [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) and [NeonDB image](https://hub.docker.com/r/slipoh/neon-wallet-db/) from Docker Hub.
-- [Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Q&A site for developers, educators, and users of the blockchain.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 - [CoZ TestNet Faucet](http://faucet.cityofzion.io/) - Information about CoZ TestNet and automatic NEO/GAS distribution using CoZ faucet.
@@ -187,7 +186,6 @@
 - [NEO Discord Channel](https://discordapp.com/invite/R8v48YA) - A place to discuss everything NEO-related.
 - [NEO Facebook](https://www.facebook.com/NEOSmartEcon) - The Facebook account for the NEO Smart Economy.
 - [NEO News Today](https://neonewstoday.com/) - Community-made website with news and information, including Q&A's.
-- [NEO Stack Exchange](https://area51.stackexchange.com/proposals/110921/neo-blockchain) - Proposed Q&A site for developers, educatiors and users of NEO.
 - [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of NEO can discuss events and post information.
 - [NEO Twitter account](https://twitter.com/neo_blockchain) - Official Twitter account of the NEO team.
 - [NEO YouTube](https://www.youtube.com/channel/UCl1AwEDN0w5lTmfJEMsY5Vw/videos) - The official YouTube account of the NEO Team.
