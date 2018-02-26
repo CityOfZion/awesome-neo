@@ -67,7 +67,7 @@
 - [neoscan.io](https://neoscan.io/) - Explorer created by CoZ.
 - [CoZ TestNet neoscan.io](https://coz.neoscan-testnet.io/) - Neoscan for CoZ TestNet
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by the Neo Tracker team.
-- [explorer.neoverse.io](http://explorer.neoverse.io/) - Explorer created by the NEOverse team.
+- [~~explorer.neoverse.io~~](http://explorer.neoverse.io/) (Deprecated) - Explorer created by the NEOverse team.
 
 ## City of Zion
 
@@ -75,7 +75,7 @@
 - [Facebook](https://www.facebook.com/CityOfZionOfficial/) - Facebook account of CoZ.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
 - [Medium](https://medium.com/@cityofzion) - Weekly reports from CoZ.
-- [Trello](https://trello.com/b/6TngvuLf/neoblockchaindevelopment) - Process tracker for blockchain development and design, as well as feature requests.
+- [~~Trello~~](https://trello.com/b/6TngvuLf/neoblockchaindevelopment) (Deprecated) - Process tracker for blockchain development and design, as well as feature requests.
 - [Twitter](https://twitter.com/coz_official) - Twitter account of CoZ.
 - [Website](http://cityofzion.io) - Homepage for CoZ.
 
@@ -86,8 +86,6 @@
 - [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
 - [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
 - [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
-- [Python smart contracts](https://github.com/CityOfZion/awesome-neo/resources/python-examples.md#code-examples) - Examples of smart contracts written in Python, from the Neo Python core team and DApp competition entrants.
-
 
 ## dApps
 
@@ -139,7 +137,6 @@
 - [CoinSpot](https://www.coinspot.com.au/buy/ans) - An Australian exchange that allows trading for Australian Dollars (AUD).
 - [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows trading for various other cryptocurrencies.
 - [CoolCoin](https://www.coolcoin.com/btc/neo/) - An Australian exchange that allows trading for BTC. *English and Chinese interfaces*
-- [CryptoMate](https://cryptomate.co.uk/buy-neo/) - A British exchange that allows purchases using GBP.
 - [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading for BTC, LTC and DOGE.
 - [Exrates](https://exrates.me/dashboard?name=BTC/NEO) - An Armenian exchange that allows trading for BTC and USDT. *English, Russian, Chinese, Indonesian and Arabic interfaces*
 - [Gate.io](https://gate.io/trade/neo_usdt) - A United States-based exchange. Allows trading for USDT and BTC. *English and Chinese interfaces*

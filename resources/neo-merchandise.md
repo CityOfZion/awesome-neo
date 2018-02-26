@@ -37,21 +37,15 @@ When listing a product, stick to the following guidelines:
 - [Blocktees](https://www.blocktees.store/collections/neo-smart-collection) - T-shirts and caps.
 - [Crypto Fashion](https://www.amazon.com/s/ref=w_bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=Crypto+Fashion) - Cryptocurrency related T-Shirts, available on Amazon.
 - [Distressed Logo](https://www.amazon.com/dp/B076YYD3V9) - T-shirt with distorted logo and name, available on Amazon in multiple colours. Created by *Hindsight_DJ*.
-- [HODL Apparels](https://www.redbubble.com/people/hecadothbelial?ref=artist_title_name) - Coin and token related t-shirts. Created by *Oksano*.
 - [NEO Logo shirt](https://www.amazon.com/dp/B074Y6W1S1?th=1) - T-shirt with logo. Created by *Azza1070*.
 - [NEO Nation](https://www.amazon.com/s/ref=w_bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=NEO%20Nation) - Amazon based seller of various t-shirts.
 - [Taobao Focus](https://shop.tbfocus.com/item.php?id=555009655617#3586596243203) - Black and white t-shirts.
 - [Wake Up Neo](https://www.amazon.com/dp/B076YVLVLY?th=1) - T-shirt with logo and the text 'Wake Up NEO', available on Amazon in multiple colours. Created by *Hindsight_DJ*.
 
-
 ## Other
 
 - [Neo Planet](https://fineartamerica.com/featured/neo-planet-pnp.html) - A piece of digital artwork by *Pnp*, available on different media such as posters, prints, mugs and phone covers.
 
-
 ## Stickers
 
-- [NEO Sticker](https://www.redbubble.com/people/tshirtdesign/works/27735886-neo-former-antshares-logo?p=sticker) - A simple logo sticker, available in multiple sizes. Created by *rahb_*.
-- [NEO Sticker](https://www.redbubble.com/people/rahbwormlord/works/27799013-neo-smart-economy-hd-logo?p=sticker) - Higher resolution logo sticker. Available in two sizes. Created by *rahb_*.
 - [NEO Sticker](http://imgur.com/iqvFNAw) - A sticker with 'NEO smart economy' on it. Order it at [blockrebelsmarketing@gmail.com](mailto:blockrebelsmarketing@gmail.com).
-- [NEO Sticker](https://www.redbubble.com/people/with-care/works/27126848-neo?grid_pos=2&p=sticker&rbs=3fd9cbb7-0d6a-4a49-9ae5-a4943ccfcf7d&ref=shop_grid) - A simple logo sticker. Created by *Crypto Keeper*.

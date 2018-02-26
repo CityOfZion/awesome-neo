@@ -20,7 +20,7 @@
 
 5. *How can I check the status of my transaction?*
 
-   You can check it on any NEO blockchain explorer, such as http://antcha.in or http://antchain.xyz. You can find additional blockchain explorers in the sidebar of the [NEO subreddit](https://www.reddit.com/r/NEO/).
+   You can check it on any NEO blockchain explorer, such as http://antcha.in or ~~http://antchain.xyz~~ (Deprecated). You can find additional blockchain explorers in the sidebar of the [NEO subreddit](https://www.reddit.com/r/NEO/).
 
 6. *How do I know whether my wallet is fully synchronised with the blockchain?*
 
@@ -40,7 +40,7 @@
 
 9. *I can't see my NEO in my wallet! Is it gone?*
 
-   1. Most of the time, whenever your NEO or GAS is not showing up in your wallet, the problem lies with the wallet. To make sure your NEO is safe, you can check your balance on a NEO blockchain explorer, such as http://antcha.in or https://antchain.xyz/. 
+   1. Most of the time, whenever your NEO or GAS is not showing up in your wallet, the problem lies with the wallet. To make sure your NEO is safe, you can check your balance on a NEO blockchain explorer, such as http://antcha.in or ~~https://antchain.xyz/~~ (Deprecated). 
 
    2. Make sure your wallet is fully synchronised. If it is, and there is still no NEO in your wallet, then:
 
@@ -50,8 +50,8 @@
 
 10. *How can a Mac user claim GAS?*
 
-    Mac users can use [this link](https://github.com/CityOfZion/neon-wallet/releases/download/0.0.5/Mac.Neon-0.0.5.dmg) to download the NEON wallet, which they can use to claim Gas (and send NEO/GAS). 
-    
+    Mac users can use [this link](https://github.com/CityOfZion/neon-wallet/releases) to download the NEON wallet, which they can use to claim Gas (and send NEO/GAS).
+
 11. *If I keep my NEO on an exchange, can I still get my GAS?*
 
     This depends on the exchange; some (like [Binance](https://www.binance.com/)) have chosen to give users their GAS when you leave your NEO on the exchange, while others (like [Bittrex](https://www.bittrex.com/)) keep the NEO for themselves. If you want to make sure you receive your Gas, move your NEO to a private wallet and manually claim your GAS.
@@ -105,7 +105,7 @@
 
 21. *Is there an equivalent of ERC-20 standard for NEO?*
 
-    Yes, it's called [NEP-5](https://github.com/neo-project/proposals) (NEP is short for *NEO Enhancement Proposals*).
+    Yes, it's called [NEP-5](https://github.com/neo-project/proposals/blob/master/nep-5.mediawiki) (NEP is short for *NEO Enhancement Proposals*).
 
 ---
-If you did not find your answer in the FAQ listed above, you can always ask your question in the [NEO Slack Channel](http://slack.cityofzion.io/).
+If you did not find your answer in the FAQ listed above, you can always ask your question in the [NEO Discord Channel](https://discordapp.com/invite/R8v48YA).
