@@ -93,7 +93,7 @@
 
 ## dApps
 
-- [NEO dApp List (neo.org)](https://neo.org/dapps) - Official list of dApps maintained by the NEO Council.
+- [NEO dApp List (neo.org)](http://ndapp.org/) - Official list of dApps maintained by the NEO Council.
 
 ## ICOs
 
