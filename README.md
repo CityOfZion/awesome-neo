@@ -88,7 +88,7 @@
 - [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
 - [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
 - [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
-- [Python smart contracts](https://github.com/CityOfZion/awesome-neo/resources/python-examples.md#code-examples) - Examples of smart contracts written in Python, from the Neo Python core team and DApp competition entrants.
+- [Python smart contracts](https://github.com/CityOfZion/neo-python/tree/master/examples) - Examples of smart contracts written in Python, from the Neo Python core team and DApp competition entrants.
 
 
 ## dApps
