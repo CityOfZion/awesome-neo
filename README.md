@@ -100,6 +100,7 @@
 
 ## Developer Documentation
 
+- [What is the subset of C# supported by the NEO compiler and NEO VM](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/README.md#what-is-the-subset-of-c-supported-by-the-neo-compiler-and-neo-vm)
 - [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/quickstart-csharp/README.md) - Complete (very detailed) step-by-step guidance with screen shots
 - [NEO Blockchain Architecture Reference Model for .NET Developers (neo-charm)](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/neo-charm/README.md) - Architecture reference model for .NET developers
 - [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
