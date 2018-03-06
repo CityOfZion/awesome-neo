@@ -18,7 +18,7 @@
 - [Splyse Neo Smart IoT smart contract](https://github.com/Splyse/neo-smart-iot/blob/master/elcaro-contract.py) - dApp Competition entrant.
 - [BlockAuth smart contract](https://github.com/CityOfZion/neo-python/blob/master/examples/smart-contract.py) - dApp Competition entrant.
 - [LuckyNeo smart contract](https://github.com/mmoravec/luckyneo/blob/master/LuckyNeo.py) - Ddpp Competition entrant.
-- [Krpyton smart contract](https://github.com/MediaServe/KRYPTON/blob/master/contract/krypton.py) - dApp Competition entrant.
+- [Krypton smart contract](https://github.com/MediaServe/KRYPTON/blob/master/contract/krypton.py) - dApp Competition entrant.
 - [Sunny DApp smart contract](https://github.com/JorritvandenBerg/sunny-dapp/blob/master/smartcontract/sunny_dapp.py) - dApp Competition entrant.
 
 ### Middleware Examples

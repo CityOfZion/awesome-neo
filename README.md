@@ -28,6 +28,7 @@
 - [Information Blogs](#information-blogs)
 - [Merchandise](#merchandise)
 - [Network Monitoring](#network-monitoring)
+- [Published Articles](#published-articles)
 - [Roadmap](#roadmap)
 - [SDKs](#sdks)
 - [Smart Contracts](#smart-contracts)
@@ -41,7 +42,7 @@
 - [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
 
 
-## Blockchain Bootstrap Files
+## Blockchain Bootstrap Files For C# Client
 
 ### MainNet
 - [MainNet (S3 - Chain.zip)](https://s3.amazonaws.com/neo-experiments/Chain-MainNet_2018-02-21.zip) - 2/21/2018
@@ -87,10 +88,11 @@
 - [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
 - [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
 - [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
+- [Python smart contracts](https://github.com/CityOfZion/awesome-neo/blob/master/resources/python-examples.md#code-examples) - Examples of smart contracts written in Python, from the Neo Python core team and DApp competition entrants.
 
 ## dApps
 
-- [NEO dApp List (neo.org)](https://neo.org/dapps) - Official list of dApps maintained by the NEO Council.
+- [NEO dApp List (neo.org)](http://ndapp.org/) - Official list of dApps maintained by the NEO Council.
 
 ## ICOs
 
@@ -196,6 +198,17 @@
 - [neo-mon](https://github.com/CityOfZion/neo-mon) - NEO network status monitor (CoZ).
 - [NEO Network](https://coranos.github.io/neo/network/) - Map based monitoring for the NEO network.
 
+## Published Articles
+- [Coopetition: A New Approach to Decentralization](https://medium.com/proof-of-working/decentralization-from-coopetition-b10d7ce3b9d)
+- [CoZ first dApps competition dApp review](https://medium.com/proof-of-working/coz-first-dapps-competition-dapp-review-3a6b284afaef)
+- [Creating and running a NEO Node on Microsoft Azure in under 30 minutes](https://medium.com/@gubanotorious/creating-and-running-a-neo-node-on-microsoft-azure-in-under-30-minutes-ad8d79b9edf)
+- [Encrypted messaging on the NEO blockchain](https://medium.com/proof-of-working/encrypted-messaging-on-the-neo-blockchain-631bbfcf99f6)
+- [How to build an ICO on NEO with the NEX ICO smart contract template](https://medium.com/proof-of-working/how-to-build-an-ico-on-neo-with-the-nex-ico-smart-contract-template-1beac1ff0afd)
+- [How to run a private network of the NEO blockchain](https://medium.com/proof-of-working/how-to-run-a-private-network-of-the-neo-blockchain-d83004557359)
+- [Installing and Running a NEO Blockchain Node using neo-python on Windows 10](https://medium.com/@gubanotorious/installing-and-running-neo-python-on-windows-10-284fb518b213)
+- [Test Networks and Fund Requests for Smart Contract and dApp Testing on the NEO Blockchain](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412)
+- [Using Random Numbers in Neo Smart Contracts](https://medium.com/@ambethia/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d)
+
 ## Roadmap
 
 <p align="center">
@@ -204,6 +217,7 @@
 
 ## SDKs
 
+- [neo-go](https://github.com/CityOfZion/neo-go) - Golang Node and SDK for the NEO blockchain.
 - [neo-go-sdk](https://github.com/CityOfZion/neo-go-sdk) - Golang SDK for the NEO blockchain.
 - [neo-js](https://github.com/CityOfZion/neo-js) - Javascript Node and SDK for the NEO blockchain.
 - [neon-js](https://github.com/CityOfZion/neon-js) - Javascript libraries that allow the Neon wallet to interact with NEO blockchain.
