@@ -219,6 +219,7 @@
 
 ## SDKs
 
+- [neo-go](https://github.com/CityOfZion/neo-go) - Golang Node and SDK for the NEO blockchain.
 - [neo-go-sdk](https://github.com/CityOfZion/neo-go-sdk) - Golang SDK for the NEO blockchain.
 - [neo-js](https://github.com/CityOfZion/neo-js) - Javascript Node and SDK for the NEO blockchain.
 - [neon-js](https://github.com/CityOfZion/neon-js) - Javascript libraries that allow the Neon wallet to interact with NEO blockchain.
