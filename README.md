@@ -46,7 +46,7 @@
 
 ### MainNet
 
-- [MainNet (S3 - Chain09Mar.zip)](https://s3.eu-west-2.amazonaws.com/ashant-neo/Chain09Mar.zip) - Up to block 2002315.
+- [Mainnet (S3 - chain.acc.zip)](https://s3.eu-west-2.amazonaws.com/ashant-neo/chain.acc.zip) - Up to block ~2022949
 
 ### TestNet
 
