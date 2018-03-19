@@ -199,6 +199,7 @@
 - [Coopetition: A New Approach to Decentralization](https://medium.com/proof-of-working/decentralization-from-coopetition-b10d7ce3b9d)
 - [CoZ first dApps competition dApp review](https://medium.com/proof-of-working/coz-first-dapps-competition-dapp-review-3a6b284afaef)
 - [Creating and running a NEO Node on Microsoft Azure in under 30 minutes](https://medium.com/@gubanotorious/creating-and-running-a-neo-node-on-microsoft-azure-in-under-30-minutes-ad8d79b9edf)
+- [Creating a NEO Blockchain Hosted Private Network on Microsoft Azure in Under 30 Minutes](https://medium.com/@gubanotorious/creating-a-neo-blockchain-hosted-private-network-on-microsoft-azure-in-under-30-minutes-4d38c6bf6f3c)
 - [Encrypted messaging on the NEO blockchain](https://medium.com/proof-of-working/encrypted-messaging-on-the-neo-blockchain-631bbfcf99f6)
 - [How to build an ICO on NEO with the NEX ICO smart contract template](https://medium.com/proof-of-working/how-to-build-an-ico-on-neo-with-the-nex-ico-smart-contract-template-1beac1ff0afd)
 - [How to run a private network of the NEO blockchain](https://medium.com/proof-of-working/how-to-run-a-private-network-of-the-neo-blockchain-d83004557359)
