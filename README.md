@@ -19,6 +19,7 @@
 - [City of Zion](#city-of-zion)
 - [Code Examples](#code-examples)
 - [dApps](#dapps)
+- [NEO dApps Competitions](#neo-dapps-competitions)
 - [Developer Documentation](#developer-documentation)
 - [Economy](#economy)
 - [Exchanges](#exchanges)
@@ -90,6 +91,11 @@
 ## dApps
 
 - [NEO dApp List (neo.org)](http://ndapp.org/) - Official list of dApps maintained by the NEO Council.
+
+## NEO Competitions
+
+- [NEO Competitions](resources/neo-competitions.md) - List of NEO dApps competitions (with Github links).
+
 
 ## ICOs
 
