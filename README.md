@@ -42,18 +42,22 @@
 - [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
 
 
-## Blockchain Bootstrap Files For C# Client
+## Blockchain Bootstrap Files
 
 ### MainNet
 
+- [TestNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=1jlTJoFRVTDxLpeo0MxrntV9E3FP-b1Ep) - 3/30/2018
+- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=16XlO2EE4342As6o8YW2lgrrPXEW1o-5J) - 3/30/2018
+- [TestNet (MEGA - Chain.zip)](https://mega.nz/#!sddkDJpS!sZWr1CzEPiSwnPx8YYNt2sL4MVyK7hIXv_QhUCbcCj4) - 3/30/2018
+- [TestNet (MEGA - chain.acc)](https://mega.nz/#!hFFGTIwT!6tpsckP3_dTjxRGAqKYKmdBle9K47GZi5_Z0WrpFZ4Q) - 3/30/2018
 - [Mainnet (S3 - chain.acc.zip)](http://static.neo.org/client/chain.acc.zip) - Up to block ~2022949
 
 ### TestNet
 
-- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=1XjwJ_UlbrPJ2PomquDe6t6uJ8sJPJnSy) - 2/21/2018
-- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1vaOTRQPiPeHCGuVq8XCxgYxAY7pqa_lu) - 2/21/2018
-- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!9McGWLxC!MkEgQvxzwhpKsOw9o2HoaRcBKwOSOLG4wheL4ZSAADM) - 2/21/2018
-- [TestNet (MEGA - chain.acc)](https://mega.nz/#!kcFhnYRK!34rGKj7PuhNvQ5-M0IArWjqgVjB6triLnbI_HOczh-E) - 2/21/2018
+- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=13V9W_LF8hJZFzn6jmnxIBbu6QmfZvJr8) - 3/30/2018
+- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1SubsQbGr48CQXFv2L3pPLDc1JlhhpAnI) - 3/30/2018
+- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!BFFCnZST!s7HFSlFU1PqPy7pidic8t23RsHtyDMSJ15oU-EYTijI) - 3/30/2018
+- [TestNet (MEGA - chain.acc)](https://mega.nz/#!Rc81UZTD!v8gLlnDKgDTJ12J6_WoZaYX7-uBoE6phLX5hMYiyGp4) - 3/30/2018
 
 ### CoZ TestNet
 
