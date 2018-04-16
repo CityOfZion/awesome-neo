@@ -54,7 +54,7 @@
 
 11. *If I keep my NEO on an exchange, can I still get my GAS?*
 
-    This depends on the exchange; some (like [Binance](https://www.binance.com/)) have chosen to give users their GAS when you leave your NEO on the exchange, while others (like [Bittrex](https://www.bittrex.com/)) keep the NEO for themselves. If you want to make sure you receive your Gas, move your NEO to a private wallet and manually claim your GAS.
+    This depends on the exchange; some (like [Binance](https://www.binance.com/)) have chosen to give users their GAS when you leave your NEO on the exchange, while others (like [Bittrex](https://www.bittrex.com/)) keep the GAS for themselves. If you want to make sure you receive your Gas, move your NEO to a private wallet and manually claim your GAS.
 
 12. *How many NEO do I need to start earning GAS?*
 
