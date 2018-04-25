@@ -46,31 +46,23 @@
 
 ### MainNet 2.7.3
 
-- [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=1jlTJoFRVTDxLpeo0MxrntV9E3FP-b1Ep) - 3/30/2018
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=16XlO2EE4342As6o8YW2lgrrPXEW1o-5J) - 3/30/2018
-- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!sddkDJpS!sZWr1CzEPiSwnPx8YYNt2sL4MVyK7hIXv_QhUCbcCj4) - 3/30/2018
 - [MainNet (MEGA - chain.acc)](https://mega.nz/#!hFFGTIwT!6tpsckP3_dTjxRGAqKYKmdBle9K47GZi5_Z0WrpFZ4Q) - 3/30/2018
 - [Mainnet (S3 - chain.acc.zip)](http://static.neo.org/client/chain.acc.zip) - Up to block ~2022949
 
 ### TestNet 2.7.3
 
-- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=13V9W_LF8hJZFzn6jmnxIBbu6QmfZvJr8) - 3/30/2018
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1SubsQbGr48CQXFv2L3pPLDc1JlhhpAnI) - 3/30/2018
-- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!BFFCnZST!s7HFSlFU1PqPy7pidic8t23RsHtyDMSJ15oU-EYTijI) - 3/30/2018
 - [TestNet (MEGA - chain.acc)](https://mega.nz/#!Rc81UZTD!v8gLlnDKgDTJ12J6_WoZaYX7-uBoE6phLX5hMYiyGp4) - 3/30/2018
 
 ### MainNet 2.7.4
 
-- [MainNet (Google Drive - Chain.zip)](https://drive.google.com/open?id=1EcaIjrOHugg7b18FV9YK6sBRLLD9AdgY) - 4/1/2018
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1NS7zZiSjRr_pBqWg8ggEnvFtN6uPSsOa) - 4/1/2018
-- [MainNet (MEGA - Chain.zip)](https://mega.nz/#!NIMTHJzJ!NOd1ZzXp1wWI0-41IHjcGCwNkAuM3EjBrXkKzh9CBc4) - 4/1/2018
 - [MainNet (MEGA - chain.acc)](https://mega.nz/#!1JNnjIrC!bR5O3OAmxtogxSI9pw4ms3_dRIhJgHr_R08GkIYs_-g) - 4/1/2018
 
 ### TestNet 2.7.4
 
-- [TestNet (Google Drive - ChainTestNet.zip)](https://drive.google.com/open?id=1KY077bzFE8qvWCINWU-4egI6SNsOE4dC) - 4/1/2018
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1H8-7aByFebyKhasQpe6ztLbJOkShFul4) - 4/1/2018
-- [TestNet (MEGA - ChainTestNet.zip)](https://mega.nz/#!VVlnXS6B!gbR5roxiICb-2pditToIAHxF2MwR3__-yEOVQaD7vbI) - 4/1/2018
 - [TestNet (MEGA - chain.acc)](https://mega.nz/#!cJMHXLiI!kwyt-xDKE3KEV4xLdAC-35A_xqfyr3WnG_EL7hR0nVQ) - 4/1/2018
 
 ### CoZ TestNet
