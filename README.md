@@ -83,7 +83,7 @@
 - [Community Governance](https://github.com/CityOfZion/governance) - The home of the CoZ community rules and reports.
 - [Facebook](https://www.facebook.com/CityOfZionOfficial/) - Facebook account of CoZ.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
-- [Medium](https://medium.com/@cityofzion) - Weekly reports from CoZ.
+- [Medium](https://medium.com/proof-of-working) - Weekly reports from CoZ.
 - [~~Trello~~](https://trello.com/b/6TngvuLf/neoblockchaindevelopment) (Deprecated) - Process tracker for blockchain development and design, as well as feature requests.
 - [Twitter](https://twitter.com/coz_official) - Twitter account of CoZ.
 - [Website](http://cityofzion.io) - Homepage for CoZ.
