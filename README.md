@@ -22,7 +22,6 @@
 - [NEO dApps Competitions](#neo-dapps-competitions)
 - [Developer Documentation](#developer-documentation)
 - [Economy](#economy)
-- [Exchanges](#exchanges)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [GAS Calculators](#gas-calculators)
 - [ICOs on NEO](#icos-on-neo)
@@ -135,46 +134,6 @@
 ## Economy
 
 - [NEO Economy](https://neoeconomy.io) - Curated list of NEO and NEP-5 Token economy statistics, such as average block rate, market cap, pricing, volume, ended ICO prices aswell as details on upcoming ICO.
-
-## Exchanges
-
-### NEO
-
-- [AllCoin](https://allcoin.com/markets/NEO-BTC/0/) - A Canadian exhange that allows trading for BTC. *English and Chinese interfaces*
-- [Anycoindirect](https://anycoindirect.eu/en/buy/neo) - A Dutch exchange that accepts iDEAL payments. *English, Dutch, German, French, Spanish and Italian interfaces*
-- [BCEX](https://www.bcex.ca/trade/ans2btc) - A Chinese exchange
-- [BigONE](https://big.one/trade/NEO-BTC) - An exchange with unknown location that allows trading for BTC. *English and Chinese interfaces*
-- [Binance](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC) - A Hong Kong-based exchange that allows trading with BTC and ETH. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
-- [Bitfinex](https://www.bitfinex.com/stats) - A Hong Kong-based exchange where you can trade with BTC, ETH and USDT. *English, Russian and traditional and simplified Chinese interfaces*
-- [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-NEO) - A United States-based exchange. Allows trading for BTC, ETH and USDT.
-- [Changelly](https://changelly.com/) - A Czech-based exchange that allows trading for various other cryptocurrencies.
-- [CoinEgg](https://www.coinegg.com/neo/) - A British exchange that allows trading for BTC. *English and Chinese interfaces*
-- [Coinnest](https://www.coinnest.co.kr/market-neo) - A Korean exchange that allows trading for South-Korean Won (SKW). Returns GAS to users. *Korean and Chinese interface available*
-- [CoinSpot](https://www.coinspot.com.au/buy/ans) - An Australian exchange that allows trading for Australian Dollars (AUD).
-- [CoinSwitch](https://www.coinswitch.co/exchange/btc/neo) - An Indian exchange that allows trading for various other cryptocurrencies.
-- [CoolCoin](https://www.coolcoin.com/btc/neo/) - An Australian exchange that allows trading for BTC. *English and Chinese interfaces*
-- [Cryptopia.co](https://www.cryptopia.co.nz/Exchange?market=NEO_BTC) - A New Zealand-based exchange that allows trading for BTC, LTC and DOGE.
-- [Exrates](https://exrates.me/dashboard?name=BTC/NEO) - An Armenian exchange that allows trading for BTC and USDT. *English, Russian, Chinese, Indonesian and Arabic interfaces*
-- [Gate.io](https://gate.io/trade/neo_usdt) - A United States-based exchange. Allows trading for USDT and BTC. *English and Chinese interfaces*
-- [HitBTC](https://hitbtc.com/NEO-to-ETH) - A European exchange that allows trading for BTC, ETH and USDT.
-- [Huobi.pro](https://www.huobi.pro/en-us/neo_btc/exchange/) - A Seychelles-based exchange that allows trading for BTC. *English, Chinese, Japanese, Korean, Russian, German, French and Spanish interfaces*
-- [JUBI](https://www.jubi.com/coin/ans) - A Chinese exchange that allows trading for Chinese Yuan Renminbi (CNY). *Chinese interface*
-- [KuCoin](https://www.kucoin.com/#/trade/NEO-BTC) - A Korean exchange that allows trading for BTC, GAS and ETH, and various altcoins. Returns GAS to users. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
-- [LBank](https://www.lbank.info/trading/neo/btc) - A Hong-Kong-based exchange that allows trading for BTC and DBC. *English and Chinese interfaces*
-- [OKEX](https://www.okex.com/spot.html) - A Chinese exchange that allows trading for BTC, ETH, USDT and BCH. *English and Chinese interfaces*
-- [QUOINEX](https://quoinex.com/) - A Japanese exchange that allows trading for BTC and USDT.
-- [TDAX](https://tdax.com/exchange/market/NEO-THB) - A Thailand-based exchange that allows trading for Thai Baht (THB), BTC and ETH. *English, Chinese and Thai interfaces*
-- [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.USDT-NEO) - A Korean exchange linked to Bittrex that allows trading for KRW, BTC, ETH and USDT. *Korean interface*
-
-### GAS
-
-- [Binance](https://www.binance.com/tradeDetail.html?symbol=GAS_BTC) - A Hong Kong-based exchange that allows trading with BTC. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
-- [Coinnest](https://www.coinnest.co.kr/market-gas) - A Korean exchange that allows trading for South-Korean Won (SKW). *Korean and Chinese interface available*
-- [Gate.io](https://gate.io/trade/GAS_BTC) - A United States-based exchange that allows trading for BTC and USDT. *English and Chinese interfaces*
-- [Huobi.pro](https://www.huobi.pro/en-us/gas_btc/exchange/) - A Seychelles-based exchange that allows trading for BTC. *English, Chinese, Japanese, Korean, Russian, German, French and Spanish interfaces*
-- [KuCoin](https://www.kucoin.com/#/trade/GAS-BTC) - A Korean exchange that allows trading for BTC and NEO. *English, Chinese, Japanese, Dutch, Russian, Korean and Portuguese interfaces*
-- [OKEX](https://www.okex.com/spot.html) - A Chinese exchange that allows trading for BTC, ETH, USDT and BCH. *English and Chinese interfaces*
-- [Poloniex](https://www.19800.com/trade.html?marketid=cny_gas) - A United States-based exchange that allows trading for BTC and ETH.
 
 ## Frequently Asked Questions
 - [FAQ page](https://github.com/CityOfZion/awesome-neo/blob/master/resources/faq.md) - A page with frequently asked questions.
