@@ -58,7 +58,7 @@
 ### MainNet 2.7.4
 
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1tB6HjS89tsNPH890jB6NnOfgiaO8ckI_) - 5/25/2018
-- [MainNet (MEGA - chain.acc)](https://mega.nz/#!wBtjhTxb!4JmHrmvBsAR5HtSujVQb-ZikJqiR6-hOnu84vOthu_M) - 4/1/2018
+- [MainNet (MEGA - chain.acc)](https://mega.nz/#!wBtjhTxb!4JmHrmvBsAR5HtSujVQb-ZikJqiR6-hOnu84vOthu_M) - 5/25/2018
 
 ### TestNet 2.7.4
 
