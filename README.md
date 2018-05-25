@@ -57,13 +57,13 @@
 
 ### MainNet 2.7.4
 
-- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1NS7zZiSjRr_pBqWg8ggEnvFtN6uPSsOa) - 4/1/2018
-- [MainNet (MEGA - chain.acc)](https://mega.nz/#!1JNnjIrC!bR5O3OAmxtogxSI9pw4ms3_dRIhJgHr_R08GkIYs_-g) - 4/1/2018
+- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1tB6HjS89tsNPH890jB6NnOfgiaO8ckI_) - 5/25/2018
+- [MainNet (MEGA - chain.acc)](https://mega.nz/#!wBtjhTxb!4JmHrmvBsAR5HtSujVQb-ZikJqiR6-hOnu84vOthu_M) - 4/1/2018
 
 ### TestNet 2.7.4
 
-- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1H8-7aByFebyKhasQpe6ztLbJOkShFul4) - 4/1/2018
-- [TestNet (MEGA - chain.acc)](https://mega.nz/#!cJMHXLiI!kwyt-xDKE3KEV4xLdAC-35A_xqfyr3WnG_EL7hR0nVQ) - 4/1/2018
+- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1POcJJB3UozBlWjBjSegwR5hfc2iS-WuZ) - 5/25/2018
+- [TestNet (MEGA - chain.acc)](https://mega.nz/#!cA8EQSiJ!E_RUhqsvjVEyojLH8h2FEi1wDzHG4pTf_Q80EWilud8) - 5/25/2018
 
 ### CoZ TestNet
 
