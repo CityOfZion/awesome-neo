@@ -130,6 +130,7 @@
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 - [CoZ TestNet Faucet](http://faucet.cityofzion.io/) - Information about CoZ TestNet and automatic NEO/GAS distribution using CoZ faucet.
+- [Using Random Numbers in NEO SC](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d) - Tutorial by Jason Perry on Random Number Generation using NEO Smart Contracts
 
 ## Economy
 
