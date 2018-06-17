@@ -44,17 +44,6 @@
 
 ## Blockchain Bootstrap Files
 
-### MainNet 2.7.3
-
-- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=16XlO2EE4342As6o8YW2lgrrPXEW1o-5J) - 3/30/2018
-- [MainNet (MEGA - chain.acc)](https://mega.nz/#!hFFGTIwT!6tpsckP3_dTjxRGAqKYKmdBle9K47GZi5_Z0WrpFZ4Q) - 3/30/2018
-- [Mainnet (S3 - chain.acc.zip)](http://static.neo.org/client/chain.acc.zip) - Up to block ~2022949
-
-### TestNet 2.7.3
-
-- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1SubsQbGr48CQXFv2L3pPLDc1JlhhpAnI) - 3/30/2018
-- [TestNet (MEGA - chain.acc)](https://mega.nz/#!Rc81UZTD!v8gLlnDKgDTJ12J6_WoZaYX7-uBoE6phLX5hMYiyGp4) - 3/30/2018
-
 ### MainNet 2.7.4
 
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1tB6HjS89tsNPH890jB6NnOfgiaO8ckI_) - 5/25/2018
@@ -76,7 +65,6 @@
 - [neoscan.io](https://neoscan.io/) - Explorer created by CoZ.
 - [CoZ TestNet neoscan.io](https://coz.neoscan-testnet.io/) - Neoscan for CoZ TestNet
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by the Neo Tracker team.
-- [~~explorer.neoverse.io~~](http://explorer.neoverse.io/) (Deprecated) - Explorer created by the NEOverse team.
 
 ## City of Zion
 
@@ -196,7 +184,7 @@
 - [neo-go-sdk](https://github.com/CityOfZion/neo-go-sdk) - Golang SDK for the NEO blockchain.
 - [neo-js](https://github.com/CityOfZion/neo-js) - Javascript Node and SDK for the NEO blockchain.
 - [neon-js](https://github.com/CityOfZion/neon-js) - Javascript libraries that allow the Neon wallet to interact with NEO blockchain.
-- [neo-php](https://github.com/ITSVision/neo-php) - PHP Wrapper for Neo Blockchain API.
+- [neo-php](https://github.com/CityOfZion/neo-php) - PHP Wrapper for Neo Blockchain API.
 - [neo-python](https://github.com/CityOfZion/neo-python) - Python Node and SDK for the NEO blockchain.
 - [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for Neo Blockchain API.
 
