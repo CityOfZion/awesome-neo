@@ -54,9 +54,6 @@
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1POcJJB3UozBlWjBjSegwR5hfc2iS-WuZ) - 5/25/2018
 - [TestNet (MEGA - chain.acc)](https://mega.nz/#!cA8EQSiJ!E_RUhqsvjVEyojLH8h2FEi1wDzHG4pTf_Q80EWilud8) - 5/25/2018
 
-### CoZ TestNet
-
-- [CoZ TestNet (MEGA - CoZ_ChainTestNet.zip)](https://mega.nz/#!oC5RyLjK!t2PMAkkk0_V7-WRczFPXI_vfKdyPOCvSfKxZ8ccvibU) - 1/23/2018
 
 ## Blockchain Explorers
 
