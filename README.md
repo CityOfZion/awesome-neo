@@ -71,9 +71,11 @@
 
 - [antcha.in](http://antcha.in/) - Mature explorer from before the re-brand.
 - [neoexplorer.co](https://neoexplorer.co/) - New but very stable explorer, launched in August 2017.
-- [neoscan.io](https://neoscan.io/) - Explorer created by CoZ.
-- [CoZ TestNet neoscan.io](https://coz.neoscan-testnet.io/) - Neoscan for CoZ TestNet
+- [neoscan.io](https://neoscan.io/) - NEO Mainnet Explorer created by CoZ.
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by the Neo Tracker team.
+- [NEO TestNet neoscan.io](https://neoscan-testnet.io/) - Neoscan for NEO TestNet
+- [CoZ TestNet neoscan.io](https://coz.neoscan-testnet.io/) - Neoscan for CoZ TestNet
+
 
 ## City of Zion
 
@@ -81,7 +83,6 @@
 - [Facebook](https://www.facebook.com/CityOfZionOfficial/) - Facebook account of CoZ.
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
 - [Medium](https://medium.com/proof-of-working) - Weekly reports from CoZ.
-- [~~Trello~~](https://trello.com/b/6TngvuLf/neoblockchaindevelopment) (Deprecated) - Process tracker for blockchain development and design, as well as feature requests.
 - [Twitter](https://twitter.com/coz_official) - Twitter account of CoZ.
 - [Website](http://cityofzion.io) - Homepage for CoZ.
 
