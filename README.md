@@ -60,7 +60,11 @@
 
 ### CoZ TestNet neo-cli 2.7.4
 
-- [MainNet (nofile.io - chain.acc)](https://nofile.io/f/BfwX3P7ca58/chain.acc) - 6/21/2018
+- [CoZ Testnet (nofile.io - chain.acc)](https://nofile.io/f/BfwX3P7ca58/chain.acc) - 6/21/2018
+
+### CoZ TestNet neo-python 0.7.1 (use np-import)
+
+- [CoZ Testnet (nofile.io - pyChain.acc)](https://nofile.io/f/7Vwew8eoXNs/pyChain.acc) - 6/21/2018
 
 
 ## Blockchain Explorers
