@@ -44,19 +44,23 @@
 
 ## Blockchain Bootstrap Files
 
-### MainNet 2.7.4 neo-cli
+### MainNet neo-cli 2.7.6
 
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1tB6HjS89tsNPH890jB6NnOfgiaO8ckI_) - 5/25/2018
 - [MainNet (MEGA - chain.acc)](https://mega.nz/#!wBtjhTxb!4JmHrmvBsAR5HtSujVQb-ZikJqiR6-hOnu84vOthu_M) - 5/25/2018
 
-### MainNet 2.7.6 NEO-GUI
+### MainNet NEO-GUI 2.7.6
 
 - [MainNet (nofile.io - Chain folder)](https://nofile.io/f/Q7xamOKbA0j/Chain.zip) - 6/20/2018
 
-### TestNet 2.7.4 neo-cli
+### TestNet neo-cli 2.7.6
 
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1POcJJB3UozBlWjBjSegwR5hfc2iS-WuZ) - 5/25/2018
 - [TestNet (MEGA - chain.acc)](https://mega.nz/#!cA8EQSiJ!E_RUhqsvjVEyojLH8h2FEi1wDzHG4pTf_Q80EWilud8) - 5/25/2018
+
+### CoZ TestNet neo-cli 2.7.4
+
+- [MainNet (nofile.io - chain.acc)](https://nofile.io/f/BfwX3P7ca58/chain.acc) - 6/21/2018
 
 
 ## Blockchain Explorers
