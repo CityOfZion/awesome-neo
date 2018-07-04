@@ -44,6 +44,8 @@
 
 ## Blockchain Bootstrap Files
 
+Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412) on how to use bootstrap files:
+
 ### MainNet neo-cli 2.7.6
 
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1tB6HjS89tsNPH890jB6NnOfgiaO8ckI_) - 5/25/2018
