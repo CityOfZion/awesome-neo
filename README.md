@@ -174,7 +174,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 ## Network Monitoring
 
 - [neo-mon](https://github.com/CityOfZion/neo-mon) - NEO network status monitor (CoZ).
-- [NEO Network](https://coranos.github.io/neo/network/) - Map based monitoring for the NEO network.
+- [HappyNodes](https://happynodes.f27.ventures) - NEO network status monitor and unconfirmed transaction explorer (F27 / NGD).
 
 ## Published Articles
 - [Coopetition: A New Approach to Decentralization](https://medium.com/proof-of-working/decentralization-from-coopetition-b10d7ce3b9d)
