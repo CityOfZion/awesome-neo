@@ -52,6 +52,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [MainNet (MEGA - chain.acc)](https://mega.nz/#!wBtjhTxb!4JmHrmvBsAR5HtSujVQb-ZikJqiR6-hOnu84vOthu_M) - 5/25/2018
 - [MainNet (Google Drive - Chain folder)](https://drive.google.com/file/d/1g4Vmi-A8fAx425PtvL6w8gGA5wzGMTlW) - 6/22/2018
 - [MainNet (nofile.io - Chain folder)](https://nofile.io/f/4x1J3pzytug/chainfolder.zip) - 6/22/2018
+- [MainNet (> Deadblock Fix)](http://1713188625.rsc.cdn77.org/chain/chain.zip) - 8/16/2018 (MD5: 06ea9760c317b3693c758bbc07b0ad96)
 
 ### MainNet NEO-GUI 2.7.6
 
