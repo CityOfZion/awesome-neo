@@ -46,30 +46,27 @@
 
 Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412) on how to use bootstrap files:
 
-### MainNet neo-cli 2.7.6
+### MainNet (2.8.0)
 
-- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=1tB6HjS89tsNPH890jB6NnOfgiaO8ckI_) - 5/25/2018
-- [MainNet (MEGA - chain.acc)](https://mega.nz/#!wBtjhTxb!4JmHrmvBsAR5HtSujVQb-ZikJqiR6-hOnu84vOthu_M) - 5/25/2018
-- [MainNet (Google Drive - Chain folder)](https://drive.google.com/file/d/1g4Vmi-A8fAx425PtvL6w8gGA5wzGMTlW) - 6/22/2018
-- [MainNet (nofile.io - Chain folder)](https://nofile.io/f/4x1J3pzytug/chainfolder.zip) - 6/22/2018
+- [MainNet (Google Drive - Folder)](https://drive.google.com/open?id=1oUNuZWxVWlbGE72ANzG9p3BicMH2CfHK) - 8/20/2018
+- [MainNet (MEGA - Folder)](https://mega.nz/#!VNdmRa4I!hSiAo_o7pskMOnRJlIhDJuCHrwc8gQg_PZIfUkZf5_g) - 8/20/2018
+- [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=19tCNSUfZyDPMl-EqTGzBJD7kzuLmsMq4) - 8/20/2018
+- [MainNet (MEGA - chain.acc)](https://mega.nz/#!NZFiUQ5K!6H9cuio_CJ-FYJT6AsMawxnaw6QpFimWUQHHqSv7ejk) - 8/20/2018
 - [MainNet (azure NGD > Deadblock Fix)](https://neo-cdn.azureedge.net/client/chain.zip) - 8/16/2018 (MD5: 06ea9760c317b3693c758bbc07b0ad96)
 
-### MainNet NEO-GUI 2.7.6
+### TestNet (2.8.0)
 
-- [MainNet (nofile.io - Chain folder - *note version in foldername)](https://nofile.io/f/Q7xamOKbA0j/Chain.zip) - 6/20/2018
+- [TestNet (Google Drive - Folder)](https://drive.google.com/open?id=1yPxkThfOLCcoZa-EU2ZTMY2Qm1K3VRuP) - 8/20/2018
+- [TestNet (MEGA - Folder)](https://mega.nz/#!YZFGnATK!l6PcfsVQ_QVUiUt7TN1mNVPG1Zq-6L04R6MMIWu86QI) - 8/20/2018
+- [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=13DWrGyhPT7fu1Oaz5hLRlGOIZfL0rtJs) - 8/20/2018
+- [TestNet (MEGA - chain.acc)](https://mega.nz/#!YRN2hKyB!THtdTga_qGxv8ZoahRJzpNs4Nqt3iPWRlPEjMlaVUOE) - 8/20/2018
 
-### TestNet neo-cli 2.7.6
-
-- [TestNet (Google Drive - chain.acc)](https://drive.google.com/file/d/1oFJO6SY1YZex8bAdCWl3p9Q9CpcMc2aD) - 6/22/2018
-- [TestNet (nofile.io - chain.acc)](https://nofile.io/f/KtrkhawsVKF/chain.acc) - 6/22/2018
-- [TestNet (MEGA - chain.acc)](https://mega.nz/#!cA8EQSiJ!E_RUhqsvjVEyojLH8h2FEi1wDzHG4pTf_Q80EWilud8) - 5/25/2018
-
-### CoZ TestNet neo-cli 2.7.4
+### CoZ TestNet (2.7.4)
 
 - [CoZ Testnet (nofile.io - chain.acc)](https://nofile.io/f/BfwX3P7ca58/chain.acc) - 6/21/2018
 - [CoZ TestNet (Google Drive - chain.acc)](https://drive.google.com/file/d/1CDu1A3JurFhA4Ud9EtMaNs9XZY_ODffj) - 6/22/2018
 
-### CoZ TestNet neo-python 0.7.1 (use np-import)
+### CoZ TestNet (neo-python 0.7.1) (use np-import)
 
 - [CoZ Testnet (nofile.io - pyChain.acc)](https://nofile.io/f/7Vwew8eoXNs/pyChain.acc) - 6/21/2018
 
