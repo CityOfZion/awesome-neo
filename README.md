@@ -48,11 +48,11 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ### MainNet (2.8.0)
 
+- [MainNet (Azure - chain.zip)](https://neo-cdn.azureedge.net/client/chain.zip) - 8/16/2018, compatible with `wget` (MD5: `06ea9760c317b3693c758bbc07b0ad96`)
 - [MainNet (Google Drive - Folder)](https://drive.google.com/open?id=1oUNuZWxVWlbGE72ANzG9p3BicMH2CfHK) - 8/20/2018
 - [MainNet (MEGA - Folder)](https://mega.nz/#!VNdmRa4I!hSiAo_o7pskMOnRJlIhDJuCHrwc8gQg_PZIfUkZf5_g) - 8/20/2018
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=19tCNSUfZyDPMl-EqTGzBJD7kzuLmsMq4) - 8/20/2018
 - [MainNet (MEGA - chain.acc)](https://mega.nz/#!NZFiUQ5K!6H9cuio_CJ-FYJT6AsMawxnaw6QpFimWUQHHqSv7ejk) - 8/20/2018
-- [MainNet (Azure - chain.zip)](https://neo-cdn.azureedge.net/client/chain.zip) - 8/16/2018 (MD5: 06ea9760c317b3693c758bbc07b0ad96)
 
 ### TestNet (2.8.0)
 
