@@ -46,15 +46,22 @@
 
 Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412) on how to use bootstrap files:
 
-### MainNet (2.8.0)
+### MainNet (2.7.6+)
 
+- [MainNet (Azure - chain.zip)](https://neo-cdn.azureedge.net/client/chain.zip) - 8/16/2018, compatible with `wget` (MD5: `06ea9760c317b3693c758bbc07b0ad96`)
 - [MainNet (Google Drive - Folder)](https://drive.google.com/open?id=1oUNuZWxVWlbGE72ANzG9p3BicMH2CfHK) - 8/20/2018
 - [MainNet (MEGA - Folder)](https://mega.nz/#!VNdmRa4I!hSiAo_o7pskMOnRJlIhDJuCHrwc8gQg_PZIfUkZf5_g) - 8/20/2018
 - [MainNet (Google Drive - chain.acc)](https://drive.google.com/open?id=19tCNSUfZyDPMl-EqTGzBJD7kzuLmsMq4) - 8/20/2018
 - [MainNet (MEGA - chain.acc)](https://mega.nz/#!NZFiUQ5K!6H9cuio_CJ-FYJT6AsMawxnaw6QpFimWUQHHqSv7ejk) - 8/20/2018
-- [MainNet (Azure - chain.zip)](https://neo-cdn.azureedge.net/client/chain.zip) - 8/16/2018 (MD5: 06ea9760c317b3693c758bbc07b0ad96)
 
-### TestNet (2.8.0)
+#### MainNet for [notification server](https://github.com/localhuman/neo-cli/blob/plugin-notification-restapi/notifications.md) 2.7.6+
+
+- Block height `2,640,xxx`, S3
+  - [`Chain` folder](https://cozboot.s3-us-west-2.amazonaws.com/chain-2640xxx.tar.gz) (MD5: `1e51c8a1d1d83b55f15e13eea9452184`)
+  - [`Notifications` folder](https://cozboot.s3-us-west-2.amazonaws.com/notif-2640xxx.tar.gz) (MD5: `d274bd10e21b264c43eaee2a679f4787`)
+
+
+### TestNet (2.7.6+)
 
 - [TestNet (Google Drive - Folder)](https://drive.google.com/open?id=1yPxkThfOLCcoZa-EU2ZTMY2Qm1K3VRuP) - 8/20/2018
 - [TestNet (MEGA - Folder)](https://mega.nz/#!YZFGnATK!l6PcfsVQ_QVUiUt7TN1mNVPG1Zq-6L04R6MMIWu86QI) - 8/20/2018
