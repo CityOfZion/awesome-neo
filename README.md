@@ -182,6 +182,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [HappyNodes](https://happynodes.f27.ventures) - NEO network status monitor and unconfirmed transaction explorer (F27 / NGD).
 
 ## Published Articles
+- [Building a NEO-Python API Server on Windows WSL (Ubuntu)](https://medium.com/@jseagrave21/building-a-neo-python-api-server-on-windows-wsl-ubuntu-dfd62185ae9e)
 - [Coopetition: A New Approach to Decentralization](https://medium.com/proof-of-working/decentralization-from-coopetition-b10d7ce3b9d)
 - [CoZ first dApps competition dApp review](https://medium.com/proof-of-working/coz-first-dapps-competition-dapp-review-3a6b284afaef)
 - [Creating and running a NEO Node on Microsoft Azure in under 30 minutes](https://medium.com/@gubanotorious/creating-and-running-a-neo-node-on-microsoft-azure-in-under-30-minutes-ad8d79b9edf)
