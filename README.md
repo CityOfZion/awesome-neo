@@ -194,11 +194,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [Test Networks and Fund Requests for Smart Contract and dApp Testing on the NEO Blockchain](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412)
 - [Using Random Numbers in Neo Smart Contracts](https://medium.com/@ambethia/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d)
 
-## Roadmap
-
-<p align="center">
-  <img src="/resources/roadmap.jpg" width="888px"/>
-</p>
 
 ## SDKs
 
