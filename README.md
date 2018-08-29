@@ -179,7 +179,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## Network Monitoring
 
-- [neo-mon](https://github.com/CityOfZion/neo-mon) - NEO network status monitor (CoZ).
+- [neo-mon](https://github.com/CityOfZion/neo-mon) - NEO network status monitor (CoZ). [CoZ Monitor](http://monitor.cityofzion.io)
 - [HappyNodes](https://happynodes.f27.ventures) - NEO network status monitor and unconfirmed transaction explorer (F27 / NGD).
 
 ## Published Articles
