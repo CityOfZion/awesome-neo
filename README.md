@@ -57,9 +57,9 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 #### MainNet for [notification server](https://github.com/localhuman/neo-cli/blob/plugin-notification-restapi/notifications.md) 2.7.6+
 
-- Block height `2,640,xxx`, S3
-  - [`Chain` folder](https://cozboot.s3-us-west-2.amazonaws.com/chain-2640xxx.tar.gz) (MD5: `1e51c8a1d1d83b55f15e13eea9452184`)
-  - [`Notifications` folder](https://cozboot.s3-us-west-2.amazonaws.com/notif-2640xxx.tar.gz) (MD5: `d274bd10e21b264c43eaee2a679f4787`)
+- Block height `2,675,xxx`, S3
+  - [`Chain` folder](https://s3.us-east-2.amazonaws.com/cityofzion/chain-2675xxx.tar.gz) (MD5: `e839541be966c3346673d5957c20d66c`)
+  - [`Notifications` folder](https://s3.us-east-2.amazonaws.com/cityofzion/notif-2675xxx.tar.gz) (MD5: `d7293303420a32ecc5a90623a89fa07f`)
 
 
 ### TestNet (2.7.6+)
