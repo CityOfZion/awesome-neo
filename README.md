@@ -47,7 +47,7 @@
 Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412) on how to use bootstrap files:
 
 ### MainNet (2.7.6+)
-
+- [NGD Bootstrap Files (Azure)](http://sync.ngd.network/)
 - [MainNet Chain folder (S3)](https://cozboot.s3-us-west-2.amazonaws.com/chain-26708xx.tar.gz) - 8/29/2018 (MD5: `7bf5da8ecb10e0ecf4d353300bf21458`, after problem block 2.670.510) 
 - [MainNet (Azure - chain.zip)](https://neo-cdn.azureedge.net/client/chain.zip) - 8/16/2018, compatible with `wget` (MD5: `06ea9760c317b3693c758bbc07b0ad96`)
 - [MainNet (Google Drive - Folder)](https://drive.google.com/open?id=1oUNuZWxVWlbGE72ANzG9p3BicMH2CfHK) - 8/20/2018
@@ -63,7 +63,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 
 ### TestNet (2.7.6+)
-
+- [NGD Bootstrap Files (Azure)](http://sync.ngd.network/) Select 'Testnet' tab 
 - [TestNet (Google Drive - Folder)](https://drive.google.com/open?id=1yPxkThfOLCcoZa-EU2ZTMY2Qm1K3VRuP) - 8/20/2018
 - [TestNet (MEGA - Folder)](https://mega.nz/#!YZFGnATK!l6PcfsVQ_QVUiUt7TN1mNVPG1Zq-6L04R6MMIWu86QI) - 8/20/2018
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=13DWrGyhPT7fu1Oaz5hLRlGOIZfL0rtJs) - 8/20/2018
