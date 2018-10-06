@@ -115,11 +115,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 - [NEO Competitions](resources/neo-competitions.md) - List of NEO dApps competitions (with Github links).
 
-
-## ICOs
-
-- [Upcoming ICOs](https://docs.google.com/spreadsheets/d/1g21tYH2ctNqapcP4W-_WWLqF2SODB7FNakeXpDLTlYc/htmlview?usp=sharing&sle=true) - Curated sheet of upcoming ICOs hosted on the NEO Blockchain
-
 ## Developer Documentation
 
 - [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/quickstart-csharp/README.md) - Complete (very detailed) step-by-step guidance with screen shots
@@ -157,8 +152,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## ICOs on Neo
 
-- [NEO ICO Tracker](https://docs.google.com/spreadsheets/d/1g21tYH2ctNqapcP4W-_WWLqF2SODB7FNakeXpDLTlYc/htmlview?usp=sharing&sle=true) - A list and review of upcoming ICOs on NEO, curated by [@bytesizecapital (NM)](https://twitter.com/bytesizecapital?lang=en). Judges projects based on the [City of Zion Guidelines for Responsible Token Sales](https://medium.com/proof-of-working/guidelines-for-responsible-token-sales-5c4ae784c2d8).
-- [State of NEO](https://stateofneo.com/ico/) - A curated website that lists promising ICOs, funded projects and suspicious projects using the NEO name.
+- [NEO Upcoming ICO](https://neoeconomy.io/ico) - A list of upcoming ICO's on the NEO network.
 
 ## Information Blogs
 
