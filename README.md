@@ -48,7 +48,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ### MainNet (2.7.6+)
 - [NGD Bootstrap Files (Azure)](http://sync.ngd.network/)
-- [MainNet Chain folder (S3)](https://s3.us-east-2.amazonaws.com/cityofzion/chain-27792xx.tar.gz) - 9/27/2018 (MD5: `fb73b3a1d5204e4df3e7fdeff610a6fe`) 
+- [MainNet Chain folder (S3)](https://s3.us-east-2.amazonaws.com/cityofzion/chain-27792xx.tar.gz) - 9/27/2018 (MD5: `fb73b3a1d5204e4df3e7fdeff610a6fe`, Debian/Ubuntu only) 
 - [MainNet (Azure - chain.zip)](https://neo-cdn.azureedge.net/client/chain.zip) - 8/16/2018, compatible with `wget` (MD5: `06ea9760c317b3693c758bbc07b0ad96`)
 - [MainNet (Google Drive - Folder)](https://drive.google.com/open?id=1oUNuZWxVWlbGE72ANzG9p3BicMH2CfHK) - 8/20/2018
 - [MainNet (MEGA - Folder)](https://mega.nz/#!VNdmRa4I!hSiAo_o7pskMOnRJlIhDJuCHrwc8gQg_PZIfUkZf5_g) - 8/20/2018
@@ -57,7 +57,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 #### MainNet for [notification server](https://github.com/localhuman/neo-cli/blob/plugin-notification-restapi/notifications.md) 2.7.6+
 
-- Block height `2,779,2xx`, S3
+- Block height `2,779,2xx`, S3, Debian/Ubuntu only
   - [`Chain` folder](https://s3.us-east-2.amazonaws.com/cityofzion/notif-chain-27792xx.tar.gz) (MD5: `5d23d1afbd5ce9d0349fad17680faed9`)
   - [`Notifications` folder](https://s3.us-east-2.amazonaws.com/cityofzion/notif-notif-27792xx.tar.gz) (MD5: `aaaa09907cece53086095ce3ac6624a3`)
 
