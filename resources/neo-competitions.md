@@ -19,7 +19,7 @@
 
 # CoZ-Competitions
 
-## CoZ dApps competition #1
+## CoZ dApps Competition #1
 
 - Neo Smart IOT - http://www.github.com/Splyse/neo-smart-iot
 
@@ -45,6 +45,37 @@
 
 - Sunny dApp - http://www.github.com/JorritvandenBerg/sunny-dapp
 
+## CoZ dApps Competition #2
+
+- Treatail - https://github.com/gubanotorious/Treatail.NEO
+
+- Elight - https://github.com/elightWorkspace/SmartContract
+
+- Precognition - https://github.com/ixje/precognition-dapp-coz2
+
+- Anno - https://github.com/jnlewis/anno
+
+- Narrative - https://github.com/NarrativeNetwork/tokensale-neo-smartcontract
+
+- Sendeo - https://github.com/slipo/sendeo/tree/master/contract
+
+- SciChain - https://github.com/igormcoelho/scichain/
+
+- adX - https://github.com/adX-agency
+
+- Neoblog - https://github.com/be-neo/neoblog/
+
+- The Construct - https://github.com/nickazg/TheConstruct/
+
+- NEO Futures - https://github.com/wy/neo-futures
+
+- NEO GAS Liquid - https://github.com/abalu/neogasliquid
+
+- Survey Token - https://github.com/melvin0008/survey-token/
+
+- Generion - https://github.com/ddi-lab/generion-middleware/
+
+- Green Deal - https://github.com/tingwai-to/greendeal
 
 # Hackathons
 
