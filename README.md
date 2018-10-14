@@ -217,6 +217,10 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 ### Python
 - [Python tutorial](https://www.youtube.com/watch?v=OP8z8OLKwC0) - Use Python to Deploy Neo Smart Contracts
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLRzTNBWJe5bzRa2nyTxZyfbI8x93GFd3p) - Dev environment setup, workflows, and smart contracts written in Python
+- [neo-boa](https://github.com/CityOfZion/neo-boa) - Python compiler for the Neo Virtual Machine.
+
+### Go
+- [neo-storm](https://github.com/CityOfZion/neo-storm) - Smart contract framework for the NEO smart economy written in the Go programming language
 
 ## Wallets
 
