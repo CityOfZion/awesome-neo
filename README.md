@@ -198,6 +198,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neo-php](https://github.com/CityOfZion/neo-php) - PHP Wrapper for Neo Blockchain API.
 - [neo-python](https://github.com/CityOfZion/neo-python) - Python Node and SDK for the NEO blockchain.
 - [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for Neo Blockchain API.
+- [neo-lux](https://github.com/CityOfZion/neo-lux) - .NET SDK to interact with the NEO blockchain and invoke smart contracts
 
 ## Smart Contract Development
 
