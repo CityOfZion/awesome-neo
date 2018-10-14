@@ -29,9 +29,8 @@
 - [Merchandise](#merchandise)
 - [Network Monitoring](#network-monitoring)
 - [Published Articles](#published-articles)
-- [Roadmap](#roadmap)
 - [SDKs](#sdks)
-- [Smart Contracts](#smart-contracts)
+- [Smart Contract Development](#smart-contract-development)
 - [Wallets](#wallets)
 
 ---
@@ -200,7 +199,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neo-python](https://github.com/CityOfZion/neo-python) - Python Node and SDK for the NEO blockchain.
 - [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for Neo Blockchain API.
 
-## Smart Contracts
+## Smart Contract Development
 
 - [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
 - [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
