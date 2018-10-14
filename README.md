@@ -19,7 +19,7 @@
 - [City of Zion](#city-of-zion)
 - [Code Examples](#code-examples)
 - [dApps](#dapps)
-- [NEO dApps Competitions](#neo-dapps-competitions)
+- [NEO Competitions](#neo-competitions)
 - [Developer Documentation](#developer-documentation)
 - [Economy](#economy)
 - [Frequently Asked Questions](#frequently-asked-questions)
