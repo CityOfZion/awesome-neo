@@ -220,16 +220,19 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## Wallets
 
+- [neon-wallet](https://github.com/CityOfZion/neon-wallet) - A light wallet for the blockchain.
+- [O<sub>3</sub>](https://o3.network/) - macOS, Windows, Linux, iOS and Android wallet
 - [ansy](https://snowypowers.github.io/ansy/) - A minimal paper wallet generator.
-- [Blue Whale Web](https://otcgo.cn/#/) - A Chinese asset management platform. *Chinese interface*
+- [SEA Wallet](https://otcgo.cn/#/) - A Chinese asset management platform. *Chinese interface*
 - [Ledger Wallet](https://www.ledgerwallet.com/apps/manager) - The app for the Ledger is available on the app store. Created by coranos2.
 - [neo-cli](https://github.com/neo-project/neo-cli/) - An official wallet built by the core team, which is command-line based.
 - [neo-gui](https://github.com/neo-project/neo-gui/) - An official wallet built by the core team, which has a UI.
-- [neon-wallet](https://github.com/CityOfZion/neon-wallet) - A light wallet for the blockchain.
 - [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
 - [neowallet](https://neowallet.cn) - Web based wallet using API.
-- [O<sub>3</sub>](https://o3.network/) - macOS, Windows, Linux, iOS and Android wallet
-
+- [Aphelion Wallet](https://aphelion.org/#wallet) - Desktop, iOS, Android and web wallet
+- [InWe Wallet](http://inwecrypto.com/en/download) - macOS, Windows, Linux, iOS and Android wallet
+- [NEO App](https://play.google.com/store/apps/details?id=neo.app) - Android wallet developed by NEO dev Peter Lin
+- [iWallic](https://iwallic.com/en/index.html) - Web and Android wallet
 ---
 
 <p align="center">
