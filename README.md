@@ -29,9 +29,8 @@
 - [Merchandise](#merchandise)
 - [Network Monitoring](#network-monitoring)
 - [Published Articles](#published-articles)
-- [Roadmap](#roadmap)
 - [SDKs](#sdks)
-- [Smart Contracts](#smart-contracts)
+- [Smart Contract Development](#smart-contract-development)
 - [Wallets](#wallets)
 
 ---
@@ -199,8 +198,9 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neo-php](https://github.com/CityOfZion/neo-php) - PHP Wrapper for Neo Blockchain API.
 - [neo-python](https://github.com/CityOfZion/neo-python) - Python Node and SDK for the NEO blockchain.
 - [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for Neo Blockchain API.
+- [neo-lux](https://github.com/CityOfZion/neo-lux) - .NET SDK to interact with the NEO blockchain and invoke smart contracts
 
-## Smart Contracts
+## Smart Contract Development
 
 - [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
 - [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
@@ -218,19 +218,26 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 ### Python
 - [Python tutorial](https://www.youtube.com/watch?v=OP8z8OLKwC0) - Use Python to Deploy Neo Smart Contracts
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLRzTNBWJe5bzRa2nyTxZyfbI8x93GFd3p) - Dev environment setup, workflows, and smart contracts written in Python
+- [neo-boa](https://github.com/CityOfZion/neo-boa) - Python compiler for the Neo Virtual Machine.
+
+### Go
+- [neo-storm](https://github.com/CityOfZion/neo-storm) - Smart contract framework for the NEO smart economy written in the Go programming language
 
 ## Wallets
 
+- [neon-wallet](https://github.com/CityOfZion/neon-wallet) - A light wallet for the blockchain.
+- [O<sub>3</sub>](https://o3.network/) - macOS, Windows, Linux, iOS and Android wallet
 - [ansy](https://snowypowers.github.io/ansy/) - A minimal paper wallet generator.
-- [Blue Whale Web](https://otcgo.cn/#/) - A Chinese asset management platform. *Chinese interface*
+- [SEA Wallet](https://otcgo.cn/#/) - A Chinese asset management platform. *Chinese interface*
 - [Ledger Wallet](https://www.ledgerwallet.com/apps/manager) - The app for the Ledger is available on the app store. Created by coranos2.
 - [neo-cli](https://github.com/neo-project/neo-cli/) - An official wallet built by the core team, which is command-line based.
 - [neo-gui](https://github.com/neo-project/neo-gui/) - An official wallet built by the core team, which has a UI.
-- [neon-wallet](https://github.com/CityOfZion/neon-wallet) - A light wallet for the blockchain.
 - [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
 - [neowallet](https://neowallet.cn) - Web based wallet using API.
-- [O<sub>3</sub>](https://o3.network/) - macOS, Windows, Linux, iOS and Android wallet
-
+- [Aphelion Wallet](https://aphelion.org/#wallet) - Desktop, iOS, Android and web wallet
+- [InWe Wallet](http://inwecrypto.com/en/download) - macOS, Windows, Linux, iOS and Android wallet
+- [NEO App](https://play.google.com/store/apps/details?id=neo.app) - Android wallet developed by NEO dev Peter Lin
+- [iWallic](https://iwallic.com/en/index.html) - Web and Android wallet
 ---
 
 <p align="center">
