@@ -17,16 +17,15 @@
 - [Blockchain Bootstrap Files](#blockchain-bootstrap-files)
 - [Blockchain Explorers](#blockchain-explorers)
 - [City of Zion](#city-of-zion)
-- [Code Examples](#code-examples)
-- [dApps](#dapps)
-- [NEO Competitions](#neo-competitions)
-- [Developer Documentation](#developer-documentation)
+- [Current dApps](#current-dapps)
 - [Economy](#economy)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [GAS Calculators](#gas-calculators)
+- [General Developer Documentation](#general-developer-documentation)
 - [ICOs on NEO](#icos-on-neo)
 - [Information Blogs](#information-blogs)
 - [Merchandise](#merchandise)
+- [NEO Competitions](#neo-competitions)
 - [Network Monitoring](#network-monitoring)
 - [Published Articles](#published-articles)
 - [SDKs](#sdks)
@@ -46,8 +45,9 @@
 Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412) on how to use bootstrap files:
 
 ### MainNet (2.7.6+)
+
 - [NGD Bootstrap Files (Azure)](http://sync.ngd.network/)
-- [MainNet Chain folder (S3)](https://s3.us-east-2.amazonaws.com/cityofzion/chain-27792xx.tar.gz) - 9/27/2018 (MD5: `fb73b3a1d5204e4df3e7fdeff610a6fe`, Debian/Ubuntu only) 
+- [MainNet Chain folder (S3)](https://s3.us-east-2.amazonaws.com/cityofzion/chain-27792xx.tar.gz) - 9/27/2018 (MD5: `fb73b3a1d5204e4df3e7fdeff610a6fe`, Debian/Ubuntu only)
 - [MainNet (Azure - chain.zip)](https://neo-cdn.azureedge.net/client/chain.zip) - 8/16/2018, compatible with `wget` (MD5: `06ea9760c317b3693c758bbc07b0ad96`)
 - [MainNet (Google Drive - Folder)](https://drive.google.com/open?id=1oUNuZWxVWlbGE72ANzG9p3BicMH2CfHK) - 8/20/2018
 - [MainNet (MEGA - Folder)](https://mega.nz/#!VNdmRa4I!hSiAo_o7pskMOnRJlIhDJuCHrwc8gQg_PZIfUkZf5_g) - 8/20/2018
@@ -60,9 +60,9 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
   - [`Chain` folder](https://s3.us-east-2.amazonaws.com/cityofzion/notif-chain-27792xx.tar.gz) (MD5: `5d23d1afbd5ce9d0349fad17680faed9`)
   - [`Notifications` folder](https://s3.us-east-2.amazonaws.com/cityofzion/notif-notif-27792xx.tar.gz) (MD5: `aaaa09907cece53086095ce3ac6624a3`)
 
-
 ### TestNet (2.7.6+)
-- [NGD Bootstrap Files (Azure)](http://sync.ngd.network/) Select 'Testnet' tab 
+
+- [NGD Bootstrap Files (Azure)](http://sync.ngd.network/) Select 'Testnet' tab
 - [TestNet (Google Drive - Folder)](https://drive.google.com/open?id=1yPxkThfOLCcoZa-EU2ZTMY2Qm1K3VRuP) - 8/20/2018
 - [TestNet (MEGA - Folder)](https://mega.nz/#!YZFGnATK!l6PcfsVQ_QVUiUt7TN1mNVPG1Zq-6L04R6MMIWu86QI) - 8/20/2018
 - [TestNet (Google Drive - chain.acc)](https://drive.google.com/open?id=13DWrGyhPT7fu1Oaz5hLRlGOIZfL0rtJs) - 8/20/2018
@@ -97,26 +97,15 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [Twitter](https://twitter.com/coz_official) - Twitter account of CoZ.
 - [Website](http://cityofzion.io) - Homepage for CoZ.
 
-## Code Examples
 
-- [C# smart contracts](https://github.com/neo-project/examples-csharp) - Examples of smart contracts written in C# from NEO core team.
-- [Community Code Snippets](https://github.com/nickazg/neo-snippets) - Categorised examples of helpful code snippets for smart contracts.
-- [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
-- [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
-- [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
-- [Python smart contracts](https://github.com/CityOfZion/awesome-neo/blob/master/resources/python-examples.md#code-examples) - Examples of smart contracts written in Python, from the Neo Python core team and DApp competition entrants.
-
-## dApps
+## Current dApps
 
 - [NEO dApp List (neo.org)](http://ndapp.org/) - Official list of dApps maintained by the NEO Council.
 
-## NEO Competitions
 
-- [NEO Competitions](resources/neo-competitions.md) - List of NEO dApps competitions (with Github links).
+## General Developer Documentation
 
-## Developer Documentation
-
-- [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/quickstart-csharp/README.md) - Complete (very detailed) step-by-step guidance with screen shots
+- [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/README.md) - Complete (very detailed) step-by-step guidance with screen shots
 - [NEO Blockchain Architecture Reference Model for .NET Developers (neo-charm)](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/neo-charm/README.md) - Architecture reference model for .NET developers
 - [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
 - [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
@@ -136,12 +125,16 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [CoZ TestNet Faucet](http://faucet.cityofzion.io/) - Information about CoZ TestNet and automatic NEO/GAS distribution using CoZ faucet.
 - [Using Random Numbers in NEO SC](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d) - Tutorial by Jason Perry on Random Number Generation using NEO Smart Contracts
 
+
 ## Economy
 
 - [NEO Economy](https://neoeconomy.io) - Curated list of NEO and NEP-5 Token economy statistics, such as average block rate, market cap, pricing, volume, ended ICO prices aswell as details on upcoming ICO.
 
+
 ## Frequently Asked Questions
-- [FAQ page](https://github.com/CityOfZion/awesome-neo/blob/master/resources/faq.md) - A page with frequently asked questions.
+
+- [FAQ page](resources/faq.md) - A page with frequently asked questions.
+
 
 ## GAS Calculators
 
@@ -149,9 +142,11 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neogas.io](https://neogas.io/) - Created by [@drpepper](https://www.reddit.com/user/drpepper).
 - [neotogas.com](https://neotogas.com) - Created by [@n1njawtf](https://twitter.com/n1njawtf).
 
+
 ## ICOs on Neo
 
 - [NEO Upcoming ICO](https://neoeconomy.io/ico) - A list of upcoming ICO's on the NEO network.
+
 
 ## Information Blogs
 
@@ -166,16 +161,25 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [NEO Twitter account](https://twitter.com/neo_blockchain) - Official Twitter account of the NEO team.
 - [NEO YouTube](https://www.youtube.com/channel/UCl1AwEDN0w5lTmfJEMsY5Vw/videos) - The official YouTube account of the NEO Team.
 
+
 ## Merchandise
 
 - [Merchandise page](/resources/neo-merchandise.md) - A page with merchandise.
+
+
+## NEO Competitions
+
+- [NEO Competitions](resources/neo-competitions.md) - List of NEO dApps competitions (with Github links).
+
 
 ## Network Monitoring
 
 - [neo-mon](https://github.com/CityOfZion/neo-mon) - NEO network status monitor (CoZ). [CoZ Monitor](http://monitor.cityofzion.io)
 - [HappyNodes](https://happynodes.f27.ventures) - NEO network status monitor and unconfirmed transaction explorer (F27 / NGD).
 
+
 ## Published Articles
+
 - [Building a NEO-Python API Server on Windows WSL (Ubuntu)](https://medium.com/@jseagrave21/building-a-neo-python-api-server-on-windows-wsl-ubuntu-dfd62185ae9e)
 - [Coopetition: A New Approach to Decentralization](https://medium.com/proof-of-working/decentralization-from-coopetition-b10d7ce3b9d)
 - [CoZ first dApps competition dApp review](https://medium.com/proof-of-working/coz-first-dapps-competition-dapp-review-3a6b284afaef)
@@ -204,24 +208,37 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 - [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
 - [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
-- [Python Smart Contract Programming Workshop](https://github.com/CityOfZion/python-smart-contract-workshop) - Workshop for developing smart contracts with Python, from 0 to nex ico template.
+- [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
 
 ### C&#35;
+
+- [C# smart contracts](https://github.com/neo-project/examples-csharp) - Examples of smart contracts written in C# from NEO core team.
 - [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
 - [C# tutorial](http://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
 
 ### Java
+
+- [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
 - [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
 - [Java tutorial](http://docs.neo.org/en-us/sc/getting-started-java.html) - Tutorial on writing smart contracts in Java.
 - [Java tutorial (OSX)](https://www.youtube.com/watch?v=2EYK1ogr5i4) - Setup neoj compiler on OSX
 
 ### Python
+
+- [Python smart contracts](resources/python-examples.md#code-examples) - Examples of smart contracts written in Python, from the Neo Python core team and DApp competition entrants.
 - [Python tutorial](https://www.youtube.com/watch?v=OP8z8OLKwC0) - Use Python to Deploy Neo Smart Contracts
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLRzTNBWJe5bzRa2nyTxZyfbI8x93GFd3p) - Dev environment setup, workflows, and smart contracts written in Python
 - [neo-boa](https://github.com/CityOfZion/neo-boa) - Python compiler for the Neo Virtual Machine.
 
 ### Go
+
+- [ICO contract in Go](https://medium.com/@likkee.chong/neo-token-contract-nep-5-in-go-f6b0102c59ee) - Step-by-step guide on issuing your NEP-5 token on NEO’s Private net using Go
 - [neo-storm](https://github.com/CityOfZion/neo-storm) - Smart contract framework for the NEO smart economy written in the Go programming language
+
+### Kotlin
+
+- [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
+
 
 ## Wallets
 
