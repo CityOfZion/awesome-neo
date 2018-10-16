@@ -29,6 +29,6 @@
 - [imusify Neo Python Middleware](https://github.com/imusify/blockchain-middleware/tree/imusify2/imusify) - dApp competition entrant.
 
 ### Additional Information
-More information regarding the dApp competition entrants can be found [here](https://medium.com/proof-of-working/coz-first-dapps-competition-dapp-review-3a6b284afaef).
+More information regarding the dApp competition entrants can be found [here](./neo-competitions.md).
 
 </p>
