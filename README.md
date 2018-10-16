@@ -133,7 +133,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## Frequently Asked Questions
 
-- [FAQ page](https://github.com/CityOfZion/awesome-neo/blob/master/resources/faq.md) - A page with frequently asked questions.
+- [FAQ page](resources/faq.md) - A page with frequently asked questions.
 
 
 ## GAS Calculators
@@ -225,7 +225,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ### Python
 
-- [Python smart contracts](https://github.com/CityOfZion/awesome-neo/blob/master/resources/python-examples.md#code-examples) - Examples of smart contracts written in Python, from the Neo Python core team and DApp competition entrants.
+- [Python smart contracts](resources/python-examples.md#code-examples) - Examples of smart contracts written in Python, from the Neo Python core team and DApp competition entrants.
 - [Python tutorial](https://www.youtube.com/watch?v=OP8z8OLKwC0) - Use Python to Deploy Neo Smart Contracts
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLRzTNBWJe5bzRa2nyTxZyfbI8x93GFd3p) - Dev environment setup, workflows, and smart contracts written in Python
 - [neo-boa](https://github.com/CityOfZion/neo-boa) - Python compiler for the Neo Virtual Machine.
