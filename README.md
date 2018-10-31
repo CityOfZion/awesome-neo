@@ -81,7 +81,8 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 ## Blockchain Explorers
 
 - [antcha.in](http://antcha.in/) - Mature explorer from before the re-brand.
-- [neoexplorer.co](https://neoexplorer.co/) - New but very stable explorer, launched in August 2017.
+- [scan.nel.group](https://scan.nel.group/#mainnet) - NEL NEO Mainnet Explorer.
+- [state.otcgo.cn](https://state.otcgo.cn/?idx=0) - Chinese NEO Mainnet Explorer
 - [neoscan.io](https://neoscan.io/) - NEO Mainnet Explorer created by CoZ.
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by the Neo Tracker team.
 - [NEO TestNet neoscan.io](https://neoscan-testnet.io/) - Neoscan for NEO TestNet
