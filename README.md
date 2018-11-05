@@ -123,7 +123,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [NEON DB for private nets #3](https://gist.github.com/slipo/f18f1a0b5e6adb7b0bf172b93379d891) - Full docker-compose setup using the [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) and [NeonDB image](https://hub.docker.com/r/slipoh/neon-wallet-db/) from Docker Hub.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
-- [CoZ TestNet Faucet](http://faucet.cityofzion.io/) - Information about CoZ TestNet and automatic NEO/GAS distribution using CoZ faucet.
 - [Using Random Numbers in NEO SC](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d) - Tutorial by Jason Perry on Random Number Generation using NEO Smart Contracts
 
 
