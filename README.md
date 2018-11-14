@@ -28,6 +28,7 @@
 - [NEO Competitions](#neo-competitions)
 - [Network Monitoring](#network-monitoring)
 - [Published Articles](#published-articles)
+- [PrivateNet Setup](#privatenet-setup)
 - [SDKs](#sdks)
 - [Smart Contract Development](#smart-contract-development)
 - [Wallets](#wallets)
@@ -106,8 +107,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## General Developer Documentation
 
-- [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/README.md) - Complete (very detailed) step-by-step guidance with screen shots
-- [NEO Blockchain Architecture Reference Model for .NET Developers (neo-charm)](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/neo-charm/README.md) - Architecture reference model for .NET developers
 - [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
 - [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
 - [Documentation](http://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
@@ -115,16 +114,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neo-project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
-- [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
-- [neo-local](https://github.com/neoauth/neo-local) - Start a local NEO blockchain with a single command.
-- [Neoscan for private nets](https://github.com/slipo/neo-scan-docker) - Setup for neoscan to work with a private net. There's also a docker-compose.yml file to easily setup a fully-functional [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) along with neoscan.
-- [NEON DB for private nets](https://gist.github.com/birmas/689c37e43c7f55745233d3aeb794f833) - Setup for a NEON database to work with a private net.
-- [NEON DB for private nets #2](https://github.com/ixje/neon-wallet-db/blob/master/privnet-install.md) - Setup NEON database inside the private net docker (verbose steps)
-- [NEON DB for private nets #3](https://gist.github.com/slipo/f18f1a0b5e6adb7b0bf172b93379d891) - Full docker-compose setup using the [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) and [NeonDB image](https://hub.docker.com/r/slipoh/neon-wallet-db/) from Docker Hub.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
-- [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
-- [CoZ TestNet Faucet](http://faucet.cityofzion.io/) - Information about CoZ TestNet and automatic NEO/GAS distribution using CoZ faucet.
-- [Using Random Numbers in NEO SC](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d) - Tutorial by Jason Perry on Random Number Generation using NEO Smart Contracts
 
 
 ## Economy
@@ -194,6 +184,15 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [Using Random Numbers in Neo Smart Contracts](https://medium.com/@ambethia/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d)
 
 
+## PrivateNet Setup
+
+- [neo-local](https://github.com/neoauth/neo-local) - Start a local NEO blockchain with a single command.
+- [NEON DB for private nets](https://gist.github.com/birmas/689c37e43c7f55745233d3aeb794f833) - Setup for a NEON database to work with a private net.
+- [NEON DB for private nets #2](https://github.com/ixje/neon-wallet-db/blob/master/privnet-install.md) - Setup NEON database inside the private net docker (verbose steps)
+- [NEON DB for private nets #3](https://gist.github.com/slipo/f18f1a0b5e6adb7b0bf172b93379d891) - Full docker-compose setup using the [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) and [NeonDB image](https://hub.docker.com/r/slipoh/neon-wallet-db/) from Docker Hub.
+- [Neoscan for private nets](https://github.com/slipo/neo-scan-docker) - Setup for neoscan to work with a private net. There's also a docker-compose.yml file to easily setup a fully-functional [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) along with neoscan.
+- [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
+
 ## SDKs
 
 - [neo-go](https://github.com/CityOfZion/neo-go) - Golang Node and SDK for the NEO blockchain.
@@ -205,17 +204,22 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for Neo Blockchain API.
 - [neo-lux](https://github.com/CityOfZion/neo-lux) - .NET SDK to interact with the NEO blockchain and invoke smart contracts
 
+
 ## Smart Contract Development
 
+- [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
 - [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
 - [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
-- [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
+- [Using Random Numbers in NEO SC](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d) - Tutorial by Jason Perry on Random Number Generation using NEO Smart Contracts
+- [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 
 ### C&#35;
 
 - [C# smart contracts](https://github.com/neo-project/examples-csharp) - Examples of smart contracts written in C# from NEO core team.
 - [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
 - [C# tutorial](http://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
+- [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/README.md) - Complete (very detailed) step-by-step guidance with screen shots
+- [NEO Blockchain Architecture Reference Model for .NET Developers (neo-charm)](https://github.com/mwherman2000/neo-charm/blob/master/README.md) - Architecture reference model for .NET developers
 
 ### Java
 
