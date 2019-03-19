@@ -205,6 +205,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neo-python](https://github.com/CityOfZion/neo-python) - Python Node and SDK for the NEO blockchain.
 - [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for Neo Blockchain API.
 - [neo-lux](https://github.com/CityOfZion/neo-lux) - .NET SDK to interact with the NEO blockchain and invoke smart contracts
+- [NeoModules](https://github.com/CityOfZion/NeoModules) - C# SDK and set of light clients (REST and RPC) of the most poupular APIs in Neo ecosystem.
 
 
 ## Smart Contract Development
