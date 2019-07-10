@@ -85,7 +85,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [Delegated Byzantine Fault Tolerance](https://github.com/neo-project/docs/blob/master/en-us/node/consensus.md) - Explanation of the consensus algorithm used by the blockchain.
 - [Documentation](http://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
 - [Getting Started Videos](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
-- [neo-project Wiki](https://github.com/neo-project/neo/wiki) - Github wiki from NEO core team official repo.
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
