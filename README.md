@@ -160,7 +160,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## PrivateNet Setup
 
-- [neo-local](https://github.com/neoauth/neo-local) - Start a local NEO blockchain with a single command.
+- [neo-local](https://github.com/CityOfZion/neo-local) - Start a local NEO blockchain with a single command.
 - [NEON DB for private nets](https://gist.github.com/birmas/689c37e43c7f55745233d3aeb794f833) - Setup for a NEON database to work with a private net.
 - [NEON DB for private nets #2](https://github.com/ixje/neon-wallet-db/blob/master/privnet-install.md) - Setup NEON database inside the private net docker (verbose steps)
 - [NEON DB for private nets #3](https://gist.github.com/slipo/f18f1a0b5e6adb7b0bf172b93379d891) - Full docker-compose setup using the [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) and [NeonDB image](https://hub.docker.com/r/slipoh/neon-wallet-db/) from Docker Hub.
