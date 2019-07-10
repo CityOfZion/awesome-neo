@@ -190,7 +190,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ### C&#35;
 
-- [C# smart contracts](https://github.com/neo-project/examples-csharp) - Examples of smart contracts written in C# from NEO core team.
+- [C# smart contracts](https://github.com/neo-project/examples/tree/master/csharp) - Examples of smart contracts written in C# from NEO core team.
 - [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
 - [C# tutorial](http://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
 - [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/README.md) - Complete (very detailed) step-by-step guidance with screen shots
@@ -198,7 +198,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ### Java
 
-- [Java smart contracts](https://github.com/neo-project/examples-java) - Examples of smart contracts written in Java from NEO core team.
+- [Java smart contracts](https://github.com/neo-project/examples/tree/master/java) - Examples of smart contracts written in Java from NEO core team.
 - [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
 - [Java tutorial](http://docs.neo.org/en-us/sc/getting-started-java.html) - Tutorial on writing smart contracts in Java.
 - [Java tutorial (OSX)](https://www.youtube.com/watch?v=2EYK1ogr5i4) - Setup neoj compiler on OSX
