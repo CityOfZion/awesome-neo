@@ -224,7 +224,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neo-cli](https://github.com/neo-project/neo-cli/) - An official wallet built by the core team, which is command-line based.
 - [neo-gui](https://github.com/neo-project/neo-gui/) - An official wallet built by the core team, which has a UI.
 - [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
-- [neowallet](https://neowallet.cn) - Web based wallet using API.
 - [Aphelion Wallet](https://aphelion.org/#wallet) - Desktop, iOS, Android and web wallet
 - [NEO App](https://play.google.com/store/apps/details?id=neo.app) - Android wallet developed by NEO dev Peter Lin
 - [iWallic](https://iwallic.com/en/index.html) - Web and Android wallet
