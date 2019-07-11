@@ -38,7 +38,7 @@
 ## White Papers
 
 - [Original](https://docs.neo.org/en-us/index.html) - English translation of main white paper.
-- [Smart Contracts](https://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
+- [Smart Contracts](https://docs.neo.org/en-us/basic/neocontract.html) - English translation of smart contracts white paper.
 
 
 ## Blockchain Bootstrap Files
