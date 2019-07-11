@@ -226,7 +226,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
 - [neowallet](https://neowallet.cn) - Web based wallet using API.
 - [Aphelion Wallet](https://aphelion.org/#wallet) - Desktop, iOS, Android and web wallet
-- [InWe Wallet](https://inwecrypto.com/en/download) - macOS, Windows, Linux, iOS and Android wallet
 - [NEO App](https://play.google.com/store/apps/details?id=neo.app) - Android wallet developed by NEO dev Peter Lin
 - [iWallic](https://iwallic.com/en/index.html) - Web and Android wallet
 ---
