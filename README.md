@@ -215,11 +215,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [ICO contract in Go](https://medium.com/@likkee.chong/neo-token-contract-nep-5-in-go-f6b0102c59ee) - Step-by-step guide on issuing your NEP-5 token on NEO’s Private net using Go
 - [neo-storm](https://github.com/CityOfZion/neo-storm) - Smart contract framework for the NEO smart economy written in the Go programming language
 
-### Kotlin
-
-- [Kotlin smart contracts](https://github.com/neo-project/examples-kotlin) - Examples of smart contracts written in Kotlin from NEO core team.
-
-
 ## Wallets
 
 - [neon-wallet](https://github.com/CityOfZion/neon-wallet) - A light wallet for the blockchain.
