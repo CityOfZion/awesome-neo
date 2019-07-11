@@ -87,8 +87,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
 - [Network Protocol](https://docs.neo.org/en-us/network/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
-- [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
-- [Using Random Numbers in NEO SC](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d) - Tutorial by Jason Perry on Random Number Generation using NEO Smart Contracts
 
 
 ## Economy
@@ -153,8 +151,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [How to build an ICO on NEO with the NEX ICO smart contract template](https://medium.com/proof-of-working/how-to-build-an-ico-on-neo-with-the-nex-ico-smart-contract-template-1beac1ff0afd)
 - [How to run a private network of the NEO blockchain](https://medium.com/proof-of-working/how-to-run-a-private-network-of-the-neo-blockchain-d83004557359)
 - [Installing and Running a NEO Blockchain Node using neo-python on Windows 10](https://medium.com/@gubanotorious/installing-and-running-neo-python-on-windows-10-284fb518b213)
-- [Test Networks and Fund Requests for Smart Contract and dApp Testing on the NEO Blockchain](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412)
-- [Using Random Numbers in Neo Smart Contracts](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d)
 
 
 ## PrivateNet Setup
