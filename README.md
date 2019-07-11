@@ -45,13 +45,9 @@
 
 Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412) on how to use bootstrap files:
 
-### MainNet (2.7.6+)
+### MainNet and TestNet (2.7.6+)
 
 - [NGD Bootstrap Files (Azure)](https://sync.ngd.network/)
-
-### TestNet (2.7.6+)
-
-- [NGD Bootstrap Files (Azure)](https://sync.ngd.network/) Select 'Testnet' tab
 
 ## Blockchain Explorers
 
