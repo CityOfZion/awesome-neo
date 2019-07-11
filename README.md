@@ -37,8 +37,8 @@
 
 ## White Papers
 
-- [Original](http://docs.neo.org/en-us/index.html) - English translation of main white paper.
-- [Smart Contracts](http://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
+- [Original](https://docs.neo.org/en-us/index.html) - English translation of main white paper.
+- [Smart Contracts](https://docs.neo.org/en-us/sc/introduction.html) - English translation of smart contracts white paper.
 
 
 ## Blockchain Bootstrap Files
@@ -47,11 +47,11 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ### MainNet (2.7.6+)
 
-- [NGD Bootstrap Files (Azure)](http://sync.ngd.network/)
+- [NGD Bootstrap Files (Azure)](https://sync.ngd.network/)
 
 ### TestNet (2.7.6+)
 
-- [NGD Bootstrap Files (Azure)](http://sync.ngd.network/) Select 'Testnet' tab
+- [NGD Bootstrap Files (Azure)](https://sync.ngd.network/) Select 'Testnet' tab
 
 ## Blockchain Explorers
 
@@ -70,22 +70,22 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [Github](https://github.com/CityOfZion) - Code repositories owned by CoZ.
 - [Medium](https://medium.com/proof-of-working) - Weekly reports from CoZ.
 - [Twitter](https://twitter.com/coz_official) - Twitter account of CoZ.
-- [Website](http://cityofzion.io) - Homepage for CoZ.
+- [Website](https://cityofzion.io/) - Homepage for CoZ.
 
 
 ## Current dApps
 
-- [NEO dApp List (neo.org)](http://ndapp.org/) - Official list of dApps maintained by the NEO Council.
+- [NEO dApp List (neo.org)](https://ndapp.org/) - Official list of dApps maintained by the NEO Council.
 
 
 ## General Developer Documentation
 
 - [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
-- [delegated Byzantine Fault Tolerance 2.0](https://github.com/NeoResearch/yellowpaper/raw/master/releases/08_dBFT.pdf) - Explanation of the consensus algorithm used by the blockchain.
-- [Documentation](http://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
+- [delegated Byzantine Fault Tolerance 2.0](https://raw.githubusercontent.com/NeoResearch/yellowpaper/master/releases/08_dBFT.pdf) - Explanation of the consensus algorithm used by the blockchain.
+- [Documentation](https://docs.neo.org/en-us/getting-started.html) - Official getting started documentation from the NEO team.
 - [Getting Started Videos](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
-- [Network Protocol](http://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
+- [Network Protocol](https://docs.neo.org/en-us/node/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 - [Using Random Numbers in NEO SC](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d) - Tutorial by Jason Perry on Random Number Generation using NEO Smart Contracts
@@ -144,7 +144,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## Published Articles
 
-- [Building a NEO-Python API Server on Windows WSL (Ubuntu)](https://medium.com/@jseagrave21/building-a-neo-python-api-server-on-windows-wsl-ubuntu-dfd62185ae9e)
+- [Building a NEO-Python API Server on Windows WSL (Ubuntu)](https://medium.com/coinmonks/building-a-neo-python-api-server-on-windows-wsl-ubuntu-dfd62185ae9e)
 - [Coopetition: A New Approach to Decentralization](https://medium.com/proof-of-working/decentralization-from-coopetition-b10d7ce3b9d)
 - [CoZ first dApps competition dApp review](https://medium.com/proof-of-working/coz-first-dapps-competition-dapp-review-3a6b284afaef)
 - [Creating and running a NEO Node on Microsoft Azure in under 30 minutes](https://medium.com/@gubanotorious/creating-and-running-a-neo-node-on-microsoft-azure-in-under-30-minutes-ad8d79b9edf)
@@ -154,7 +154,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [How to run a private network of the NEO blockchain](https://medium.com/proof-of-working/how-to-run-a-private-network-of-the-neo-blockchain-d83004557359)
 - [Installing and Running a NEO Blockchain Node using neo-python on Windows 10](https://medium.com/@gubanotorious/installing-and-running-neo-python-on-windows-10-284fb518b213)
 - [Test Networks and Fund Requests for Smart Contract and dApp Testing on the NEO Blockchain](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412)
-- [Using Random Numbers in Neo Smart Contracts](https://medium.com/@ambethia/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d)
+- [Using Random Numbers in Neo Smart Contracts](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d)
 
 
 ## PrivateNet Setup
@@ -182,8 +182,8 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 ## Smart Contract Development
 
 - [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
-- [Documentation](http://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
-- [Fees](http://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
+- [Documentation](https://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
+- [Fees](https://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
 - [Using Random Numbers in NEO SC](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d) - Tutorial by Jason Perry on Random Number Generation using NEO Smart Contracts
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 
@@ -191,7 +191,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 - [C# smart contracts](https://github.com/neo-project/examples/tree/master/csharp) - Examples of smart contracts written in C# from NEO core team.
 - [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
-- [C# tutorial](http://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
+- [C# tutorial](https://docs.neo.org/en-us/sc/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
 - [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/README.md) - Complete (very detailed) step-by-step guidance with screen shots
 - [NEO Blockchain Architecture Reference Model for .NET Developers (neo-charm)](https://github.com/mwherman2000/neo-charm/blob/master/README.md) - Architecture reference model for .NET developers
 
@@ -199,7 +199,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 - [Java smart contracts](https://github.com/neo-project/examples/tree/master/java) - Examples of smart contracts written in Java from NEO core team.
 - [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
-- [Java tutorial](http://docs.neo.org/en-us/sc/getting-started-java.html) - Tutorial on writing smart contracts in Java.
+- [Java tutorial](https://docs.neo.org/en-us/sc/getting-started-java.html) - Tutorial on writing smart contracts in Java.
 - [Java tutorial (OSX)](https://www.youtube.com/watch?v=2EYK1ogr5i4) - Setup neoj compiler on OSX
 
 ### Python
@@ -211,7 +211,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ### Go
 
-- [ICO contract in Go](https://medium.com/@likkee.chong/neo-token-contract-nep-5-in-go-f6b0102c59ee) - Step-by-step guide on issuing your NEP-5 token on NEO’s Private net using Go
+- [ICO contract in Go](https://medium.com/coinmonks/neo-token-contract-nep-5-in-go-f6b0102c59ee) - Step-by-step guide on issuing your NEP-5 token on NEO’s Private net using Go
 - [neo-storm](https://github.com/CityOfZion/neo-storm) - Smart contract framework for the NEO smart economy written in the Go programming language
 
 ## Wallets
@@ -220,13 +220,13 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [O<sub>3</sub>](https://o3.network/) - macOS, Windows, Linux, iOS and Android wallet
 - [ansy](https://snowypowers.github.io/ansy/) - A minimal paper wallet generator.
 - [SEA Wallet](https://otcgo.cn/#/) - A Chinese asset management platform. *Chinese interface*
-- [Ledger Wallet](https://www.ledgerwallet.com/apps/manager) - The app for the Ledger is available on the app store. Created by coranos2.
+- [Ledger Wallet](https://www.ledger.com/pages/ledger-live) - The app for the Ledger is available on the app store. Created by coranos2.
 - [neo-cli](https://github.com/neo-project/neo-cli/) - An official wallet built by the core team, which is command-line based.
 - [neo-gui](https://github.com/neo-project/neo-gui/) - An official wallet built by the core team, which has a UI.
 - [neotracker.io](https://neotracker.io/wallet) - A web based wallet.
 - [neowallet](https://neowallet.cn) - Web based wallet using API.
 - [Aphelion Wallet](https://aphelion.org/#wallet) - Desktop, iOS, Android and web wallet
-- [InWe Wallet](http://inwecrypto.com/en/download) - macOS, Windows, Linux, iOS and Android wallet
+- [InWe Wallet](https://inwecrypto.com/en/download) - macOS, Windows, Linux, iOS and Android wallet
 - [NEO App](https://play.google.com/store/apps/details?id=neo.app) - Android wallet developed by NEO dev Peter Lin
 - [iWallic](https://iwallic.com/en/index.html) - Web and Android wallet
 ---
