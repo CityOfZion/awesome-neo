@@ -161,11 +161,13 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 - [neo-go](https://github.com/CityOfZion/neo-go) - Golang Node and SDK for the NEO blockchain.
 - [neo-go-sdk](https://github.com/CityOfZion/neo-go-sdk) - Golang SDK for the NEO blockchain.
+- [neo-utils](https://github.com/O3Labs/neo-utils) - Golang SDK for the NEO blockchain developed by O3.
 - [neo-js](https://github.com/CityOfZion/neo-js) - Javascript Node and SDK for the NEO blockchain.
 - [neon-js](https://github.com/CityOfZion/neon-js) - Javascript libraries that allow the Neon wallet to interact with NEO blockchain.
 - [neo-php](https://github.com/CityOfZion/neo-php) - PHP Wrapper for Neo Blockchain API.
 - [neo-python](https://github.com/CityOfZion/neo-python) - Python Node and SDK for the NEO blockchain.
-- [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for Neo Blockchain API.
+- [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for NEO Blockchain API.
+- [neovm-utils](https://github.com/Ryucoin/neovm-utils) - Swift SDK for NEOVM blockchains built off of O3's neo-utils developed by Ryu Games.
 - [neo-lux](https://github.com/CityOfZion/neo-lux) - .NET SDK to interact with the NEO blockchain and invoke smart contracts
 - [NeoModules](https://github.com/CityOfZion/NeoModules) - C# SDK and set of light clients (REST and RPC) of the most poupular APIs in Neo ecosystem.
 
