@@ -37,8 +37,8 @@
 
 ## White Papers
 
-- [Original](https://docs.neo.org/en-us/index.html) - English translation of main white paper.
-- [Smart Contracts](https://docs.neo.org/en-us/basic/neocontract.html) - English translation of smart contracts white paper.
+- [Original](https://docs.neo.org/docs/en-us/index.html) - English translation of main white paper.
+- [Smart Contracts](https://docs.neo.org/docs/en-us/basic/technology/neocontract.html) - English translation of smart contracts white paper.
 
 
 ## Blockchain Bootstrap Files
@@ -78,10 +78,10 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 - [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
 - [delegated Byzantine Fault Tolerance 2.0](https://raw.githubusercontent.com/NeoResearch/yellowpaper/master/releases/08_dBFT.pdf) - Explanation of the consensus algorithm used by the blockchain.
-- [Documentation](https://docs.neo.org/en-us/sc/gettingstarted/introduction.html) - Official getting started documentation from the NEO team.
+- [Documentation](https://docs.neo.org/docs/en-us/sc/gettingstarted/introduction.html) - Official getting started documentation from the NEO team.
 - [Getting Started Videos](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
-- [Network Protocol](https://docs.neo.org/en-us/network/network-protocol.html) - Explanation of how NEO nodes communicate.
+- [Network Protocol](https://docs.neo.org/docs/en-us/tooldev/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 
 
@@ -175,8 +175,8 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 ## Smart Contract Development
 
 - [dAppTemplate_MEAN](https://github.com/CityOfZion/dAppTemplate_MEAN) - Interface for communicating with NEO nodes, to help with development of a dApp.
-- [Documentation](https://docs.neo.org/en-us/sc/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
-- [Fees](https://docs.neo.org/en-us/sc/systemfees.html) - Blog post about how smart contracts are priced.
+- [Documentation](https://docs.neo.org/docs/en-us/sc/gettingstarted/introduction.html) - Official getting started documentation from the NEO team for smart contracts.
+- [Fees](https://docs.neo.org/docs/en-us/sc/fees.html) - Blog post about how smart contracts are priced.
 - [Using Random Numbers in NEO SC](https://medium.com/verisfoundation/using-random-numbers-in-neo-smart-contracts-af7fecd2a23d) - Tutorial by Jason Perry on Random Number Generation using NEO Smart Contracts
 - [Video tutorial](https://www.youtube.com/watch?v=2RWegc0DWmQ&list=PL_vIhjXh1UTodKsr3uMkFJiMRAZNlJeSX) - YouTube series on smart contract programming.
 
@@ -184,7 +184,8 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 - [C# smart contracts](https://github.com/neo-project/examples/tree/master/csharp) - Examples of smart contracts written in C# from NEO core team.
 - [Complementary C# guide](https://steemit.com/neo/@cybourgeoisie/neo-contract-development-common-pitfalls-using-windows-7) - Solutions to common problems when setting up dev environment
-- [C# tutorial](https://docs.neo.org/en-us/sc/quickstart/getting-started-csharp.html) - Tutorial on writing smart contracts in C#.
+- [Development environment setup on Ubuntu](https://docs.neo.org/docs/en-us/sc/devenv/getting-started-csharp-ubuntu.html) - Tutorial on setting up a C# development environment on Ubuntu.
+- [Development environment setup on Mac](https://docs.neo.org/docs/en-us/sc/devenv/getting-started-csharp-mac.html) - Tutorial on setting up a C# development environment on Mac.
 - [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/README.md) - Complete (very detailed) step-by-step guidance with screen shots
 - [NEO Blockchain Architecture Reference Model for .NET Developers (neo-charm)](https://github.com/mwherman2000/neo-charm/blob/master/README.md) - Architecture reference model for .NET developers
 
@@ -192,7 +193,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 - [Java smart contracts](https://github.com/neo-project/examples/tree/master/java) - Examples of smart contracts written in Java from NEO core team.
 - [Java guide](https://www.youtube.com/watch?v=k1a4rTl01mQ) - Step-by-step guide for writing and deploying a smart contract in Java.
-- [Java tutorial](https://docs.neo.org/en-us/sc/quickstart/getting-started-java.html) - Tutorial on writing smart contracts in Java.
+- [Java tutorial](https://docs.neo.org/docs/en-us/sc/devenv/getting-started-java.html) - Tutorial on writing smart contracts in Java.
 - [Java tutorial (OSX)](https://www.youtube.com/watch?v=2EYK1ogr5i4) - Setup neoj compiler on OSX
 
 ### Python
