@@ -24,7 +24,6 @@
 - [General Developer Documentation](#general-developer-documentation)
 - [ICOs on NEO](#icos-on-neo)
 - [Information Blogs](#information-blogs)
-- [Merchandise](#merchandise)
 - [NEO Competitions](#neo-competitions)
 - [Network Monitoring](#network-monitoring)
 - [Published Articles](#published-articles)
@@ -119,11 +118,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [NEO Subreddit](https://www.reddit.com/r/NEO/) - A forum where fans of NEO can discuss events and post information.
 - [NEO Twitter account](https://twitter.com/neo_blockchain) - Official Twitter account of the NEO team.
 - [NEO YouTube](https://www.youtube.com/channel/UCl1AwEDN0w5lTmfJEMsY5Vw/videos) - The official YouTube account of the NEO Team.
-
-
-## Merchandise
-
-- [Merchandise page](/resources/neo-merchandise.md) - A page with merchandise.
 
 
 ## NEO Competitions
