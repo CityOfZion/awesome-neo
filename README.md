@@ -90,7 +90,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## Frequently Asked Questions
 
-- [FAQ page](resources/faq.md) - A page with frequently asked questions.
+- [FAQ page](https://docs.neo.org/faq/en-us/basic.html) - A page with frequently asked questions.
 
 
 ## GAS Calculators
