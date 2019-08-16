@@ -50,7 +50,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## Blockchain Explorers
 
-- [antcha.in](http://antcha.in/) - Mature explorer from before the re-brand.
 - [scan.nel.group](https://scan.nel.group/#mainnet) - NEL NEO Mainnet Explorer.
 - [neoscan.io](https://neoscan.io/) - NEO Mainnet Explorer created by CoZ.
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by the Neo Tracker team.
