@@ -74,6 +74,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 
 ## General Developer Documentation
 
+- [Awesome NEO Docs](https://github.com/CityOfZion/awesome-neo-docs) - A curated and categorised list of awesome developer documentation
 - [Consensus node setup guide](https://github.com/CityOfZion/standards/blob/master/nodes.md) - Recommended step by step guide for consensus node setup
 - [delegated Byzantine Fault Tolerance 2.0](https://raw.githubusercontent.com/NeoResearch/yellowpaper/master/releases/08_dBFT.pdf) - Explanation of the consensus algorithm used by the blockchain.
 - [Documentation](https://docs.neo.org/docs/en-us/sc/gettingstarted/introduction.html) - Official getting started documentation from the NEO team.
