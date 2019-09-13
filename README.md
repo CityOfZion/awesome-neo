@@ -54,7 +54,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neoscan.io](https://neoscan.io/) - NEO Mainnet Explorer created by CoZ.
 - [neotracker.io](https://neotracker.io/) - MainNet and TestNet explorer, created by the Neo Tracker team.
 - [NEO TestNet neoscan.io](https://neoscan-testnet.io/) - Neoscan for NEO TestNet
-- [CoZ TestNet neoscan.io](https://coz.neoscan-testnet.io/) - Neoscan for CoZ TestNet
 
 
 ## City of Zion
