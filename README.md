@@ -159,7 +159,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [neo-php](https://github.com/CityOfZion/neo-php) - PHP Wrapper for Neo Blockchain API.
 - [neo-python](https://github.com/CityOfZion/neo-python) - Python Node and SDK for the NEO blockchain.
 - [neo-swift](https://github.com/CityOfZion/neo-swift) - Swift Wrapper for NEO Blockchain API.
-- [neovm-utils](https://github.com/Ryucoin/neovm-utils) - Swift SDK for NEOVM blockchains built off of O3's neo-utils developed by Ryu Games.
+- [neovm-utils](https://github.com/RyuGames/neovm-utils) - Swift SDK for NEOVM blockchains built off of O3's neo-utils developed by Ryu Games.
 - [neo-lux](https://github.com/CityOfZion/neo-lux) - .NET SDK to interact with the NEO blockchain and invoke smart contracts
 - [NeoModules](https://github.com/CityOfZion/NeoModules) - C# SDK and set of light clients (REST and RPC) of the most poupular APIs in Neo ecosystem.
 
