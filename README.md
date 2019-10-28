@@ -79,7 +79,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 - [Documentation](https://docs.neo.org/docs/en-us/sc/gettingstarted/introduction.html) - Official getting started documentation from the NEO team.
 - [Getting Started Videos](https://www.youtube.com/playlist?list=PLH5FKiukNRU5SHWk9L6qPwRhMeHsiKL2T) - Chinese tutorial video series (with English subtitles).
 - [NEO Enhancement Proposals (NEP)](https://github.com/neo-project/proposals) - NEPs describe standards for the NEO platform.
-- [Network Protocol](https://docs.neo.org/docs/en-us/tooldev/network-protocol.html) - Explanation of how NEO nodes communicate.
+- [Network Protocol](https://docs.neo.org/docs/en-us/tooldev/advanced/network-protocol.html) - Explanation of how NEO nodes communicate.
 - [Video overviews](https://www.youtube.com/channel/UCzlQUNLrRa8qJkz40G91iJg/videos) - Summary of CoZ project features.
 
 
