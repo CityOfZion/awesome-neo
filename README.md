@@ -144,9 +144,6 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 ## PrivateNet Setup
 
 - [neo-local](https://github.com/CityOfZion/neo-local) - Start a local NEO blockchain with a single command.
-- [NEON DB for private nets](https://gist.github.com/birmas/689c37e43c7f55745233d3aeb794f833) - Setup for a NEON database to work with a private net.
-- [NEON DB for private nets #2](https://github.com/ixje/neon-wallet-db/blob/master/privnet-install.md) - Setup NEON database inside the private net docker (verbose steps)
-- [Neoscan for private nets](https://github.com/slipo/neo-scan-docker) - Setup for neoscan to work with a private net. There's also a docker-compose.yml file to easily setup a fully-functional [privnet with gas image](https://hub.docker.com/r/metachris/neo-privnet-with-gas/) along with neoscan.
 - [Private Net Docker](https://github.com/CityOfZion/neo-privatenet-docker) - Setup for a private NEO blockchain with an Ubuntu 16.04 docker image.
 
 ## SDKs
