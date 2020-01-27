@@ -149,9 +149,7 @@ Please refer to [this tutorial](https://medium.com/@gubanotorious/test-networks-
 ## SDKs
 
 - [neo-go](https://github.com/nspcc-dev/neo-go) - Golang Node and SDK for the NEO blockchain.
-- [neo-go-sdk](https://github.com/CityOfZion/neo-go-sdk) - Golang SDK for the NEO blockchain.
 - [neo-utils](https://github.com/O3Labs/neo-utils) - Golang SDK for the NEO blockchain developed by O3.
-- [neo-js](https://github.com/CityOfZion/neo-js) - Javascript Node and SDK for the NEO blockchain.
 - [neon-js](https://github.com/CityOfZion/neon-js) - Javascript libraries that allow the Neon wallet to interact with NEO blockchain.
 - [neo-php](https://github.com/CityOfZion/neo-php) - PHP Wrapper for Neo Blockchain API.
 - [neo-python](https://github.com/CityOfZion/neo-python) - Python Node and SDK for the NEO blockchain.
